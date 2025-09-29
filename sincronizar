@@ -1,0 +1,11 @@
+read -p= direccion
+
+git config --global user.name "jffuentes-15"
+
+git config --global user.email "fuentestriguerosjesus@gmail.com"
+
+git config --global init.defaultbranch main
+
+git init
+
+git remote add origin $direccion
