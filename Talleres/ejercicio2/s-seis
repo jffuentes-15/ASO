@@ -1,0 +1,17 @@
+#! /bin/bash
+
+
+echo "TYPE USER:";  #con este echo le idicamos al la persona detras de la pantalla que debe escribir
+
+read -p= USUARIO;    #read va esperar a que se escriba algo y lo metera en la variable USUARIO
+
+
+CHECK=$(who | cut -f1 -d" " | grep $USUARIO);  #con esta linea introducimos en la variable CHECK el contenido del comando
+					       #El cual mira los usuarios conectados del sistema con who, cut para que solo nos muestre el nombre de usuario y el grep para que busque y solo muestre el usuario escrito manualmente definido en la anterior variable
+                                               #es decir que la variable CHECK tendra el usuario escrito solo si esta conectado en el sistema
+if [ -z $CHECK ]; then
+        echo "User $USUARIO is not conected";       #con el if comprobamos que la variable este vacia lo que significaria que no hay un usuario conectado con el nombre escrito anteriormente y se muestra que no hay usuario conectado
+else
+	echo "user $USUARIO is already conected";   #si no se cumple el if significa que la variable CHECK no esta vacia por lo que si esta conectado
+	exit;
+fi;

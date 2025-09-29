@@ -1,0 +1,208 @@
+cron es un demonio que se ejecuta continuamente y se activa cada minuto 
+para comprobar un conjunto de tablas en busca de tareas a ejecutar. 
+Estas tablas se conocen como crontabs y contienen las llamadas cron jobs.
+
+Cron es adecuado para servidores y sistemas que están encendidos constantemente,
+porque cada trabajo de cron se ejecuta sólo si el sistema se está ejecutando 
+a la hora programada.
+
+
+Para portatiles existe anacron, que si a la hora programada esta apagado
+se ejecutara la prosima vez que se encienda el dispositivo y se use el comando anacron
+y solo puede ser usado por root
+
+Los contab de usuarios suelen congar de algun subdirectorio de /var/spool/cron
+y suelen tener el nombre del usuario al que pertenece.
+
+Cada línea en un crontab de usuario contiene seis campos separados por un espacio:
+
+
+
+    El minuto de la hora (0-59).
+
+    La hora del día (0-23).
+
+    El día del mes (1-31).
+
+    El mes del año (1-12).
+
+    El día de la semana (0-7 con domingo=0 o domingo=7).
+
+    La orden a ejecutar.
+
+En los primeros 5 campos puedes usar alguno de estos valores para especificar x accion
+
+
+* (asterisco)
+
+    Se refiere a cualquier valor.
+, (coma)
+
+    Especifica una lista de posibles valores.
+- (guión)
+
+    Especifica un rango de valores posibles.
+/ (slash)
+
+    Especifica valores escalonados.
+
+
+ejemplo de un archivo que puede ser usado como referencia en un archivo cron en
+	/home/jffuetri/Escritorio/2ASIR/Bloque2/ejemploCron
+
+
+
+
+	CRONTABS DE SISTEMA
+gestionan la programacion del sistema y solo son administrados por el usuario root
+estan en /etc/crontab y /etc/cron.d
+
+	SINTAXIS
+
+
+    El minuto de la hora (0-59).
+
+    La hora del día (0-23).
+
+    El día del mes (1-31).
+
+    El mes del año (1-12).
+
+    El día de la semana (0-7 con domingo=0 o domingo=7).
+
+    El nombre de la cuenta de usuario que se utilizará al ejecutar el comando.
+
+    El comando a ejecutar.
+
+
+Tambien se pueden sustituir las especipicaciones de tiempo por lo siguiente
+
+
+@reboot
+
+    Ejecutar la tarea especificada una vez después de reiniciar.
+@hourly
+
+    Ejecutar la tarea especificada una vez por hora al iniciar.
+@daily (o @midnight)
+
+    Ejecutar la tarea especificada una vez al día a medianoche.
+@weekly
+
+    Ejecutar la tarea especificada una vez a la semana a medianoche del domingo.
+@monthly
+
+    Ejecutar la tarea especificada una vez al mes a la medianoche del primer día del mes.
+@yearly (o @annually)
+
+    Ejecutar la tarea especificada una vez al año a medianoche del 1 de enero.
+
+
+	Variables de Crontab
+
+
+HOME
+
+    El directorio donde cron invoca los comandos (por defecto el directorio principal del usuario).
+
+MAILTO
+
+    El nombre del usuario o la dirección a la que se envía la salida estándar y el error (por defecto, el propietario del crontab). También se permiten múltiples valores separados por comas y un valor vacío indica que no se debe enviar ningún correo.
+
+PATH
+
+    La ubicación de los comandos en los sistemas de archivos.
+
+SHELL
+
+    El shell a usar (por defecto /bin/sh).
+
+
+	CREAR TRABAJOS EN UN CRON DE USUARIO
+El comando crontab se usa para mantener los archivos crontab para usuarios individuales.
+En particular, puede ejecutar el comando crontab -e para editar su propio archivo
+crontab o para crear uno si aún no existe.
+
+Si quiere ejecutar el script foo.sh ubicado en su directorio principal todos los días
+a las 10:00 am, puede agregar la siguiente línea a su archivo crontab:
+
+	0 10 * * * /home/frank/foo.sh
+
+
+Además de la opción -e mencionada anteriormente, el comando crontab tiene otras opciones
+
+-l
+
+    Muestra el crontab actual en la salida estándar.
+-r
+
+    Quita el crontab actual.
+-u
+
+    Especifica el nombre del usuario cuyo crontab necesita ser modificado.
+
+
+	Crear archivos cron de sistema
+
+A diferencia de los crontabs de usuario, los crontabs de sistema se actualizan 
+usando un editor: por lo tanto, no es necesario ejecutar el comando crontab 
+para editar /etc/crontab y los archivos en /etc/cron.d. Recuerde que 
+cuando edite los crontabs del sistema, debe especificar la cuenta que se usará
+para ejecutar el trabajo cron (normalmente el usuario root).
+
+
+	Configurar el acceso a la programación de tareas
+
+En Linux los archivos /etc/cron.allow y /etc/cron.deny se usan para establecer las 
+restricciones las restricciones crontab. En palticular, se usan para permitir o no
+la prgramacion de trabajos cron para diferentes usuarios. si existe el archivo 
+/etc/cron.allow , solo los usuarios no root listados en el pueden programar trabajos 
+usando crontab. Si /etc/cron.allow no existe pero /etc/cron.deny existe solo los 
+usuarios no root listados dentro de este archivo no pueden programar trabajos crontab
+
+
+	UNA ALTERNATIVA A CROM
+
+usando systemd como el administrador del sistema y del servicio, puede establecer
+timers como una alternativa a cron para programar sus tareas.
+los temporizadores son archivos de unidad systemd indentificados por el sufijo .timer
+y para cada uno de ellos debe haber un archivo de unidad correspondiente que
+describa la unidad que se activara cuando el temposrizador transcurra. por defecto,
+un timer activa un servicio con el mismo nombre excepto por el sufijo.
+
+Por ejemplo, si quiere ejecutar el servicio llamado /etc/systemd/system/foobar.service
+a las 05:30 del primer lunes de cada mes, puede añadir las siguientes líneas en el 
+archivo correspondiente de la unidad /etc/systemd/system/foobar.timer.
+
+Una vez que haya creado el nuevo temporizador, puede activarlo e iniciarlo 
+ejecutando los siguientes comandos como root:
+
+# systemctl enable foobar.timer
+# systemctl start foobar.timer
+
+Puede cambiar la frecuencia de su trabajo programado, modificando el valor OnCalendar
+y luego escribiendo el comando Systemctl daemon-reload.
+
+
+En lugar de la formas mencionadas anteriormente, se pueden utilizar algunas
+expresiones especiales que describen frecuencias particulares para la ejecución
+del trabajo:
+
+
+hourly
+
+    Ejecutar la tarea especificada una vez por hora al comienzo de la hora.
+daily
+
+    Ejecutar la tarea especificada una vez al día a medianoche.
+weekly
+
+    Ejecutar la tarea especificada una vez a la semana a medianoche del lunes.
+monthly
+
+    Ejecutar la tarea especificada una vez al mes a la medianoche del primer día del mes.
+yearly
+
+    Ejecutar la tarea especificada una vez al año a medianoche del primer día de enero.
+
+
