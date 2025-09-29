@@ -1,0 +1,53 @@
+	INTRODUCCION
+
+Como aprendimos en la leccion anterior, puede programar tareas regulares usando archivos
+cron, pero a veces puede necesitar ejecutar una tarea en un momento específico
+en el futuro. Para ello, es posible usar otra poderosa utilidad: el comando at.
+
+
+	PROGRAMAR TAREAS CON AT
+
+El comando at se utiliza para la programación de tareas una única vez y sólo requiere
+que se especifique cuándo se deba ejecutar una tarea en el futuro. 
+	at now +5 minutes
+	warning: commands will be executed using /bin/sh
+	at> date
+	at> Ctrl+D
+	job 12 at Sat Sep 14 09:15:00 2019
+a los 5 min se ejecutara el comando date. y se pueden ver los job con atq
+
+
+	OPCIONES MAS IMPORTANTES
+
+-c
+
+    Imprime los comandos de una tarea específica (por medio del ID) a la salida estándar.
+    el numero del job como ID
+
+-d
+
+    borra las tareas basadas en su ID. Tmb atrm
+
+-f
+
+    lee las tareas desde un archivo en lugar de la entrada estandar
+
+-l 
+
+    Lista las tareas pendiente de los usuarios. lo mismo que atq
+
+-m
+
+    Envia un correo al usuario al final de la tarea aun que no haya mostrado salida
+
+
+-q 
+
+   Especifica una cola en forma de una sola letra de la "a" a "z" y de "A" a "Z"
+   Las tareas en las colas con las letras mas altas se ejecutan con mayor prioridad
+
+-v
+
+   Muestra el tiempo en el que la tarea se ejecuta antes de leerla
+
+
