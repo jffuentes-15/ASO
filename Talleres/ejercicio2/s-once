@@ -1,0 +1,12 @@
+#! /bin/bash
+
+echo "Type the Users to see their groups"
+
+read -p= A;
+
+echo " "
+echo "================================================="
+echo "================================================="
+echo " "
+
+groups $A;
