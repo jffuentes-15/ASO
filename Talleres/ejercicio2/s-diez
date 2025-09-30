@@ -1,0 +1,19 @@
+#! /bin/bash
+
+echo "Type the names of files separated by spaces"
+
+read -a FILES;
+
+SICE=${#FILES[@]};
+
+
+for ((i=0; i<$SICE; i++)); do
+ 	A=$(ls -l ${FILES[$i]} | cut -f3 -d" ")
+
+	if [[ "$A" == "$USER" ]]; then
+		chmod +x ${FILES[$i]};
+	else
+		echo "el archivo ${FILES[$i]} no pertenece a $USER "
+	fi
+done
+
