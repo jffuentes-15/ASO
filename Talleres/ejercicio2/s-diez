@@ -13,7 +13,7 @@ for ((i=0; i<$SICE; i++)); do
 	if [[ "$A" == "$USER" ]]; then
 		chmod +x ${FILES[$i]};
 	else
-		echo "el archivo ${FILES[$i]} no pertenece a $USER "
+		echo "The file ${FILES[$i]} is not owned by $USER"
 	fi
 done
 
