@@ -1,0 +1,14 @@
+#!/bin/bash
+
+TODO=("$@");
+
+#echo ${TODO[@]}
+
+for ((i=0; i<$#; i++)) do
+	USUARIO=$(ls -l ${TODO[$i]} | cut -f3 -d" ")
+	if [[ $USUARIO == $USER ]]; then
+	chmod o+x ${TODO[$i]};
+	else
+	echo "el usuario $USER no es propietario de ${TODO[$i]}"
+	fi
+done
