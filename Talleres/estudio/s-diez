@@ -1,0 +1,11 @@
+#!/bin/bash
+
+for i in $@; do
+	USUARIO=$(ls -l $i 2>/dev/null | cut -f3 -d" ");
+	if [[ $USUARIO == $USER ]]; then
+		chmod o+x $i 2>/dev/null;
+	else
+		echo "El usuario $USER no es propietario de $i"
+	fi
+
+done

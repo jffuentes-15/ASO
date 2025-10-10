@@ -35,8 +35,8 @@ select opt in "$opt1" "$opt2" "$opt3" "$opt4" "$opt5" ; do
 		read -pDirectorio= DIR
 
 		if [[ $DIR == +([[:alnum:]]) ]]; then
-			mkdir $DIR;
-			echo "se ha creado el directorio " $DIR;
+			mkdir $DIR 2>/dev/null;
+			echo "se ha creado el directorio" $DIR;
 			else
 			echo "Escribe un valor alfanumerico"
 		fi
@@ -47,7 +47,7 @@ select opt in "$opt1" "$opt2" "$opt3" "$opt4" "$opt5" ; do
 
                 if [[ $DIR == +([[:alnum:]]) ]]; then
                         rm -r $DIR;
-                        echo "se ha eliminado el directorio " $DIR;
+                        echo "se ha eliminado el directorio" $DIR;
                         else
                         echo "Escribe un valor alfanumerico"
                 fi

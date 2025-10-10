@@ -1,0 +1,18 @@
+#!/bin/bash
+
+if [[ -z $2 ]]; then
+	if [[ $1 =~ ^/ ]]; then
+
+		if [[ -f $1 && "ASCII text" == $(file -b $1) ]]; then
+			cat $1
+		else
+			echo "El fichero tiene que ser un archivo regular que solo contenga texto";
+		fi
+
+	else
+		echo "el valor tiene que ser una ruta absoluta"
+	fi
+
+else
+	echo "escribe solo un parametro";
+fi
