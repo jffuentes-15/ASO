@@ -1,0 +1,56 @@
+#!/bin/bash
+PS3="Elige un numero==>"
+opt1="Muestra el path absoluto del directorio actual";
+opt2="Lista el contenido del directorio actual";
+opt3="Crea un subdirectorio en el directorio actual";
+opt4="Borrar un subdirectorio y todo su contenido del directorio actual";
+opt5="Salir"
+
+select opt in "$opt1" "$opt2" "$opt3" "$opt4" "$opt5" ; do
+
+	if [[
+		"$opt" != "$opt1" &&
+		"$opt" != "$opt2" &&
+		"$opt" != "$opt3" &&
+		"$opt" != "$opt4" &&
+		"$opt" != "$opt5"
+
+	]]; then
+		echo "elige una opcion valida"
+	fi
+
+	[[ $opt == $opt5 ]]
+		exit;
+
+	if [[ $opt == $opt1 ]]; then
+		pwd;
+	fi
+
+	if [[ $opt == $opt2 ]]; then
+		ls -al .;
+	fi
+
+	if [[ $opt == $opt3 ]]; then
+		read -pDirectorio= DIR
+
+		if [[ $DIR == +([[:alnum:]]) ]]; then
+			mkdir $DIR 2>/dev/null;
+			echo "se ha creado el directorio" $DIR;
+			else
+			echo "Escribe un valor alfanumerico"
+		fi
+	fi
+
+	if [[ $opt == $opt4 ]]; then
+		read -pDirectorio= DIR
+
+                if [[ $DIR == +([[:alnum:]]) ]]; then
+                        rm -r $DIR;
+                        echo "se ha eliminado el directorio" $DIR;
+                        else
+                        echo "Escribe un valor alfanumerico"
+                fi
+
+	fi
+
+done
