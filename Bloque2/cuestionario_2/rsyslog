@@ -1,0 +1,48 @@
+rsyslog (rocket-fast system log proces)
+rsyslogd es el daemon 
+los log se almacenan en /var/log
+
+
+en /var/log/auth.log se guarda informacion referente a procesos de autentificacion, usuarios registrados e informacion sudo.
+
+/var/log/debug
+	informacion de depuracion de programas
+
+/var/log/kern.log
+	mensajes del kernel
+
+/var/log/messages
+	mensajes informativos que no estan relacionados con el kernel
+
+/var/log/daemon.log
+	informacion relacionada con los demonios o servicios que se ejecutan en segundo plano
+
+/var/log/mail.log
+	inf relacionada con el servidor de correo electronico
+
+/var/log/Xorg.0.log
+	info relacionada con la tarjeta grafica
+
+/var/log/btmp 
+	intentos fallidos de inicio de sesion
+
+/var/log/faillog
+	intentos fallidos de autenticicacion
+
+/var/log/lastlog
+	fecha y hora de los ultimos inicios de sesion de usuarios
+
+
+Veamos ahora algunos ejemplos de registros de servicio:
+
+
+/var/log/cups
+	registros del sistema de impresion
+
+/var/log/apache2 && httpd
+
+
+/var/log/mysql
+
+
+/var/log/samba
