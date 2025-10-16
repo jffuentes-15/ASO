@@ -1,0 +1,2889 @@
+cowsay hola
+su -
+exit
+exit
+su -
+exit
+su -
+exit
+poweroff
+su -
+su -
+exit
+su -
+ssh bandit1@bandit.labs.overthewire.org
+ssh -p 2220 bandit1@bandit.labs.overthewire.org
+ssh -p 2220 bandit1@bandit.labs.overthewire.org 
+exit
+ssh -p 2220 bandit1@bandit.labs.overthewire.org 
+ssh -p 2220 bandit2@bandit.labs.overthewire.org 
+ssh -p 2220 bandit3@bandit.labs.overthewire.org 
+cd /root/.bashrc
+su -
+/home/2024.8
+ls -a -l
+/home/2024.8/.bashrc
+su -
+ssh -p 2220 bandit3@bandit.labs.overthewire.org 
+ssh -p 2220 bandit4@bandit.labs.overthewire.org 
+su -
+ssh -p 2220 bandit5@bandit.labs.overthewire.org 
+ssh -p 2220 bandit6@bandit.labs.overthewire.org 
+ssh -p 2220 bandit7@bandit.labs.overthewire.org 
+poweroff
+su -
+su -
+exit
+su -
+cd /var/tmp/instalacion.faults
+/var/tmp/instalacion.faults
+su -
+cd ../
+cd 
+less /var/tmp/instalacion.faults
+su -
+ssh -p 2220 bandit7@bandit.labs.overthewire.org 
+exit
+su -
+ssh -p 2220 bandit7@bandit.labs.overthewire.org 
+su -
+exit
+ssh 2024.8@192.168.50.90
+exit
+cd
+clear
+ssh 2024.8@192.168.50.90
+poweroff
+man ls
+clear
+ssh 2024.8@192.168.50.90
+exit
+ls -l /home
+man set
+set
+clear
+man cd
+cd
+chat
+chat ole
+type echo
+type ls
+ls
+color
+TYPE MAN
+type man
+man type
+poweroff
+discord updater
+type ls
+type cat
+touch
+touch $USUARIO
+touch --help
+TWOWORDS="two words"
+touch $TWOWORDS
+ls -l
+touch "$TWOWORDS"
+ls -l
+touch '$TWOWORDS'
+ls -l
+echo $USUARIO
+cat -n /etc/passwd
+ls -l /etc
+type exit
+type cd
+man ls
+touch "$user"
+touch "$USUARIO"
+touch "$USER"
+touch 'touch'
+ls -l
+pathname expancion
+man rm
+man 
+man brace
+rm two
+ls -l
+rm "two"
+rm two words
+rm 'two words'
+rm words
+ls -l
+rm touch
+rm $TWOWORDS
+rm '$TWOWORDS'
+rm 2024.8
+ls -l
+touch game 1
+ls -l
+rm 1
+rm game
+rm game1
+touch game1
+touch game2
+touch game3
+touch game4
+touch game5
+ls -l
+rm "game"
+rm *game*
+ls -l
+touch game5
+rp game5
+rm game5
+touch prueba
+rm prueba
+bash
+hostname
+touch game{1..5}
+ls
+rm *game*
+ls
+touch game{1..5}
+rm game?
+ls
+cowsay a
+cowsay hola alejandro
+grep
+man grep
+grep -a
+grep -l
+man grep 
+grep millionth
+man grep 
+grep millionth data.txt
+ssh -p 2220 bandit7@bandit.labs.overthewire.org 
+touch amocriss
+ls -a -l
+ls
+ls -l
+rm amocriss
+ls
+echo hola
+cowsay te amo
+figlet
+cowsay alejandro te quiero
+man cat
+ls
+less descargas
+touch doc
+less touch
+less doc
+cat doc
+pwd
+mv
+man mv
+-ls
+ls
+man mv
+mv doc "/home/2024.8" Documentos
+cd..
+cd../
+mv doc documentos
+mv doc Documentos
+man mv
+grep no doc
+grep rias dic
+grep rias doc
+ip a
+ssh -p 2220 bandit8@bandit.labs.overthewire.org 
+poweroff
+su -
+exit
+su -
+ip a
+ssh -p bandit9@bandit.labs.overthewire.org
+ssh -p 2220 bandit9@bandit.labs.overthewire.org 
+ssh -p 2220 bandit10@bandit.labs.overthewire.org 
+ssh -p 2220 bandit11@bandit.labs.overthewire.org 
+ssh -p 2220 bandit10@bandit.labs.overthewire.org 
+ssh -p 2220 bandit11@bandit.labs.overthewire.org 
+ssh -p 2220 bandit12@bandit.labs.overthewire.org 
+ssh -p 2220 bandit11@bandit.labs.overthewire.org 
+ssh -p 2220 bandit12@bandit.labs.overthewire.org 
+ssh -p 2220 bandit11@bandit.labs.overthewire.org 
+ssh -p 2220 bandit12@bandit.labs.overthewire.org 
+ssh -p 2220 bandit11@bandit.labs.overthewire.org 
+ssh -p 2220 bandit12@bandit.labs.overthewire.org 
+echo "Gur cnffjbeq vf 7k16JArUVv5LxVuJfsSVdbbtaHGlw9D4" | tr 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ' 'nopqrstuvwxyzabcdefghijklmNOPQRSTUVWXYZABCDEFGIJKLM'
+echo "Gur cnffjbeq vf 7k16JArUVv5LxVuJfsSVdbbtaHGlw9D4" | tr -t 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ' 'nopqrstuvwxyzabcdefghijklmNOPQRSTUVWXYZABCDEFGIJKLM'
+echo "Gur cnffjbeq vf 7k16JArUVv5LxVuJfsSVdbbtaHGlw9D4" | tr -t 'a-z'
+echo "Gur cnffjbeq vf 7k16JArUVv5LxVuJfsSVdbbtaHGlw9D4" | tr -t 'a-z' 'n-z a-m'
+echo "Gur cnffjbeq vf 7k16JArUVv5LxVuJfsSVdbbtaHGlw9D4" | tr -t 'a-z' 'n-za-m'
+echo "Gur cnffjbeq vf 7k16JArUVv5LxVuJfsSVdbbtaHGlw9D4" | tr -t 'a-zA-Z' 'n-za-mN-ZA-M'
+ssh -p 2220 bandit12@bandit.labs.overthewire.org 
+exit
+libnotify-bin
+sudo apt-get install libnotify-bin
+su -
+exit
+ssh -p 2220 bandit12@bandit.labs.overthewire.org
+ssh -p 2220 bandit11@bandit.labs.overthewire.org
+poweroff
+su -
+greeting=hello
+echo $greeting
+echo \$greeting
+su -
+echo $greeting
+export prueba=si
+echo $prueba
+su -
+exit
+echo $greeting
+echo $prueba
+clear
+TZ=EST date
+TZ=GMT date
+TZ=ESP date
+clear
+basd
+bash
+exit
+bash -c
+echo $PATH
+ls
+rm doc
+ls
+cd /games:
+cd /games
+env
+echo $USER
+echo prueba
+echo $prueba
+echo $DISPLAY
+export DATA=hello
+echo $DATA
+env
+exit
+env
+echo $PATH
+PATH=$PATH:/home/user/bin
+echo $path
+echo $PATH
+ls
+ls -a -l
+touch new file
+ls
+rm new file
+ls
+cd /Escritorio
+nano
+man nano
+which nano
+which touch
+which greep
+which grep
+number=1
+ORDER=hello
+echo number
+echo $number
+echo ORDER
+echo $ORDER
+echo ORDER $ORDER
+unset ORDER
+echo $ORDER
+unset number
+wc
+wc "/etc/passwd
+
+
+
+
+sf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ls /etc/passwd
+ls
+ls -a -l /etc/passwd
+man wc
+cd /etc/passwd
+cd /etc
+cd /passwd
+ls
+ls -a -l
+wc passwd
+wc -l passwd
+man wc
+nr_files=52
+echo nr_
+exit
+wc /etc/passwd
+wc -l /etc/passwd
+wc -l "/etc/passwd"
+nd_files=52
+unset nd_files
+nd_files="wc -l /etc/passwd"
+echo nd_fliles
+echo $nd_fliles
+nd_files=wc -l "/etc/passwd"
+nd_files=wc "-l /etc/passwd"
+nd_files=wc -l '/etc/passwd'
+nd_files='wc -l /etc/passwd'
+echo $nd_files
+unset nd_files
+nd_files=wc '-l /etc/passwd'
+nd_files='wc -l /etc/passwd'
+echo $nd_files
+unset nd_files
+nd_files=`wc -l /etc/passwd`
+echo $nd_files
+echo $USER
+export ME=$USER
+echo $ME
+echo $HOME
+ME=$HOME:
+echo $ME
+unset ME
+export ME=$USER
+ME:$HOME
+ME=:HOME
+echo $home
+echo $ME
+export ME=$USER
+ME=$:HOME
+echo ME
+echo $ME
+export ME=$USER
+ME=$ME:$HOME
+echo $ME
+echo $PATH
+PATH=$PATH:/hjjkh
+echo $PATH
+TZ=ETC date
+today=`TZ=ETC date`
+echo today
+echo $today
+TZ date
+TZ=SIT date
+date
+today1=`date`
+echo $today1
+poweroff
+ssh -p 2220 bandit8@bandit.labs.overthewire.org 
+poweroff
+ssh -p 2220 bandit12@bandit.labs.overthewire.org 
+clear
+ls
+cd /usr
+cd /share
+ls
+cd /share
+less share
+ls share
+cd
+cd usr/share/doc
+cd usr/share/doc/
+cd ../
+cd usr/share/doc/
+ls
+cd
+info echo
+man locate
+locate
+locate note
+--help
+echo --help
+--help echo
+man mkdir
+mkdir prueba
+rm prueba
+cd /escritorio
+cd /escritorio/
+cd escritorio/
+ls
+cd../
+cd ../
+ls
+cd ../
+ls
+cd escritorio/
+cd /escritorio
+cd /escritorio/
+cd
+ls
+cd Escritorio/
+ls
+cd Apuntes/
+ls
+less Comandos.odt
+touch comandos
+less comandos
+man mv
+cd Escritorio/
+cd
+cd Escritorio/
+ls
+mkdir .txt
+ls
+mkdir txt
+cd Apuntes/
+ls
+mv comandos /Escritorio/txt/
+mv comandos /Escritorio/txt
+mv comandos Escritorio/txt
+mv comandos /Escritorio
+ls
+mv comandos /home/2024.8
+ls
+cd
+ls
+mv comando /Escritorio/txt
+mv comando /Escritorio
+ls
+cd Escritorio/
+mv comandos /Escritorio
+cd
+ls
+mv comandos /prueba
+mv comandos /prueba/
+mv comandos prueba/
+ls
+cd prueba/
+ls
+mv comandos Escritorio/
+mv comandos home/2024.8
+mv comandos /home/2024.8
+cd
+ls
+mv Escritorio/txt
+mv comandos Escritorio/txt
+ls
+cd Escritorio/txt
+ls
+mv comandos ../
+cd ../
+mv comandos ../
+cd ../
+ls
+mv comandos prueba/
+cd prueba/
+ls
+mv comandos /home/2024.8/Escritorio/txt
+cd /home/2024.8/Escritorio/txt
+ls
+cd
+cd /home/2024.8/Escritorio/txt/
+man rm
+cd ../
+ls
+rm -r txt
+ls
+cd
+rm -r prueba
+mv -
+man mv
+mkdir prueba
+mv prueba /home/2024.8/Escritorio
+ls
+cd Escritorio/
+ls
+rm -r prueba
+ls
+cd
+ls
+man passwd
+cat /etc/passwd
+man passwd(5)
+man 5 passwd
+man passwd
+info mkdir
+ls
+sls
+sudo apt install locate
+su .
+su -
+locate note
+man locate
+ls
+locate bandit
+locate Comandos
+locate bandit | less
+touch game
+mv game Vídeos/
+ls
+ls Vídeos/
+su -
+locate game
+cd Vídeos
+ls
+rm game
+ls
+cd
+touch game{1-5}
+ls
+rm *game*
+ls
+touch game{1,2,3,4,5}
+ls
+locate game
+locate game{
+locate game{1..5}
+ls
+su -
+locate game{1..5}
+clear
+cd downloads
+cd downloads/
+cd descargas
+ls
+cd Descargas
+ls
+cd
+cd Escritorio
+la
+find bandit
+find Apuntes
+man find
+cd
+find Escritorio
+mv game{1..5} /home/2024.8/Descargas
+find Descargas
+cd Descargas
+rm game{1..5}
+ls
+cd
+man cut
+ls
+find snap
+clear
+man cut
+man cd
+man cp
+mkdir prueba
+ls
+cp prueba
+mk prueba Escritorio
+cp prueba Escritorio
+man
+man man
+man cp
+ls
+cp prueba Escritorio
+man cp
+cp -r prueba Escritorio
+ls
+ls Escritorio
+rm prueba
+rm -r prueba
+ls
+ls Escritorio
+man wc
+man more
+more
+man more
+ls
+ls Escritorio/Apuntes
+more Comandos.odt
+man whereis
+touch game
+ls
+more game
+rm game
+touch game
+echo game | more
+echo game | cat
+echo `game` | cat
+cat game
+more game
+whereis game
+whereis doc
+where is Apuntes
+whereis Apuntes
+whereis Bandit
+whereis si
+cd ..
+ls
+whereis game
+man whereis
+less game
+cd
+less game
+cd ..
+cd .
+cd ..
+pwd
+cd
+pwd
+cd ..
+ls
+cd ..
+ls
+cd etc
+ls
+cd kernel
+ls
+cd install.d
+ls
+cd ..
+ls
+cd ..
+ls
+cd cfce4
+cd xfce4
+ls
+less defaults.list
+pwd
+cd
+whereis figlet
+man head
+ls
+cd Escritorio
+ls
+cd prueba
+touch txt
+cd
+whereis txt
+su -
+q
+man whereis
+doc
+man doc
+whereis doc
+cd /usr/share/doc
+ls
+cd
+whereis find
+whereis cowsay
+man head
+ls Escritorio/prueba
+head txt
+cd Escritorio/prueba
+ls
+head txt
+tail txt
+head txt
+tail txt
+whereis doc
+/share/doc
+cd
+man sort
+cd Escritorio/prueba
+sort txt
+man tr
+man chmod
+less txt
+tr txt [c] [u]
+tr txt (c) (u)
+echo cccccccccssssss | tr [c] [u]
+tr 'c' 'u' txt
+tr 'c' 'u' < txt
+less txt
+echo 'txt'
+man chmod
+chmod
+man chmod
+chmod octal txt
+man chmod
+chmod octal-mode txt
+man chmod
+chmod OCTAL txt
+chmod OCTAl-MODE txt
+man chmod
+man grep
+grep ccccc txt
+infor s
+infor ls
+info ls
+cd
+poweroff
+readme
+locate readme
+man locate
+locate -l 3 README
+man locate
+ls
+touch test
+ls
+locate -all test
+man locate
+locate -A test
+man locate
+locate test
+su -
+locate test
+man locate
+clear
+find test
+find -a test
+man test
+man find
+find ~ test
+find . test
+find test
+find . -test
+find ~ -name test
+find /home/2024.8/test
+.
+ls .
+ls ..
+ls ....
+ls .
+ls
+man cd
+man cp
+find . -name test
+ls
+mv test Escritorio
+ls
+ls Escritorio
+cd Escritorio
+mv test /home/2024.8
+cd
+ls
+mkdir User
+ls
+cd User
+mkdir Documents
+mkdir Downloads
+mkdir Test
+ls
+touch test
+ls
+cd Documents
+mkdir Hello
+cd Hello
+touch hey2
+touch helloa
+touch ola5
+cd ..
+ls
+mkdir World
+cd World
+touch earth9
+ls
+cd ..
+cd downloads
+cd Downloads
+ls
+mkdir Music
+cd Music
+ls
+mkdir Songs
+ls
+cd Songs
+touch collection1
+touch collection2
+cd..
+cd ..
+ls
+cd Test
+touch passa
+cd ..
+ls
+cd
+ls
+poweroff
+su -
+clear
+man apropos
+for a in UNO DOS TRES; do echo $a a
+for a in UNO DOS TRES; do echo $a ; si
+ls
+cp game Escritorio
+ls 
+ls Escritorio
+rm Escritorio/ game
+rm game Escritorio/
+ls
+cd Escritorio
+ls
+rm game
+cd ..
+man which
+ssh 2024.8@192.50.90
+ssh 2024.8@192.168.50.90
+ssh 2024.8@192.168.50.90
+ls
+poweroff
+poweroff
+ls
+hystori
+history
+ls
+ls Escritorio
+apropos
+man capropos
+man apropos
+man which
+which test
+which find
+which figlet
+whereis  figlet
+man which
+nano test
+cat test
+cd ..
+pwd
+uname
+uname -a
+clear
+uname
+uname -a
+ls
+cd home
+ls
+cd 2024.8
+cd ..
+cd jffuentes
+ls
+Escritorio
+less ace
+cd Escritorio
+ls
+cd roms
+ls
+man grep
+cd
+man grep
+ls /home/jffuentes/Escritorio/roms
+uname -a
+apropos version
+linux-version
+man uname
+apropos sistema
+apropos reinici
+apropos reiniciar
+
+cat history
+lsblk -b
+lsblk
+find history
+find .bash_history
+whereis .bash_history
+hystory
+hystori
+history
+history 20
+tail .bash_history
+tail 20 .bash_history
+mam tail
+man tail
+tail -n 10 .bash_history
+tail -n20 .bash_history
+tail -n 10 .bash_history
+head -n 20 .bash_history
+history
+su -
+head -n 20 .bash_history
+lsblk
+apropos bytes
+apropos megabytes
+apropos tamaño
+apropos fisico
+apropos fysical
+apropos gida
+apropos giga
+man lsblk
+apropos block
+man lsblk
+apropos block
+clear
+env
+env /usr/local/bin
+su -
+echo $PATH
+env
+HELLO=hola
+export HELLO
+bash
+d
+exit
+exit
+bash
+exit
+echo $myvar
+exit
+echo $HELLO
+export myvar
+echo $myvar
+export myvar=si
+bash
+exit
+echo $myvar
+set
+stat
+man stat
+ls
+stat test
+mv test text
+ls
+less text
+pwd
+more text
+cut 
+cut text
+apropos c
+apropos contar
+apropos count
+ln
+man ln
+whatis
+man whatis
+/passwd
+man whatis
+man whatis passwd
+HISTORY
+history -a
+history 
+passwd --
+poweroff
+ssh 2024.8@192.168.50.90
+ls
+touch prueba.gif
+ls
+ls .gif
+grep .gif | ls
+find .gif
+man fing
+man find
+find ".gif"
+ls
+less prueba.gif
+man bash
+rm prueba.gif
+ls
+mkdir prueba
+ls
+alias
+man alias
+alias "borrar_dir"="rm -r"
+borrar_dir
+borrar_dir prueba
+ls
+>s
+>echo ola
+echo ola
+<echo ola
+\
+\echo ola
+less text
+alias borrar=rm
+borrar text
+ls
+type exec
+type cd
+type cat
+whatis
+man whatis
+man man
+man -f passwd
+man hystori
+history
+man history
+echo $HISTFILE
+echo $PS2
+$PS2=+
+PS2=+
+echo $PS2
+>
+echo >
+ls --help
+--help ls
+ls
+find s: find echo
+find s
+find s; cat s
+less s
+nano s
+less s
+find s; cat s
+man find
+man bash
+ls -z | echo $
+ls -z
+echo $
+man bash
+echo $?
+ls -z
+echo $?
+echo $PWD
+cd Escritorio
+echo $PWD
+q
+cd ..
+ls
+ls /etc
+man ls
+ls -p /etc 
+ls -F /etc 
+ls -p /etc 
+locate ls
+find -a ls
+aprpos directorios de comandos
+apropos directorios de comandos
+xfc4 ls
+man crontab
+man crontab 5
+man crontab5
+man crontab p5
+man man
+man(5) crontab
+man (5) crontab
+man(5 crontab
+man man
+'man(5)' crontab
+man.5 crontab
+man man
+man crontab
+ps ax | grep postfix
+ps ax ; grep postfix
+ls -a -l /etc
+apropos password
+ls
+touch game{1..5}
+ls
+man history
+history -r
+history 
+man passwd
+touch 'touch'
+ls
+touch "$USER"
+ñs
+ls
+echo $PATH
+man ls
+ls
+touch xd.gif
+ls
+ls ".gif"
+ls '.gif'
+ls `.gif`
+ls | grep .gif
+locate man ls
+man locate
+ls -z | echo $?
+echo $PATH
+HISTSIZE 300
+HISTSIZE=300
+poweroff
+cd
+pwd
+wget https://asir.sudo.es/asi/dummy -O .bashrc
+chmod 755 .bashrc
+man chmod
+su -
+ls
+rm xd.gif
+lsç
+ls
+touch m.txt
+ls
+touch m.gif
+ls
+touch m.png
+la
+man la
+ls -a
+ls
+touch m.mp3
+ls
+rm game{1..5}
+rm m.png
+rm m.mp3
+rm m.gif
+rm m.txt
+ls
+la
+ls -a -l
+rm touch
+rm echo
+rm man(5)
+ls
+rm 'man(5)'
+rm s
+rm 2024.8
+ls -la
+cd ..
+ls
+jffuentes
+cd jffuentes
+ls
+rm ace
+less ace
+rm ace
+nano
+touch prueba
+su -
+ls
+less prueba
+su -
+cd
+su -
+ls
+cd Escritorio
+ls
+cd Apuntes
+ls
+nano 
+ls
+cd
+poweroff
+ls
+cd Escritorio
+ls
+rm -r prueba
+ls
+clear
+cd
+clear
+ssh 2024.2@10.10.10.30
+ssh 2024.2@10.10.10.30 "DISPLAY=:0 notify-send '<3'"
+ls
+mkdir secret
+ls
+ssh 2024.2@10.10.10.30 "DISPLAY=:0 notify-send 'ayyyy, q me voy a poner colorao'"
+cd secret
+nano
+ls
+less msg
+cd
+ssh 2024.2@10.10.10.30 "DISPLAY=:0 notify-send 'me encantan tus ojitos :)'"
+ssh 2024.2@10.10.10.30 "DISPLAY=:0 notify-send 'awwww, te amo muchoo, me haces muy feliz, no se como compensarte todo el amor que me estas dando'"
+ssh 2024.2@10.10.10.30
+ssh 2024.2@10.10.10.30 "DISPLAY=:0 notify-send 'adelante'"
+ssh 2024.2@10.10.10.30 "DISPLAY=:0 notify-send ':)'"
+ssh 2024.2@10.10.10.30 "DISPLAY=:0 notify-send 'a mi no me ha corregido lo del examen, se lo digo luego?'"
+zsh
+su -
+zsh
+exit
+history
+exit
+history
+exit
+ls
+ls Escritorio
+cd /.sesiones
+ls
+cd ..
+ls
+cd ..
+ls
+cd
+ssh 2024.8@192.168.50.90
+poweroff
+cd ..
+cd jffuentes
+ls
+cd Escritorio
+ls
+ls roms
+cp 'Legend of Zelda, The - A Link to the Past & Four Swords (Europe) (En,Fr,De,Es,It).gba' /home/2024.8/roms
+cp "'Legend of Zelda, The - A Link to the Past & Four Swords (Europe) (En,Fr,De,Es,It).gba'" /home/2024.8/roms
+su -
+cd
+ls
+ls roms
+ls secret
+ls
+retorarch
+retroarch
+cd ..
+ls -l
+ls -p
+cd etc
+ls -p
+ls -p -l
+man tr
+man tree
+tree
+sudo apt install tree
+su -
+tree
+tree /
+clear
+man tree
+tree -d /
+tree -d 
+tree -d | less
+cd
+tree
+tree -p
+ls -p | tree
+ssh 2024.8@192.168.50.90
+poweroff
+ls
+mkdir roms
+ls
+ls roms
+ls
+ls snap
+ls secret
+less secret/msg
+clear
+ssh 2024.2@10.10.10.30 "DISPLAY=:0 notify-send '<3'"
+clear
+exit
+ssh 2024.2@10.10.10.3 "DISPLAY=:0 notify-send '<3'
+exit
+ssh 2024.8@192.168.50.90
+poweroff
+ssh 2024.8@192.168.50.90
+su .
+su  -
+ssh 2024.8@192.168.50.90
+poweroff
+ls
+mkdir.xd
+mkdirxd
+mkdir .xd
+ls
+ls -a
+rm -r .xd
+ls -a
+exit
+man gwe
+man gwet
+man wget
+exit
+tree /
+exit
+exit
+ssh 2024.8@192.168.50.90
+poweroff
+exit
+su -
+4
+su -
+clear
+ls
+tree
+rm -r roms
+ls
+free -m
+man free
+free b
+free m
+free -b
+free
+free -m
+free -g
+cleR
+clear
+poweroff
+exit
+cat
+cat /
+ls
+less user
+less User
+ip a
+ssh 2024.2@10.10.10.54
+tree
+ls
+tree
+cd Escritorio
+ls
+less 2
+man tr
+tr -t 2 | less
+less 2
+tr -t "SG9sYSwgY2llbGl0by4gU8OzbG8gcXVlcsOtYSBkZWNpcnRlIHF1ZSB0ZSBhbW8gbXVjaG8geSBx
+dWUgc2lnbmlmaWNhcyBtdWNobyBwYXJhIG3DrS4gCgpNZSBlbmNhbnRhIHBhc2FyIGxvcyBkw61h
+cyBhIHR1IGxhZG87IGN1YW5kbyBub3MgY29nZW1vcyBkZSBsYSBtYW5vLCBjdWFuZG8gcGFzZWFt
+b3MganVudG9zLCAKY3VhbmRvIG5vcyBtaXJhbW9zLCBjdWFuZG8gdmFtb3MgYSBzaXRpb3MganVu
+dG9zLCBjdWFuZG8gZXN0YW1vcyBlbiBsYSBjYW1hIChzaWVudG8gc2VyIHZ1bGdhcik7IAptZSBl
+bmNhbnRhcy4KCk1lIGd1c3RhIGNhbnRhcnRlLCBiZXNhcnRlLCBhYnJhemFydGUsIG9ic2VydmFy
+dGUsIGFjYXJpY2lhcnRlLCBhYnJhemFydGUsIGFjdXJydWNhcm1lIGNvbnRpZ28sICAgICAKZGVz
+cGVydGFyIGEgdHUgbGFkbywgeSB2aXZvIHBvciBzZWd1aXIgaGFjaWVuZG8gdG9kYXMgZXN0YXMg
+Y29zYXMgeSBtdWNoYXMgbcOhcyBxdWUgYW5zw61vIHZpdmlyCmVuIHR1IGNvbXBhw7HDrWEuCgpM
+bGV2byB0YW4gcG9jbyB0aWVtcG8gY29udGlnby4uLiBwZXJvIHB1ZWRvIGRlY2lydGUgY29uIHNp
+bmNlcmlkYWQgcXVlIG5vIG1lIGhlIHNlbnRpZG8gdGFuIHF1ZXJpZGEuCk51bmNhIG1lIGhhbiBk
+ZW1vc3RyYWRvIHRhbnRvIGFtb3IgeSBjYXJpw7FvLCB0b2RvIHR1IGFwcmVjaW8geSB0dSBkZXZv
+Y2nDs24gcG9yIG3DrSBtZSBhYnJ1bWEsIHkgbWUgZW5jYW50YS4KQ8OzbW8gbWUgY3VpZGFzLCBj
+w7NtbyBtZSB0cmF0YXMsIGPDs21vIG1lIGhhYmxhcywgY8OzbW8gbWUgYmVzYXMsIGPDs21vIG1l
+IHF1aWVyZXMsIGPDs21vIG1lIG1pcmFzLi4uCm1lIGRlcnJpdGUgdHUgZm9ybWEgZGUgc2VyIHkg
+cG9kcsOtYSB0aXJhcm1lIG3DoXMgZGUgdW5hIHZpZGEgZGljaWVuZG8gdG9kbyBsbyBxdWUgbWUg
+Z3VzdGEgZGUgdGkuCgpEZXNkZSBlbCBmb25kbyBkZSBtaSBjb3JhesOzbiwgcXVpZXJvIHVuYSB2
+aWRhIGNvbnRpZ28sIGF2YW56YXIsIGNyZWNlciwgdml2aXIgIHkgbW9yaXIgY29udGlnby4gUXVp
+ZXJvIApsbG9yYXIgeSByZcOtciBhIHR1IGxhZG8sIHF1aWVybyBwYXNhciB0b2RhcyBsYXMgZXhw
+ZXJpZW5jaWFzIHkgZW1vY2lvbmVzIGEgdHUgbGFkbywgcXVlIG5vcyBheXVkZW1vcyAKeSBub3Mg
+YXBveWVtb3M7IHF1ZSBub3MgYW1lbW9zLiAgIAoKU2kgbG8gcXVlIHNpZW50byBwb3IgdGkgbm8g
+ZXMgYW1vci4uLiBwcmVmaWVybyBtb3JpciBhaG9yYSBwZW5zYW5kbyBxdWUgZXN0byBlcyBsbyBt
+w6FzIGJvbml0byBxdWUgCmxsZWdhcsOpIGEgc2VudGlyIGVuIG1pIHZpZGEgZW50ZXJhLgo" | less
+man tr
+man base64
+base64 -d SG9sYSwgY2llbGl0by4gU8OzbG8gcXVlcsOtYSBkZWNpcnRlIHF1ZSB0ZSBhbW8gbXVjaG8geSBx
+dWUgc2lnbmlmaWNhcyBtdWNobyBwYXJhIG3DrS4gCgpNZSBlbmNhbnRhIHBhc2FyIGxvcyBkw61h
+cyBhIHR1IGxhZG87IGN1YW5kbyBub3MgY29nZW1vcyBkZSBsYSBtYW5vLCBjdWFuZG8gcGFzZWFt
+b3MganVudG9zLCAKY3VhbmRvIG5vcyBtaXJhbW9zLCBjdWFuZG8gdmFtb3MgYSBzaXRpb3MganVu
+dG9zLCBjdWFuZG8gZXN0YW1vcyBlbiBsYSBjYW1hIChzaWVudG8gc2VyIHZ1bGdhcik7IAptZSBl
+bmNhbnRhcy4KCk1lIGd1c3RhIGNhbnRhcnRlLCBiZXNhcnRlLCBhYnJhemFydGUsIG9ic2VydmFy
+dGUsIGFjYXJpY2lhcnRlLCBhYnJhemFydGUsIGFjdXJydWNhcm1lIGNvbnRpZ28sICAgICAKZGVz
+cGVydGFyIGEgdHUgbGFkbywgeSB2aXZvIHBvciBzZWd1aXIgaGFjaWVuZG8gdG9kYXMgZXN0YXMg
+Y29zYXMgeSBtdWNoYXMgbcOhcyBxdWUgYW5zw61vIHZpdmlyCmVuIHR1IGNvbXBhw7HDrWEuCgpM
+bGV2byB0YW4gcG9jbyB0aWVtcG8gY29udGlnby4uLiBwZXJvIHB1ZWRvIGRlY2lydGUgY29uIHNp
+bmNlcmlkYWQgcXVlIG5vIG1lIGhlIHNlbnRpZG8gdGFuIHF1ZXJpZGEuCk51bmNhIG1lIGhhbiBk
+ZW1vc3RyYWRvIHRhbnRvIGFtb3IgeSBjYXJpw7FvLCB0b2RvIHR1IGFwcmVjaW8geSB0dSBkZXZv
+Y2nDs24gcG9yIG3DrSBtZSBhYnJ1bWEsIHkgbWUgZW5jYW50YS4KQ8OzbW8gbWUgY3VpZGFzLCBj
+w7NtbyBtZSB0cmF0YXMsIGPDs21vIG1lIGhhYmxhcywgY8OzbW8gbWUgYmVzYXMsIGPDs21vIG1l
+IHF1aWVyZXMsIGPDs21vIG1lIG1pcmFzLi4uCm1lIGRlcnJpdGUgdHUgZm9ybWEgZGUgc2VyIHkg
+cG9kcsOtYSB0aXJhcm1lIG3DoXMgZGUgdW5hIHZpZGEgZGljaWVuZG8gdG9kbyBsbyBxdWUgbWUg
+Z3VzdGEgZGUgdGkuCgpEZXNkZSBlbCBmb25kbyBkZSBtaSBjb3JhesOzbiwgcXVpZXJvIHVuYSB2
+aWRhIGNvbnRpZ28sIGF2YW56YXIsIGNyZWNlciwgdml2aXIgIHkgbW9yaXIgY29udGlnby4gUXVp
+ZXJvIApsbG9yYXIgeSByZcOtciBhIHR1IGxhZG8sIHF1aWVybyBwYXNhciB0b2RhcyBsYXMgZXhw
+ZXJpZW5jaWFzIHkgZW1vY2lvbmVzIGEgdHUgbGFkbywgcXVlIG5vcyBheXVkZW1vcyAKeSBub3Mg
+YXBveWVtb3M7IHF1ZSBub3MgYW1lbW9zLiAgIAoKU2kgbG8gcXVlIHNpZW50byBwb3IgdGkgbm8g
+ZXMgYW1vci4uLiBwcmVmaWVybyBtb3JpciBhaG9yYSBwZW5zYW5kbyBxdWUgZXN0byBlcyBsbyBt
+w6FzIGJvbml0byBxdWUgCmxsZWdhcsOpIGEgc2VudGlyIGVuIG1pIHZpZGEgZW5
+clear
+base64 -d /home/2024.8/Escritorio/2 | less
+poweroff
+ls
+cd Escritorio/
+ls
+nano 'te quiero mucho'
+cd
+ls
+ls Escritorio/
+clear
+cd
+ls
+cd Escritorio/
+touch prueba
+ls
+mv prueba prueba.txt
+ls
+rm prueba.txt 
+touch prueba.txt
+rm prueba.txt 
+exit
+exit
+cd Escritorio/
+nano 'Te quiero :3'
+ls
+base64 'Te quiero :3'
+base64 'Te quiero :3' >> 'Te quiero :3'
+ls
+less 'Te quiero :3' 
+rm 'Te quiero :3' 
+nano '1'
+base64 1 > 1
+ls
+less 1
+rm 1
+nano 1
+less 1
+base64 1
+less 1
+cat 1
+base64 1 > 2
+ls
+less 2
+rm 1
+less 2
+base64 -d 2 | less
+clear
+exit
+cowsay vale
+clear
+ls
+cd Escritorio
+ls
+man cd
+man cp
+cp 2 1/
+cp 2 1
+ls
+less 1
+less 2
+rm 1
+less 2
+less2
+less 2
+man cp
+cp 2 /home/jffuentes/Escritorio/1
+ls
+clear
+tree /
+cd
+clear
+lscpu
+ls
+cd Escritorio
+ls
+base64 -d /home/2024.8/Escritorio/2 | less
+lsblk
+base64 -d /home/2024.8/Escritorio/2
+clear
+base64 -d /home/2024.8/Escritorio/2 | less
+less 2
+~
+cd
+poweroff
+cd /home/jffuentes
+ls
+cd Escritorio
+ls
+mkdir 1
+mkdir prueba
+su -
+exit
+clear
+tree /
+clear
+ls
+hjsgfshowefgfsfskwyfg
+clear
+ls
+ls -al
+kjkkfmsjhsiesfhusifshjajdnajhakwnfhuyf
+m v 
+jksfmozsasfdgiu  
+tree /
+clear
+tree /
+exit
+cd Escritorio
+base64 2 | less
+base6 -d 2 | less
+base64 -d 2 | less
+cd
+clear
+lsblk
+free
+lspci
+poweroff
+poweroff
+DF
+df
+lsblk
+df
+umount /media/2024.8/#254336
+df
+man dd
+gpt
+apt install gpt
+su -
+clear
+ssh 2024.8@192.168.50.90
+ssh 2024.8@192.168.50.90
+poweroff
+man stat
+clear
+info stat
+ssh 2024.8@192.168.50.90
+power off
+poweroff
+ssh 2024.8@192.168.50.90
+suspend
+ls
+cd .sesiones/
+cat 2* > mirar
+less mirar
+cd
+ls-a
+ls -a
+poweroff
+ls -al
+cd Mission\ Statements
+cd .sesiones
+ls
+cat 2* > mirar
+ls
+less mirar.sync
+less mirar
+rm -r mirar.sync
+ls
+cd ../..
+cd ..;cd ..
+cd
+cd ..;cd ..
+cd ..
+cd
+cd ..
+cd
+tree -L
+tree -L 1
+tree -L 2
+tree -L 3
+tree 
+ls
+tree /User
+tree User/
+less secret/msg
+ls
+cd descargas
+cd
+cd ./Descargas
+cd ../..
+ls
+cd jffuentes
+ls
+cd
+tree
+sudo tree
+mkdir "this a text"
+ls
+cd 'this a text'
+cd
+cd this\ a\ text
+rm -r 'this a text'
+dcd
+cd
+rm -r 'this a text'cdç
+rm -r 'this a text'
+ls
+mkdir this is a text
+cd this/ is/ a/ text/
+cd this/ is/ a/ text
+ls
+rm -r this is a text
+ls
+mkdir "this is a text"
+ls
+cd this\ is\ a\ text/
+cd
+cd this\ is\ a\ text/
+mkdir ho\la
+ls
+rm -r hola
+ls
+cd
+rm -r this\ is\ a\ text/
+cd../..
+cd ../..
+tree -L 1
+ls
+ls -r
+ls -d
+man ls
+ls -f
+ls -F
+ls -d
+ls -p
+man tree
+tree -LF 1
+less bin
+cd bin
+ls
+cd
+less ls
+find ls
+ls
+cd ../../bin
+ls
+ls -F
+less linux32
+less mmd
+tree -L 1 /home
+man useradd
+cd
+useradd prueba
+tree /home
+man su
+su -jffuentes
+su - jffuentes
+ls ~jffuentes
+ls /home/jffuentes
+cd../..
+cd ../..
+cd ~
+cd ../..
+ls ~
+ls ~/Escritorio
+cd
+tree /home
+less ~/apuntes/comandos
+less ~jffuentes/apuntes/comandos
+ls -d
+man ls
+ls
+ls -lh
+ls -lrt
+ls -S
+ls
+ls -R
+poweroff
+ls
+su
+su -/
+su -root
+clrar
+clear
+su -jffuentes
+su - jffuentes
+exit
+cd .sesiones/
+ls
+rm mirar.sync 
+cat 2* > mirar
+less mirar
+cd ..
+ls -a
+cd .sesiones/
+ls
+rm mirar
+cat * > mirar
+ls
+cat * > mirar | less
+ls
+rm mirar
+cat * | less
+ls
+cat * | less
+cowsay a
+cd..
+cd ..
+clear
+su - jffuentes
+tree
+rm Descargas/discord-0.0.75.deb
+_Práctica Nº 4.- Modelo E_R y relacional.pdf
+rm Descargas/_Práctica Nº 4.- Modelo E_R y relacional.pdf
+rm Descargas/'_Práctica Nº 4.- Modelo E_R y relacional.pdf'
+rm Descargas/'Práctica Nº 4.- Modelo ER y relacional.rtf'
+tree
+logout
+poweroff
+cd .sesiones/
+ls
+cat 2* | less
+cd
+ls -al
+ls -a
+ls -al
+ls -alF
+ls lh
+ls -lh
+ls -lha
+ls .sesiones/
+ls .sesiones/ | wc
+ls -lha .sesiones/
+ls -lh .sesiones/
+clea
+clear
+exir
+exit
+poweroff
+ls -l
+ls -lF
+ls -Flh
+mkdir .oculto
+ls
+ls -a
+rm -r .oculto
+cd .sesiones/
+ls
+cat 2* 
+cat 2* | less
+cat 2* > mirar
+ls
+rm mirar
+ls
+cd ..
+ls -a
+mkdir .secret
+cd secret
+cat > /home/2024.8/.secret/
+ls /home/2024.8/secret/
+cat > /home/2024.8/.secret/msg
+ls
+less msg
+ls /home/2024.8/.secret/
+less /home/2024.8/.secret/msg
+less msg
+cd ..
+cd .secret
+rm msg
+cd ..
+cd secret
+ls
+cat ssh* > $HOME/.secret/msg
+cat m* > $HOME/.secret/msg
+less ../.secret/msg
+cd ..
+rm -r secret
+tree
+cd ./Escritorio/Apuntes
+cat Bandit.odt
+cat comandos.txt
+cd
+clear
+man mv
+ls
+cd Escritorio
+ls
+mv -am 2
+ls
+less 2
+touch -am 2
+ls
+ls -l
+man touch
+man cp
+tree /
+tree
+cd ..
+tree
+ls
+tree /
+ls /
+cd /tmp
+ls
+less config-err-1HKVRc
+ls -al
+ls -alF
+ls
+cd systemd-private-bee62101e87942518ba3affdb0662a21-colord.service-n9Ik7f
+su -
+cd
+ls
+touch xxx
+rm -i xxx
+mkdir -p /pueba1/prueba2/
+ls
+mkdir prueba
+rm -r prueba
+mkdir -p ./prueba/prueba1/prueba2/
+tree
+rm -rf prueba
+ls
+mkdir -p ./prueba/prueba1/prueba2/prueba3
+tree
+rm -r prueba
+exit
+poweroff
+su -
+man su
+su -
+ls
+cd ./Escritorio/Apuntes
+ls
+nano comandos.txt
+ls
+less comandos.txt
+nano comandos.txt
+nano
+ls
+man mv
+rm comandos.txt
+mv comandos_new.txt comandos.txt
+ls
+rm Comandos.odt
+ls
+nano
+ls
+rm Bandit.odt
+ls
+less comandos.txt 
+ls
+mkdir prueba
+cd prueba/
+nano 1
+ls
+nano 2
+cd ..
+touch tar
+ls
+tar -cvf tar prueba
+ls
+less tar
+tar -xvf tar
+ls
+less tar
+cd ..
+ls
+cd Apuntes/
+ls
+tar -xvf tar
+ls
+mkdir prueba2
+tar -xvf tar -C ./prueba2/
+ls
+cd prueba2
+ls
+cd ..
+tree
+rm - r prueba
+ls
+rm -r prueba
+rm -r ./prueba/prueba2
+rm -r ./prueba2/prueba
+ls
+tree
+tar -xvf tar 
+tree
+tar -xvf tar -C prueba2
+tree
+rm -r prueba prueba2 tar
+ls
+cd
+mkdir estudio
+ls
+cd estudio
+man cp
+cp $HOME/Escritorio/Apuntes/comandos.txt ./comandos.old
+ls
+tree $HOME
+ls
+makdir prueba prueba2 prueba3 prueba4
+mkdir prueba prueba2 prueba3 prueba4
+touch tar1 tar2 tar3
+tree
+mkdir ./prueba/1/2/3/
+mkdir -p ./prueba/1/2/3/
+ls
+tree
+tar -cvf tar1 prueba
+tree
+less tar
+less tar1
+tar -czvf tar1.tar.gz prueba
+ls
+ls tar1.tar.gz
+less tar1.tar.gz
+tar -czvf tar1.gz prueba
+ls
+rm tar1.gz tar1.tar.gz
+ls
+nano ../Escritorio/Apuntes/comandos.txt
+tree ../
+ls
+touch ./prueba/1/si
+touch ./prueba/2/no
+touch ./prueba/1/2/no
+tree
+tar -czvf archive.tar prueba
+ls
+less archive.tar
+tar -cjvf archive2.tar prueba
+ls
+less archive2.tar
+rm -r prueba3 prueba4
+ls
+tar-xzvf archive.tar
+tar -xzvf archive.tar
+ls
+less archive.tar
+rm -r prueba
+ls
+tree
+tar -xzvf archive.tar
+l
+ls
+tree
+nano ../Escritorio/Apuntes/comandos.txt
+tree
+rm archive2.tar
+mv archive.tar archive.zip
+ls
+man cpio
+ls | cpio -o > archive.cpio
+ls
+less archive.cpio
+ls
+less archive.cpio
+nano ../Escritorio/Apuntes/comandos.txt
+ls
+cpio -id < archive.cpio
+ls
+rm -i *
+s
+ls
+rmdir *
+tree
+rm -r prueba
+ls
+cpio -id < archive.cpio
+ls
+tree
+rm -ir *
+nano ../Escritorio/Apuntes/comandos.txt
+cd ..
+cd .sesiones/
+ls
+less 2024-11-26_11-30.sys-2024-8.2024.8.sesion_log
+rm 2024-11-26_11-30.sys-2024-8.2024.8.sesion_log
+ls
+less 2024-11-25_22-10.sys-2024-8.2024.8.sesion_log.sync
+less 2024-11-24_17-03.sys-2024-8.2024.8.sesion_log.sync
+nano 2024-11-24_17-03.sys-2024-8.2024.8.sesion_log.sync
+less nano 2024-11-24_17-03.sys-2024-8.2024.8.sesion_log.sync
+cd
+clear
+cd estudio
+ls
+nano
+nano 2
+ls
+dd if=oldfile of=newfile
+dd if=1 of=2
+ls
+less 2
+nano ../Escritorio/Apuntes/comandos.txt
+rm 1 2
+ls
+nano ../Escritorio/Apuntes/comandos.txt
+less archive.cpio 
+cd ..
+tree
+clear
+exit
+tree
+exit
+cd .sesiones/
+ls
+cat 2024-11-26_11-34.sys-2024-8.2024.8.sesion_log > sesion1
+ls
+mv ./sesion1 ../estudio/
+cd ..
+tree
+cd .sesiones/
+ls
+cd ..
+clear
+less estudio/sesion1
+cd .sesi
+cd .sesiones/
+ls
+less 2024-11-26_11-34.sys-2024-8.2024.8.sesion_log
+less 2024-11-26_09-56.sys-2024-8.2024.8.sesion_log
+cat 2024-11-26_09-56.sys-2024-8.2024.8.sesion_log > sesion1
+rm ../estudio/sesion1
+mv sesion1 ../estudio/
+tree ../
+cd ../estudio
+less sesion1 
+ls |cpio -o > archive.cpio
+ls
+less archive.cpio 
+rm -sesion1
+rm sesion1
+cpio -id < archive.cpio
+ls
+cd ../Escritorio/Apuntes
+ls | cpio -o > apuntes.cpio
+ls
+mv apuntes.cpio ../../estudio
+cd ../../estudio
+ls
+cpio -id < apuntes.cpio
+ls
+rm -r apuntes.cpio archive.cpio 
+ls
+ls | cpio -o > estudio.cpio
+ls
+tree ../
+rm -i *
+ls
+less estudio.cpio 
+cpio -id < estudio.cpio
+ls
+less comandos.txt
+less bandit.txt 
+rm sesion1 comandos.txt bandit.txt
+ls
+cd ..
+tree .a
+tree -a
+ls -a
+tree -a /
+clear
+exit
+man fin
+man find
+ls
+cd estudio/
+ls
+mkdir -p prueba/si
+ls
+tar -cvf archive prueba
+ls
+rm -r prueba
+tar xvf archive
+ls
+tree
+rm -r prueba
+rm archive
+ls
+find . -type f -exec grep "lpi" '{}' \;
+ls
+find . -type f -exec grep "lpi" '{}' \; -print
+touch lpi
+find . -type f -exec grep "lpi" '{}' \; -print
+rm lpi
+sudo find / -name "*.conf" -mtime 7
+ls
+cpio -id < estudio.cpio
+ls
+rm estudio.cpio
+ls
+ls | cpio -o > estudio.cpio
+ls
+rm sesion1 comandos.txt bandit.txt
+ls
+cd
+clear
+exit
+mkdir examen
+ls
+cd examen
+clear
+man mvdir
+man mv
+man tail
+man cp
+man rmdir
+ls
+touch x
+ls
+rmdir x
+rm x
+nano aeg
+less +c aeg
+less +tema aeg
+less +v aeg
+less +10 aeg
+less +v aeg
+less +c aeg
+man mkdir
+cat
+type cat
+man cat
+mkdir prueba
+cd prueba/
+nano a
+cd ..
+cat -A prueba
+cat prueba
+man cap
+man cp
+mkdir 2
+cp prueba 2
+cp -r prueba 2
+ls
+tree
+clear
+cat $home
+ls
+touch .x
+ls
+cp * 2
+cp -r * 2
+tree
+tree -a
+ls -a
+ls /sbin
+ls /abin
+clear
+cat -A /etc/passwd
+cat -I /etc/passwd
+cat -l /etc/passwd
+cat -n /etc/passwd
+cat -T /etc/passwd
+man cp
+ls -l
+man ls
+pwd
+pwd prueba
+pwd Escritorio
+man mv
+cat aeg
+nano
+cat aeg r
+man mv
+mv prueba prueba 2
+mv prueba prueba2
+ls
+cd /etc /
+man mv
+more aeg?
+more aeg ?
+man less
+man head
+tail -r r
+ls
+rm -r 2 ?
+rm -r 2?
+rm -r prueba2 ?
+ls
+mkdir
+mkdir 2
+rm -r 2?
+ls
+man mkdir
+man rmdir
+man cp
+man touch
+pwd
+less /etc/passwd
+man cat
+touch a_a.txt
+l
+ls -m /dev
+man ls
+man rm
+man rmdir
+man touch
+more -n5 aeg
+man ls
+mkdir -m750 D1
+ls -l
+nano aeg
+less +10 aeg
+cat 2
+cat -n aeg
+tree
+touch ./D1/a
+tree
+rm -r D1/*
+ls
+tree
+touch -r1 a
+ls
+touch -A a
+touch - aeg
+touch -r1 aeg
+ls
+touch -c aeg
+touch -a aeg
+touch -A aeg
+man ls
+ls -R
+less +c aeg
+less +10 aeg
+less +c  aeg
+man cp
+man ls
+ls -m /dev
+ls /dev
+ls -l /dev
+ls -lF /dev
+poweroff
+cd Escritorio/Apuntes
+nano comandos.txt 
+cd /etc
+tree | find . *
+tree | find . * | wc
+tree
+tree | find . * | wc
+poweroff
+ls
+tree examen
+rm -r examen
+exit
+poweroff
+ls
+cd ..
+ls
+cd ..
+ñs
+ls
+dep
+dev
+apropos dev
+cd
+ls
+cd Imágenes
+ls
+mkdir us
+mv masterpiecewp.png us
+ls
+tree
+exit
+exit
+exit
+poweroff
+poweroff
+echo -------------------------- > server_users_report.txt; echo Usuarios totales >> server_users_report.txt; echo $(cat /etc/passwd | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo Usuarios con shell bash >> server_users_report.txt; echo $(cat /etc/passwd | grep bash | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo Usuarios con shell false >> server_users_report.txt; echo $(cat /etc/passwd | grep false | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo $(cat /etc/passwd | cut -f1,5 -d : | egrep [^:]$ | sort -t ':') >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo $( cat /etc/passwd | cut -f3 -d : | head -n 1) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo $(cat /etc/passwd | cut -f3 -d : | tail -n 1) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt
+ls
+rm server_users_report.txt 
+find /bin -name "*n"
+ls /bin
+find /bin -name "*n"
+exit
+poweroff
+poweroff
+tree
+cd Escritorio/Apuntes/
+less comandos.txt 
+man gzip
+less comandos.txt 
+tar -czvf name-of-archive.tar.gz stuf
+ls
+tar -xzvf name-of-archive.tar.gz stuf
+rm name-of-archive.tar.gz 
+mkdir a
+tar -czvf name-of-archive.tar.gz a
+ls
+tar -xzvf name-of-archive.tar.gz
+ls
+rm -r a
+tar -xzvf name-of-archive.tar.gz
+la
+ls
+rm -r a name-of-archive.tar.gz 
+ls
+less comandos.txt 
+exit
+tree
+cd estudio
+ls
+less ../Escritorio/Apuntes/comandos.txt 
+cpio -id < estudio.cpio 
+ls
+less bandit.txt 
+less sesion1 
+less ../Escritorio/Apuntes/comandos.txt 
+ls | cpio -o > estudio.cpio 
+ls
+rm bandit.txt comandos.txt sesion1 
+ls
+cpio -id < estudio.cpio 
+ls
+rm bandit.txt comandos.txt sesion1 
+ls
+cd ..
+ls
+poweroff
+cd Descargas/
+ls
+./discord-0.076.dec
+./discord-0.076.deb
+discord-0.076.deb
+cd
+cd Escritorio/Apuntes/
+less comandos.txt 
+cd ..
+cd Descargas/
+ls
+rm *
+ls
+cd 
+poweroff
+ssh -p 1876 2024.2@79.117.195.227
+ssh -p 1876 ccabello@79.117.195.227
+ssh -p 1876 79.117.195.227
+ssh -p gate@1876 79.117.195.227
+ssh -p 1876 gate@79.117.195.227
+cat this is a text
+cat
+echo
+ls
+cd estudio/
+ls
+cat > prueba
+cat prueba 
+nano ../Escritorio/Apuntes/comandos.txt 
+man grep
+cat ../Escritorio/Apuntes/comandos.txt | grep find
+nano ../Escritorio/Apuntes/comandos.txt 
+nano ../Escritorio/Apuntes/expresiones_regulares.txt
+ls ../Escritorio/Apuntes
+ls
+bzip prueba 
+ls
+man bzip
+bzip2 prueba 
+ls
+cat prueba.bz2 
+bzcat prueba.bz2 
+apropo cat
+apropos cat
+clear
+ls
+cpcat estudio.cpio 
+ccat estudio.cpio 
+chcat estudio.cpio 
+bzip2 estudio.cpio 
+ls
+bzcat estudio.cpio.bz2 
+gzip estudio.cpio.bz2 
+ls
+zcat estudio.cpio.bz2.gz 
+bzip2 estudio.cpio.bz2.gz 
+ls
+man bzip
+man bzip2
+bzip2 -d estudio.cpio.bz2.gz.bz2 
+ls
+gzip -d estudio.cpio.bz2.gz 
+ls
+bzcat estudio.cpio.bz2 
+ls
+bzip2 -d estudio.cpio.bz2 
+ls
+cat estudio.cpio 
+clear
+nano ../Escritorio/Apuntes/comandos.txt 
+ls
+cat estudio.cpio | nl
+less ../Escritorio/Apuntes/comandos.txt 
+nano ../Escritorio/Apuntes/comandos.txt 
+clear
+nano ../Escritorio/Apuntes/comandos.txt 
+man sed
+ls
+bzcat prueba.bz2 
+bzip2 -d prueba.bz2 
+ls
+cat > prueba 
+sed -n /cat/p < prueba 
+man sed
+sed -n /cat/ < prueba 
+sed /cat/p < prueba 
+cat prueba 
+cat > prueba 
+cat prueba 
+sed -n /cut/p < prueba 
+cat prueba 
+sed  /cut/p < prueba 
+cat >> prueba 
+cat prueba 
+sed -n /cat/p < prueba 
+sed /cat/p < prueba 
+sed /cat/d < prueba 
+nano ../Escritorio/Apuntes/comandos.txt 
+sed -n /cat/d < prueba 
+sed s/cat/dog < prueba 
+cat prueba 
+sed s/cat/dog/ < prueba 
+cat prueba 
+sed /dod/cat/s < prueba 
+sed /cat/dog/s < prueba 
+sed /dod/cat/s < prueba 
+sed /dog/cat/s < prueba 
+sed /cat/s/dog/ < prueba 
+sed s/cat/dog/ < prueba 
+sed s/cat/doge/ < prueba 
+nano ../Escritorio/Apuntes/comandos.txt 
+sed s/cat/doge/ < prueba 
+cat prueba 
+man sed
+nano ../Escritorio/Apuntes/comandos.txt 
+man sed
+sed -i.backup s/cat/dog/ prueba 
+ls
+cat prueba.backup 
+cat prueba
+mv prueba sed
+mv prueba.backup sed.backup
+ls
+man sha256sum
+sha256sum sed
+sha256sum sed > sha256.txt
+cat sha256.txt 
+sha256sum -c sha256.txt 
+nano ../Escritorio/Apuntes/comandos.txt 
+mv sed ftu.txt
+mv sed.backup ftu.txt.backup
+ls
+nano ../Escritorio/Apuntes/comandos.txt 
+sha256 ftu.txt.backup > copia
+sudo apt install hashalot
+su - jfuentes
+less /home/
+ls /home/
+su - jffuentes
+ls
+cat copia 
+less copia 
+nano copia 
+sha256 ftu.txt.backup > copia
+cat copia 
+cat ftu.txt.backup 
+sha256 copia
+cat copia 
+man sha566
+man sha556
+man sha256
+sha256
+od
+od ftu.txt
+od -X ftu.txt
+od -x ftu.txt
+ls
+cat estudio.cpio 
+gzip estudio.cpio 
+ls
+less estudio.cpio.gz 
+od -c estudio.cpio.gz 
+gzip -d estudio.cpio.gz 
+ls
+od -c ftu.txt
+od -An -c ftu.txt
+exit
+ls -a
+cd .sesiones/
+ls
+cat 2024-12-08_13-13.sys-2024-8.2024.8.sesion_log
+su - jffuentes
+poweroff
+cd Escritorio/Apuntes/
+less comandos.txt 
+nano comandos.txt 
+less comandos.txt 
+nano comandos.txt 
+poweroff
+ls
+su - jffuentes
+ls -a
+su -
+su - jffuentes
+poweroff
+exit
+cd Escritorio/Apuntes/
+ls
+less comandos.txt 
+nano comandos.txt 
+vi bandit.txt 
+cd Escritorio/Apuntes/
+nano comandos.txt 
+nano expresiones
+cd
+ls
+rm -r a
+mkdir a
+cd Escritorio/Apuntes/
+poweroff
+ls
+ls -a
+ls /home/jffuentes/
+ls -a /home/jffuentes/
+clear
+man regex
+ssh 2024.8@192.168.50.90
+man grep
+ls
+less Escritorio/Apuntes/comandos.txt 
+less Escritorio/Apuntes/expresiones 
+grep -v . Escritorio/Apuntes/expresiones 
+grep -v Escritorio/Apuntes/expresiones .
+grep -v expresiones Escritorio/Apuntes/expresiones
+grep -v un Escritorio/Apuntes/expresiones
+clear
+grep -v un Escritorio/Apuntes/expresiones
+cd Escritorio/Apuntes/
+nano comandos.txt 
+cd
+clear
+ls
+mkdir examen
+cd examen/
+ls
+ls --
+ls ..
+fgrep
+man fgrep
+fgrep -i "^c[ao]sa" /etc/passwd >texto.txt
+ls
+cat texto.txt 
+fgrep -v "^c[ao]sa" /etc/passwd >texto.txt
+cat texto.txt 
+clear
+man sed
+man split
+man grep
+man split
+man nl
+man grep
+man wc
+grep bash /etc/passwd | wc -l
+grep bash /etc/passwd | wc -L
+wc -L /etc/passwd |grep bash
+man uniq
+wc -l .*
+wc -l.*
+ls -ld
+cd ..
+wc -l.*
+wc -l .*
+ls -l .*
+ls -ld .*
+clear
+cd examen/
+man join
+man 5 passwd 
+man sort
+man 5 passwd 
+man paste
+wc
+man cat
+man grep
+cd ..
+ls
+touch a
+ls -alF
+ls -alF | grep "^d"
+ls -alF | egrep "^d"
+ls -alF | fgrep "^d"
+ls -alF | egrep "^d"
+ls -alF | grep "^d"
+ls -alF | egrep "^d"
+ls -al | egrep "^d"
+ls -al | fgrep "^d"
+ls -alF | egrep "^d"
+ls -al | egrep "^d"
+man tr
+nano a
+ls
+rm -r a
+nano a
+less a > b
+cat b
+less a > c
+cat c
+more a > d
+cat d
+cd a
+cd examen/
+nano a
+more a > d
+more a > ../d
+cat ../d
+less a > ../c
+cat ../c
+cur a > ../b
+cut a > ../b
+nano
+head a
+man grep
+cat $HOME
+echo > $HOME
+echo >$HOME
+echo <$HOME
+echo < $HOME
+sha1sum < $USER
+echo < $USER
+sha1sum < $USER
+sha1sum <$USER
+$USER > sha1sum
+man nl
+cat -b a 
+nl a
+man paste
+man cut
+man split
+man sort
+ls -1
+ls
+ls -L
+ls
+cat /etc/passwd
+man 5 passwd 
+ls | tac
+man wc
+man sort
+cat /etc/group
+sed s/-/./g < echo $TODAY
+echo $TODAY > sed s/-/./g
+ls
+echo $TODAY > $(sed s/-/./g)
+ls -1
+ls -1F
+ls -1Fa
+man ln
+man nl
+ls
+wc -c a
+wc -l a
+tail -2 a
+man sort
+fhm a
+fmt
+fmt a
+set +B
+set +A
+set +D
+set +C
+cat -E a
+head -t a
+head -v a
+head -h a
+head -f a
+wc -c a
+wc a -m
+wc a -c
+man sort
+poweroff
+ssh -p 2220 bandit1@bandit.labs.overthewire.org 
+ssh -p 2220 bandit8@bandit.labs.overthewire.org 
+exit
+cd Escritorio/Apuntes/
+less bandit.txt 
+less comandos.txt 
+ls
+cd
+ls
+rm a b c d
+ls
+cd Descargas/
+ls
+rm -r discord-0.0.77.deb 
+poweroff
+su - jffuentes
+exit
+poweroff
+exit
+ls
+tree snap
+cd estudio/
+ls
+cd ..
+ls
+cd imagenes
+cd Imagenes
+cd Imágenes
+ls
+cd us
+ls
+mv masterpiecewp.png /home/jffuentes/Imágenes/
+su -
+ls
+ssh gate@192.168.50.70
+tree /
+clear
+figlet a
+figlet 
+clear
+poweroff
+poweroff
+poweroff
+ls
+man tar
+su - jffuentes 
+exit
+poweroff
+exit
+cd .se
+cd .sesiones/
+ls
+exit
+POWEROFF
+poweroff
+ip link
+ip link show
+poweroff
+calculador
+calculadora
+calculator
+ip addr show
+su -
+ip a
+ip
+ip link
+ip link show
+nmcli device
+ls
+cat /etc/network/interfaces
+cd /etc/network/interfaces
+cd /etc/network
+ls
+tree
+cd if-down.d/
+ls
+less openvpn 
+less wpasupplicant 
+less openvpn 
+cd ..
+ls
+cd if-up.d/
+ls
+auto lo
+ip a
+ifup lo
+poweroff
+tree /
+clear
+lspci
+cd /etc/network
+ls
+cd ../hostname
+cd ..
+cd ls
+ls
+cat hostname 
+su -jffuentes
+su - jffuentes
+hostnamectl set-hostname sukoshi
+su -
+exit
+su -
+exit
+hostnamectl status
+cd Escritorio/Apuntes/
+ls
+nano comandos.txt 
+hostnamectt
+hostnamectl
+nano comandos.txt 
+cat /etc/nsswitch.conf
+cat /etc/host
+cat /etc/hosts
+cat /etc/resolv.conf
+poweroff
+ls
+tree
+cd Imágenes/Capturas\ de\ pantalla/
+ls
+rm -r *
+ls
+cd ../..
+ip a
+man pve
+man vboxmanage
+cd ..
+cd jffuentes/
+tree
+rm -r busqueda
+man tar
+tar -t busqueda.tal
+tar -tf busqueda
+tar -tf busqueda.tar
+rm -r busqueda
+ls
+tree
+rm -r busqueda
+su -jffuentes
+su - jffuentes
+poweroff
+nmcli
+man nmcli
+nmcli
+nmtui
+nmcli
+nmtuiq
+nmcli
+nmtui
+nmcli general
+nmcli monitor
+nmcli agent
+nmcli radio
+nmcli networking
+nmcli connection
+nmcli device
+nmcli device wifi list
+poweroff
+cd Escritorio/Apuntes/
+nano redes.txt
+nano comandos.txt 
+nano redes.txt
+nmtui
+poweroff
+ifconf
+ifconfig
+ip a
+ip link
+ls
+tree User/
+mkdir iso
+mv Descargas/debian-12.9.0-amd64-netinst.iso iso
+tree
+lspci
+ip addr show
+ss
+nmcli device wifi list
+cd ..
+cd
+cd .sesiones/
+ls
+cat 2* > mirar
+less mirar 
+ls
+rm mirar 
+exit
+nmcli
+nmcli device 
+nmcli device wifi list
+nmcli general
+nmtui
+nano Escritorio/Apuntes/redes.txt 
+ls
+cd iso/
+ls
+ls 1
+ls -f
+ls -F
+ls -1
+ls -1al
+cd
+cd iso/
+less debian-12.9.0-amd64-netinst.iso 
+cat debian-12.9.0-amd64-netinst.iso 
+61;1;21;22c1;1;120;120;1;0x1;1;120;120;1;0x61;1;21;22c61;1;21;22c1;1;120;120;1;0x61;1;21;22c61;1;21;22c1;1;120;120;1;0x61;7600;1c61;1;21;22c1;1;120;120;1;0x61;1;21;22c1;1;120;120;1;0x61;1;21;22c61;1;21;22c1;1;120;120;1;0x1;1;120;120;1;0x61;1;21;22c1;1;120;120;1;0x61;1;21;22c1;1;120;120;1;0x1;1;120;120;1;0x61;1;21;22c61;1;21;22c1;1;120;120;1;0x61;1;21;22c61;1;21;22c1;1;120;120;1;0x1;1;120;120;1;0x61;1;21;22c1;1;120;120;1;0x61;1;21;22c
+clear
+exit
+exit
+cd /etc
+ls
+clear
+less host
+less hostname
+less resolv.conf 
+less nsswitch.conf 
+wpa
+wpa_passphrase
+man wpa_passphrase
+less resolv.conf 
+man ifup
+nmcli device
+nmcli networking
+nmcli monitor
+nmcli connection
+nmcli general
+less host
+less hosts
+ip link show
+less .network
+cd systemd/
+cd network/
+less .network
+ls
+ls -a
+man hostnamectl
+cd ../..
+cd hostname
+less hostname 
+cd systemd/
+ls
+man nmcli
+nmcli device add
+man nmcli device
+cd /
+cd run/
+ls
+cd ..
+hostnamectl
+hostnamectl status
+man hostnamectl
+less etc/hosts
+ip a
+cdetc
+cd etc
+less resolv.conf 
+less nsswitch.conf 
+ip link dev
+less dns.conf
+man nmcli
+vboxmanage
+poweroff
+su -
+passwd -a
+man passwd
+passwd a
+passwd 2024.8 a
+passwd 2024.8
+su -
+vboxmanage list
+su -
+vboxmanage list
+su -
+su -

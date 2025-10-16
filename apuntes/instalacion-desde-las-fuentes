@@ -1,0 +1,74 @@
+REQUISITOS:
+-Compilador en lenguaje C
+#o el lenguaje de la fuente
+#es como un traductor del codigo. convierte el lenguaje C en este caso en un lenguaje que el programa entiende
+-Librerias basicas C
+#API de los programas GNU
+-Librerias de cabeceras de Linux
+#API del kernel
+-Librerias de desarrollo de terceros
+#API de productos
+
+INSTALACION DEBIAN:
+	sudo apt-get update
+	sudo apt install build-essential
+	sudo apt install linux-headers-$(uname -r)
+	sudo apt install pkg-config
+
+
+INSTALACION REDHAT:
+#
+#
+#
+#
+#
+
+
+#Resuelto y verificado lo anterior el procedimiento a seguir se 
+#describe a continuación. Son pasos obligatorios, no se puede saltar 
+#ninguno.  Para ilustrar cada paso se irán realizando con las fuentes 
+#del proyecto ProFTPD.
+
+apt install ftp
+1-obtenemos desde la fuente correspondiente el paquete desde la red.
+
+#normalmente en archivos .tar.gz
+
+#el tar es un empaquetado no un comprimido, pesa los mismo que la suma de su contenido
+
+#el gz si es un comprimido
+
+#en la pagina normalmente esta en download
+con wget descargamos el tar
+wget ftp://ftp.proftpd.org/distrib/source/proftpd-1.3.9.tar.gz en este caso
+
+2-VERIFICACION DEL HASH 
+#con la herramienta sha256sum dependiendo del tipo de hash
+
+#4a5f13b666226813b4da0ade34535d325e204ab16cf8008c7353b1b5a972f74
+
+sha256sum proftpd-1.3.9.tar.gz
+
+3-DESCOMPRIMIR EL META-PAQUETE:
+gzip -d proftpd-1.3.9.tar.gz
+
+#-d para descomprimir
+
+tar -xvf proftpd-1.3.9.tar
+
+#ahora tendremos un directorio en el que esta contenido todo el contenido
+#del archivo descargado
+
+isntalacion dentro del direcctorio:
+#less INSTALL para mas info sobre la isntalacion. Si esta en lenguaje C pasa portres pasos. 
+#en este mismo archivo hay una URL que te indica las dependencias necesarias
+	#1.Actualizar y tener todas las dependencias 
+		./configure --prefix=[$PATH]
+		#esta opcion instala en la ubicacion que especifiques 
+		#podemos usar /usr/local/nuevo/
+		#./configure --help
+	#2.compilacion ejecutable RAM comando. para ejecutarlo(make/gmake)
+		make/gmake
+		#todas las especificaciones de make se guardan en config.log 
+	#3.Ubicacion
+		make install

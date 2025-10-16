@@ -1,0 +1,14 @@
+-nmcli (configuracion por comandos de red)
+-nmtui (configuracion seudografica de red)
+-ip a (muestra las interfaces de red y su configuracion basica
+-systemctl (control del sistema)
+-dhclient
+-vboxmanage list dhcpservers: Averiguar el rango de direcciones IP que tiene ocupadas el pool de asignación automática del servidor DHCP de la red NAT-ISO
+-ssh-keygen (crea la llave)
+-ssh-copy-id $USER@0.0.0.0 (mete la cerradura en el destino)
+-ssh -i llave.pem ec2-user@ip-publica
+-ssh -i llave.pem admin@52.70.102.107
+-scp source...target (direccion de red $USER@10.10.10.0:$PAD
+-tune2fs -l /dev/xvdb1
+-lsblk -o UUID,NAME
+-cat << EOF > fichero (escribe sin mostrar hasta que pones EOF y lo manda la fichero

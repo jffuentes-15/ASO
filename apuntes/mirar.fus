@@ -1,0 +1,5150 @@
+cowsay hola
+su -
+exit
+exit
+su -
+exit
+su -
+exit
+poweroff
+su -
+su -
+exit
+su -
+ssh bandit1@bandit.labs.overthewire.org
+ssh -p 2220 bandit1@bandit.labs.overthewire.org
+ssh -p 2220 bandit1@bandit.labs.overthewire.org 
+exit
+ssh -p 2220 bandit1@bandit.labs.overthewire.org 
+ssh -p 2220 bandit2@bandit.labs.overthewire.org 
+ssh -p 2220 bandit3@bandit.labs.overthewire.org 
+cd /root/.bashrc
+su -
+/home/2024.8
+ls -a -l
+/home/2024.8/.bashrc
+su -
+ssh -p 2220 bandit3@bandit.labs.overthewire.org 
+ssh -p 2220 bandit4@bandit.labs.overthewire.org 
+su -
+ssh -p 2220 bandit5@bandit.labs.overthewire.org 
+ssh -p 2220 bandit6@bandit.labs.overthewire.org 
+ssh -p 2220 bandit7@bandit.labs.overthewire.org 
+poweroff
+su -
+su -
+exit
+su -
+cd /var/tmp/instalacion.faults
+/var/tmp/instalacion.faults
+su -
+cd ../
+cd 
+less /var/tmp/instalacion.faults
+su -
+ssh -p 2220 bandit7@bandit.labs.overthewire.org 
+exit
+su -
+ssh -p 2220 bandit7@bandit.labs.overthewire.org 
+su -
+exit
+ssh 2024.8@192.168.50.90
+exit
+cd
+clear
+ssh 2024.8@192.168.50.90
+poweroff
+man ls
+clear
+ssh 2024.8@192.168.50.90
+exit
+ls -l /home
+man set
+set
+clear
+man cd
+cd
+chat
+chat ole
+type echo
+type ls
+ls
+color
+TYPE MAN
+type man
+man type
+poweroff
+discord updater
+type ls
+type cat
+touch
+touch $USUARIO
+touch --help
+TWOWORDS="two words"
+touch $TWOWORDS
+ls -l
+touch "$TWOWORDS"
+ls -l
+touch '$TWOWORDS'
+ls -l
+echo $USUARIO
+cat -n /etc/passwd
+ls -l /etc
+type exit
+type cd
+man ls
+touch "$user"
+touch "$USUARIO"
+touch "$USER"
+touch 'touch'
+ls -l
+pathname expancion
+man rm
+man 
+man brace
+rm two
+ls -l
+rm "two"
+rm two words
+rm 'two words'
+rm words
+ls -l
+rm touch
+rm $TWOWORDS
+rm '$TWOWORDS'
+rm 2024.8
+ls -l
+touch game 1
+ls -l
+rm 1
+rm game
+rm game1
+touch game1
+touch game2
+touch game3
+touch game4
+touch game5
+ls -l
+rm "game"
+rm *game*
+ls -l
+touch game5
+rp game5
+rm game5
+touch prueba
+rm prueba
+bash
+hostname
+touch game{1..5}
+ls
+rm *game*
+ls
+touch game{1..5}
+rm game?
+ls
+cowsay a
+cowsay hola alejandro
+grep
+man grep
+grep -a
+grep -l
+man grep 
+grep millionth
+man grep 
+grep millionth data.txt
+ssh -p 2220 bandit7@bandit.labs.overthewire.org 
+touch amocriss
+ls -a -l
+ls
+ls -l
+rm amocriss
+ls
+echo hola
+cowsay te amo
+figlet
+cowsay alejandro te quiero
+man cat
+ls
+less descargas
+touch doc
+less touch
+less doc
+cat doc
+pwd
+mv
+man mv
+-ls
+ls
+man mv
+mv doc "/home/2024.8" Documentos
+cd..
+cd../
+mv doc documentos
+mv doc Documentos
+man mv
+grep no doc
+grep rias dic
+grep rias doc
+ip a
+ssh -p 2220 bandit8@bandit.labs.overthewire.org 
+poweroff
+su -
+exit
+su -
+ip a
+ssh -p bandit9@bandit.labs.overthewire.org
+ssh -p 2220 bandit9@bandit.labs.overthewire.org 
+ssh -p 2220 bandit10@bandit.labs.overthewire.org 
+ssh -p 2220 bandit11@bandit.labs.overthewire.org 
+ssh -p 2220 bandit10@bandit.labs.overthewire.org 
+ssh -p 2220 bandit11@bandit.labs.overthewire.org 
+ssh -p 2220 bandit12@bandit.labs.overthewire.org 
+ssh -p 2220 bandit11@bandit.labs.overthewire.org 
+ssh -p 2220 bandit12@bandit.labs.overthewire.org 
+ssh -p 2220 bandit11@bandit.labs.overthewire.org 
+ssh -p 2220 bandit12@bandit.labs.overthewire.org 
+ssh -p 2220 bandit11@bandit.labs.overthewire.org 
+ssh -p 2220 bandit12@bandit.labs.overthewire.org 
+echo "Gur cnffjbeq vf 7k16JArUVv5LxVuJfsSVdbbtaHGlw9D4" | tr 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ' 'nopqrstuvwxyzabcdefghijklmNOPQRSTUVWXYZABCDEFGIJKLM'
+echo "Gur cnffjbeq vf 7k16JArUVv5LxVuJfsSVdbbtaHGlw9D4" | tr -t 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ' 'nopqrstuvwxyzabcdefghijklmNOPQRSTUVWXYZABCDEFGIJKLM'
+echo "Gur cnffjbeq vf 7k16JArUVv5LxVuJfsSVdbbtaHGlw9D4" | tr -t 'a-z'
+echo "Gur cnffjbeq vf 7k16JArUVv5LxVuJfsSVdbbtaHGlw9D4" | tr -t 'a-z' 'n-z a-m'
+echo "Gur cnffjbeq vf 7k16JArUVv5LxVuJfsSVdbbtaHGlw9D4" | tr -t 'a-z' 'n-za-m'
+echo "Gur cnffjbeq vf 7k16JArUVv5LxVuJfsSVdbbtaHGlw9D4" | tr -t 'a-zA-Z' 'n-za-mN-ZA-M'
+ssh -p 2220 bandit12@bandit.labs.overthewire.org 
+exit
+libnotify-bin
+sudo apt-get install libnotify-bin
+su -
+exit
+ssh -p 2220 bandit12@bandit.labs.overthewire.org
+ssh -p 2220 bandit11@bandit.labs.overthewire.org
+poweroff
+su -
+greeting=hello
+echo $greeting
+echo \$greeting
+su -
+echo $greeting
+export prueba=si
+echo $prueba
+su -
+exit
+echo $greeting
+echo $prueba
+clear
+TZ=EST date
+TZ=GMT date
+TZ=ESP date
+clear
+basd
+bash
+exit
+bash -c
+echo $PATH
+ls
+rm doc
+ls
+cd /games:
+cd /games
+env
+echo $USER
+echo prueba
+echo $prueba
+echo $DISPLAY
+export DATA=hello
+echo $DATA
+env
+exit
+env
+echo $PATH
+PATH=$PATH:/home/user/bin
+echo $path
+echo $PATH
+ls
+ls -a -l
+touch new file
+ls
+rm new file
+ls
+cd /Escritorio
+nano
+man nano
+which nano
+which touch
+which greep
+which grep
+number=1
+ORDER=hello
+echo number
+echo $number
+echo ORDER
+echo $ORDER
+echo ORDER $ORDER
+unset ORDER
+echo $ORDER
+unset number
+wc
+wc "/etc/passwd
+
+
+
+
+sf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ls /etc/passwd
+ls
+ls -a -l /etc/passwd
+man wc
+cd /etc/passwd
+cd /etc
+cd /passwd
+ls
+ls -a -l
+wc passwd
+wc -l passwd
+man wc
+nr_files=52
+echo nr_
+exit
+wc /etc/passwd
+wc -l /etc/passwd
+wc -l "/etc/passwd"
+nd_files=52
+unset nd_files
+nd_files="wc -l /etc/passwd"
+echo nd_fliles
+echo $nd_fliles
+nd_files=wc -l "/etc/passwd"
+nd_files=wc "-l /etc/passwd"
+nd_files=wc -l '/etc/passwd'
+nd_files='wc -l /etc/passwd'
+echo $nd_files
+unset nd_files
+nd_files=wc '-l /etc/passwd'
+nd_files='wc -l /etc/passwd'
+echo $nd_files
+unset nd_files
+nd_files=`wc -l /etc/passwd`
+echo $nd_files
+echo $USER
+export ME=$USER
+echo $ME
+echo $HOME
+ME=$HOME:
+echo $ME
+unset ME
+export ME=$USER
+ME:$HOME
+ME=:HOME
+echo $home
+echo $ME
+export ME=$USER
+ME=$:HOME
+echo ME
+echo $ME
+export ME=$USER
+ME=$ME:$HOME
+echo $ME
+echo $PATH
+PATH=$PATH:/hjjkh
+echo $PATH
+TZ=ETC date
+today=`TZ=ETC date`
+echo today
+echo $today
+TZ date
+TZ=SIT date
+date
+today1=`date`
+echo $today1
+poweroff
+ssh -p 2220 bandit8@bandit.labs.overthewire.org 
+poweroff
+ssh -p 2220 bandit12@bandit.labs.overthewire.org 
+clear
+ls
+cd /usr
+cd /share
+ls
+cd /share
+less share
+ls share
+cd
+cd usr/share/doc
+cd usr/share/doc/
+cd ../
+cd usr/share/doc/
+ls
+cd
+info echo
+man locate
+locate
+locate note
+--help
+echo --help
+--help echo
+man mkdir
+mkdir prueba
+rm prueba
+cd /escritorio
+cd /escritorio/
+cd escritorio/
+ls
+cd../
+cd ../
+ls
+cd ../
+ls
+cd escritorio/
+cd /escritorio
+cd /escritorio/
+cd
+ls
+cd Escritorio/
+ls
+cd Apuntes/
+ls
+less Comandos.odt
+touch comandos
+less comandos
+man mv
+cd Escritorio/
+cd
+cd Escritorio/
+ls
+mkdir .txt
+ls
+mkdir txt
+cd Apuntes/
+ls
+mv comandos /Escritorio/txt/
+mv comandos /Escritorio/txt
+mv comandos Escritorio/txt
+mv comandos /Escritorio
+ls
+mv comandos /home/2024.8
+ls
+cd
+ls
+mv comando /Escritorio/txt
+mv comando /Escritorio
+ls
+cd Escritorio/
+mv comandos /Escritorio
+cd
+ls
+mv comandos /prueba
+mv comandos /prueba/
+mv comandos prueba/
+ls
+cd prueba/
+ls
+mv comandos Escritorio/
+mv comandos home/2024.8
+mv comandos /home/2024.8
+cd
+ls
+mv Escritorio/txt
+mv comandos Escritorio/txt
+ls
+cd Escritorio/txt
+ls
+mv comandos ../
+cd ../
+mv comandos ../
+cd ../
+ls
+mv comandos prueba/
+cd prueba/
+ls
+mv comandos /home/2024.8/Escritorio/txt
+cd /home/2024.8/Escritorio/txt
+ls
+cd
+cd /home/2024.8/Escritorio/txt/
+man rm
+cd ../
+ls
+rm -r txt
+ls
+cd
+rm -r prueba
+mv -
+man mv
+mkdir prueba
+mv prueba /home/2024.8/Escritorio
+ls
+cd Escritorio/
+ls
+rm -r prueba
+ls
+cd
+ls
+man passwd
+cat /etc/passwd
+man passwd(5)
+man 5 passwd
+man passwd
+info mkdir
+ls
+sls
+sudo apt install locate
+su .
+su -
+locate note
+man locate
+ls
+locate bandit
+locate Comandos
+locate bandit | less
+touch game
+mv game Vídeos/
+ls
+ls Vídeos/
+su -
+locate game
+cd Vídeos
+ls
+rm game
+ls
+cd
+touch game{1-5}
+ls
+rm *game*
+ls
+touch game{1,2,3,4,5}
+ls
+locate game
+locate game{
+locate game{1..5}
+ls
+su -
+locate game{1..5}
+clear
+cd downloads
+cd downloads/
+cd descargas
+ls
+cd Descargas
+ls
+cd
+cd Escritorio
+la
+find bandit
+find Apuntes
+man find
+cd
+find Escritorio
+mv game{1..5} /home/2024.8/Descargas
+find Descargas
+cd Descargas
+rm game{1..5}
+ls
+cd
+man cut
+ls
+find snap
+clear
+man cut
+man cd
+man cp
+mkdir prueba
+ls
+cp prueba
+mk prueba Escritorio
+cp prueba Escritorio
+man
+man man
+man cp
+ls
+cp prueba Escritorio
+man cp
+cp -r prueba Escritorio
+ls
+ls Escritorio
+rm prueba
+rm -r prueba
+ls
+ls Escritorio
+man wc
+man more
+more
+man more
+ls
+ls Escritorio/Apuntes
+more Comandos.odt
+man whereis
+touch game
+ls
+more game
+rm game
+touch game
+echo game | more
+echo game | cat
+echo `game` | cat
+cat game
+more game
+whereis game
+whereis doc
+where is Apuntes
+whereis Apuntes
+whereis Bandit
+whereis si
+cd ..
+ls
+whereis game
+man whereis
+less game
+cd
+less game
+cd ..
+cd .
+cd ..
+pwd
+cd
+pwd
+cd ..
+ls
+cd ..
+ls
+cd etc
+ls
+cd kernel
+ls
+cd install.d
+ls
+cd ..
+ls
+cd ..
+ls
+cd cfce4
+cd xfce4
+ls
+less defaults.list
+pwd
+cd
+whereis figlet
+man head
+ls
+cd Escritorio
+ls
+cd prueba
+touch txt
+cd
+whereis txt
+su -
+q
+man whereis
+doc
+man doc
+whereis doc
+cd /usr/share/doc
+ls
+cd
+whereis find
+whereis cowsay
+man head
+ls Escritorio/prueba
+head txt
+cd Escritorio/prueba
+ls
+head txt
+tail txt
+head txt
+tail txt
+whereis doc
+/share/doc
+cd
+man sort
+cd Escritorio/prueba
+sort txt
+man tr
+man chmod
+less txt
+tr txt [c] [u]
+tr txt (c) (u)
+echo cccccccccssssss | tr [c] [u]
+tr 'c' 'u' txt
+tr 'c' 'u' < txt
+less txt
+echo 'txt'
+man chmod
+chmod
+man chmod
+chmod octal txt
+man chmod
+chmod octal-mode txt
+man chmod
+chmod OCTAL txt
+chmod OCTAl-MODE txt
+man chmod
+man grep
+grep ccccc txt
+infor s
+infor ls
+info ls
+cd
+poweroff
+readme
+locate readme
+man locate
+locate -l 3 README
+man locate
+ls
+touch test
+ls
+locate -all test
+man locate
+locate -A test
+man locate
+locate test
+su -
+locate test
+man locate
+clear
+find test
+find -a test
+man test
+man find
+find ~ test
+find . test
+find test
+find . -test
+find ~ -name test
+find /home/2024.8/test
+.
+ls .
+ls ..
+ls ....
+ls .
+ls
+man cd
+man cp
+find . -name test
+ls
+mv test Escritorio
+ls
+ls Escritorio
+cd Escritorio
+mv test /home/2024.8
+cd
+ls
+mkdir User
+ls
+cd User
+mkdir Documents
+mkdir Downloads
+mkdir Test
+ls
+touch test
+ls
+cd Documents
+mkdir Hello
+cd Hello
+touch hey2
+touch helloa
+touch ola5
+cd ..
+ls
+mkdir World
+cd World
+touch earth9
+ls
+cd ..
+cd downloads
+cd Downloads
+ls
+mkdir Music
+cd Music
+ls
+mkdir Songs
+ls
+cd Songs
+touch collection1
+touch collection2
+cd..
+cd ..
+ls
+cd Test
+touch passa
+cd ..
+ls
+cd
+ls
+poweroff
+su -
+clear
+man apropos
+for a in UNO DOS TRES; do echo $a a
+for a in UNO DOS TRES; do echo $a ; si
+ls
+cp game Escritorio
+ls 
+ls Escritorio
+rm Escritorio/ game
+rm game Escritorio/
+ls
+cd Escritorio
+ls
+rm game
+cd ..
+man which
+ssh 2024.8@192.50.90
+ssh 2024.8@192.168.50.90
+ssh 2024.8@192.168.50.90
+ls
+poweroff
+poweroff
+ls
+hystori
+history
+ls
+ls Escritorio
+apropos
+man capropos
+man apropos
+man which
+which test
+which find
+which figlet
+whereis  figlet
+man which
+nano test
+cat test
+cd ..
+pwd
+uname
+uname -a
+clear
+uname
+uname -a
+ls
+cd home
+ls
+cd 2024.8
+cd ..
+cd jffuentes
+ls
+Escritorio
+less ace
+cd Escritorio
+ls
+cd roms
+ls
+man grep
+cd
+man grep
+ls /home/jffuentes/Escritorio/roms
+uname -a
+apropos version
+linux-version
+man uname
+apropos sistema
+apropos reinici
+apropos reiniciar
+
+cat history
+lsblk -b
+lsblk
+find history
+find .bash_history
+whereis .bash_history
+hystory
+hystori
+history
+history 20
+tail .bash_history
+tail 20 .bash_history
+mam tail
+man tail
+tail -n 10 .bash_history
+tail -n20 .bash_history
+tail -n 10 .bash_history
+head -n 20 .bash_history
+history
+su -
+head -n 20 .bash_history
+lsblk
+apropos bytes
+apropos megabytes
+apropos tamaño
+apropos fisico
+apropos fysical
+apropos gida
+apropos giga
+man lsblk
+apropos block
+man lsblk
+apropos block
+clear
+env
+env /usr/local/bin
+su -
+echo $PATH
+env
+HELLO=hola
+export HELLO
+bash
+d
+exit
+exit
+bash
+exit
+echo $myvar
+exit
+echo $HELLO
+export myvar
+echo $myvar
+export myvar=si
+bash
+exit
+echo $myvar
+set
+stat
+man stat
+ls
+stat test
+mv test text
+ls
+less text
+pwd
+more text
+cut 
+cut text
+apropos c
+apropos contar
+apropos count
+ln
+man ln
+whatis
+man whatis
+/passwd
+man whatis
+man whatis passwd
+HISTORY
+history -a
+history 
+passwd --
+poweroff
+ssh 2024.8@192.168.50.90
+ls
+touch prueba.gif
+ls
+ls .gif
+grep .gif | ls
+find .gif
+man fing
+man find
+find ".gif"
+ls
+less prueba.gif
+man bash
+rm prueba.gif
+ls
+mkdir prueba
+ls
+alias
+man alias
+alias "borrar_dir"="rm -r"
+borrar_dir
+borrar_dir prueba
+ls
+>s
+>echo ola
+echo ola
+<echo ola
+\
+\echo ola
+less text
+alias borrar=rm
+borrar text
+ls
+type exec
+type cd
+type cat
+whatis
+man whatis
+man man
+man -f passwd
+man hystori
+history
+man history
+echo $HISTFILE
+echo $PS2
+$PS2=+
+PS2=+
+echo $PS2
+>
+echo >
+ls --help
+--help ls
+ls
+find s: find echo
+find s
+find s; cat s
+less s
+nano s
+less s
+find s; cat s
+man find
+man bash
+ls -z | echo $
+ls -z
+echo $
+man bash
+echo $?
+ls -z
+echo $?
+echo $PWD
+cd Escritorio
+echo $PWD
+q
+cd ..
+ls
+ls /etc
+man ls
+ls -p /etc 
+ls -F /etc 
+ls -p /etc 
+locate ls
+find -a ls
+aprpos directorios de comandos
+apropos directorios de comandos
+xfc4 ls
+man crontab
+man crontab 5
+man crontab5
+man crontab p5
+man man
+man(5) crontab
+man (5) crontab
+man(5 crontab
+man man
+'man(5)' crontab
+man.5 crontab
+man man
+man crontab
+ps ax | grep postfix
+ps ax ; grep postfix
+ls -a -l /etc
+apropos password
+ls
+touch game{1..5}
+ls
+man history
+history -r
+history 
+man passwd
+touch 'touch'
+ls
+touch "$USER"
+ñs
+ls
+echo $PATH
+man ls
+ls
+touch xd.gif
+ls
+ls ".gif"
+ls '.gif'
+ls `.gif`
+ls | grep .gif
+locate man ls
+man locate
+ls -z | echo $?
+echo $PATH
+HISTSIZE 300
+HISTSIZE=300
+poweroff
+cd
+pwd
+wget https://asir.sudo.es/asi/dummy -O .bashrc
+chmod 755 .bashrc
+man chmod
+su -
+ls
+rm xd.gif
+lsç
+ls
+touch m.txt
+ls
+touch m.gif
+ls
+touch m.png
+la
+man la
+ls -a
+ls
+touch m.mp3
+ls
+rm game{1..5}
+rm m.png
+rm m.mp3
+rm m.gif
+rm m.txt
+ls
+la
+ls -a -l
+rm touch
+rm echo
+rm man(5)
+ls
+rm 'man(5)'
+rm s
+rm 2024.8
+ls -la
+cd ..
+ls
+jffuentes
+cd jffuentes
+ls
+rm ace
+less ace
+rm ace
+nano
+touch prueba
+su -
+ls
+less prueba
+su -
+cd
+su -
+ls
+cd Escritorio
+ls
+cd Apuntes
+ls
+nano 
+ls
+cd
+poweroff
+ls
+cd Escritorio
+ls
+rm -r prueba
+ls
+clear
+cd
+clear
+ssh 2024.2@10.10.10.30
+ssh 2024.2@10.10.10.30 "DISPLAY=:0 notify-send '<3'"
+ls
+mkdir secret
+ls
+ssh 2024.2@10.10.10.30 "DISPLAY=:0 notify-send 'ayyyy, q me voy a poner colorao'"
+cd secret
+nano
+ls
+less msg
+cd
+ssh 2024.2@10.10.10.30 "DISPLAY=:0 notify-send 'me encantan tus ojitos :)'"
+ssh 2024.2@10.10.10.30 "DISPLAY=:0 notify-send 'awwww, te amo muchoo, me haces muy feliz, no se como compensarte todo el amor que me estas dando'"
+ssh 2024.2@10.10.10.30
+ssh 2024.2@10.10.10.30 "DISPLAY=:0 notify-send 'adelante'"
+ssh 2024.2@10.10.10.30 "DISPLAY=:0 notify-send ':)'"
+ssh 2024.2@10.10.10.30 "DISPLAY=:0 notify-send 'a mi no me ha corregido lo del examen, se lo digo luego?'"
+zsh
+su -
+zsh
+exit
+history
+exit
+history
+exit
+ls
+ls Escritorio
+cd /.sesiones
+ls
+cd ..
+ls
+cd ..
+ls
+cd
+ssh 2024.8@192.168.50.90
+poweroff
+cd ..
+cd jffuentes
+ls
+cd Escritorio
+ls
+ls roms
+cp 'Legend of Zelda, The - A Link to the Past & Four Swords (Europe) (En,Fr,De,Es,It).gba' /home/2024.8/roms
+cp "'Legend of Zelda, The - A Link to the Past & Four Swords (Europe) (En,Fr,De,Es,It).gba'" /home/2024.8/roms
+su -
+cd
+ls
+ls roms
+ls secret
+ls
+retorarch
+retroarch
+cd ..
+ls -l
+ls -p
+cd etc
+ls -p
+ls -p -l
+man tr
+man tree
+tree
+sudo apt install tree
+su -
+tree
+tree /
+clear
+man tree
+tree -d /
+tree -d 
+tree -d | less
+cd
+tree
+tree -p
+ls -p | tree
+ssh 2024.8@192.168.50.90
+poweroff
+ls
+mkdir roms
+ls
+ls roms
+ls
+ls snap
+ls secret
+less secret/msg
+clear
+ssh 2024.2@10.10.10.30 "DISPLAY=:0 notify-send '<3'"
+clear
+exit
+ssh 2024.2@10.10.10.3 "DISPLAY=:0 notify-send '<3'
+exit
+ssh 2024.8@192.168.50.90
+poweroff
+ssh 2024.8@192.168.50.90
+su .
+su  -
+ssh 2024.8@192.168.50.90
+poweroff
+ls
+mkdir.xd
+mkdirxd
+mkdir .xd
+ls
+ls -a
+rm -r .xd
+ls -a
+exit
+man gwe
+man gwet
+man wget
+exit
+tree /
+exit
+exit
+ssh 2024.8@192.168.50.90
+poweroff
+exit
+su -
+4
+su -
+clear
+ls
+tree
+rm -r roms
+ls
+free -m
+man free
+free b
+free m
+free -b
+free
+free -m
+free -g
+cleR
+clear
+poweroff
+exit
+cat
+cat /
+ls
+less user
+less User
+ip a
+ssh 2024.2@10.10.10.54
+tree
+ls
+tree
+cd Escritorio
+ls
+less 2
+man tr
+tr -t 2 | less
+less 2
+tr -t "SG9sYSwgY2llbGl0by4gU8OzbG8gcXVlcsOtYSBkZWNpcnRlIHF1ZSB0ZSBhbW8gbXVjaG8geSBx
+dWUgc2lnbmlmaWNhcyBtdWNobyBwYXJhIG3DrS4gCgpNZSBlbmNhbnRhIHBhc2FyIGxvcyBkw61h
+cyBhIHR1IGxhZG87IGN1YW5kbyBub3MgY29nZW1vcyBkZSBsYSBtYW5vLCBjdWFuZG8gcGFzZWFt
+b3MganVudG9zLCAKY3VhbmRvIG5vcyBtaXJhbW9zLCBjdWFuZG8gdmFtb3MgYSBzaXRpb3MganVu
+dG9zLCBjdWFuZG8gZXN0YW1vcyBlbiBsYSBjYW1hIChzaWVudG8gc2VyIHZ1bGdhcik7IAptZSBl
+bmNhbnRhcy4KCk1lIGd1c3RhIGNhbnRhcnRlLCBiZXNhcnRlLCBhYnJhemFydGUsIG9ic2VydmFy
+dGUsIGFjYXJpY2lhcnRlLCBhYnJhemFydGUsIGFjdXJydWNhcm1lIGNvbnRpZ28sICAgICAKZGVz
+cGVydGFyIGEgdHUgbGFkbywgeSB2aXZvIHBvciBzZWd1aXIgaGFjaWVuZG8gdG9kYXMgZXN0YXMg
+Y29zYXMgeSBtdWNoYXMgbcOhcyBxdWUgYW5zw61vIHZpdmlyCmVuIHR1IGNvbXBhw7HDrWEuCgpM
+bGV2byB0YW4gcG9jbyB0aWVtcG8gY29udGlnby4uLiBwZXJvIHB1ZWRvIGRlY2lydGUgY29uIHNp
+bmNlcmlkYWQgcXVlIG5vIG1lIGhlIHNlbnRpZG8gdGFuIHF1ZXJpZGEuCk51bmNhIG1lIGhhbiBk
+ZW1vc3RyYWRvIHRhbnRvIGFtb3IgeSBjYXJpw7FvLCB0b2RvIHR1IGFwcmVjaW8geSB0dSBkZXZv
+Y2nDs24gcG9yIG3DrSBtZSBhYnJ1bWEsIHkgbWUgZW5jYW50YS4KQ8OzbW8gbWUgY3VpZGFzLCBj
+w7NtbyBtZSB0cmF0YXMsIGPDs21vIG1lIGhhYmxhcywgY8OzbW8gbWUgYmVzYXMsIGPDs21vIG1l
+IHF1aWVyZXMsIGPDs21vIG1lIG1pcmFzLi4uCm1lIGRlcnJpdGUgdHUgZm9ybWEgZGUgc2VyIHkg
+cG9kcsOtYSB0aXJhcm1lIG3DoXMgZGUgdW5hIHZpZGEgZGljaWVuZG8gdG9kbyBsbyBxdWUgbWUg
+Z3VzdGEgZGUgdGkuCgpEZXNkZSBlbCBmb25kbyBkZSBtaSBjb3JhesOzbiwgcXVpZXJvIHVuYSB2
+aWRhIGNvbnRpZ28sIGF2YW56YXIsIGNyZWNlciwgdml2aXIgIHkgbW9yaXIgY29udGlnby4gUXVp
+ZXJvIApsbG9yYXIgeSByZcOtciBhIHR1IGxhZG8sIHF1aWVybyBwYXNhciB0b2RhcyBsYXMgZXhw
+ZXJpZW5jaWFzIHkgZW1vY2lvbmVzIGEgdHUgbGFkbywgcXVlIG5vcyBheXVkZW1vcyAKeSBub3Mg
+YXBveWVtb3M7IHF1ZSBub3MgYW1lbW9zLiAgIAoKU2kgbG8gcXVlIHNpZW50byBwb3IgdGkgbm8g
+ZXMgYW1vci4uLiBwcmVmaWVybyBtb3JpciBhaG9yYSBwZW5zYW5kbyBxdWUgZXN0byBlcyBsbyBt
+w6FzIGJvbml0byBxdWUgCmxsZWdhcsOpIGEgc2VudGlyIGVuIG1pIHZpZGEgZW50ZXJhLgo" | less
+man tr
+man base64
+base64 -d SG9sYSwgY2llbGl0by4gU8OzbG8gcXVlcsOtYSBkZWNpcnRlIHF1ZSB0ZSBhbW8gbXVjaG8geSBx
+dWUgc2lnbmlmaWNhcyBtdWNobyBwYXJhIG3DrS4gCgpNZSBlbmNhbnRhIHBhc2FyIGxvcyBkw61h
+cyBhIHR1IGxhZG87IGN1YW5kbyBub3MgY29nZW1vcyBkZSBsYSBtYW5vLCBjdWFuZG8gcGFzZWFt
+b3MganVudG9zLCAKY3VhbmRvIG5vcyBtaXJhbW9zLCBjdWFuZG8gdmFtb3MgYSBzaXRpb3MganVu
+dG9zLCBjdWFuZG8gZXN0YW1vcyBlbiBsYSBjYW1hIChzaWVudG8gc2VyIHZ1bGdhcik7IAptZSBl
+bmNhbnRhcy4KCk1lIGd1c3RhIGNhbnRhcnRlLCBiZXNhcnRlLCBhYnJhemFydGUsIG9ic2VydmFy
+dGUsIGFjYXJpY2lhcnRlLCBhYnJhemFydGUsIGFjdXJydWNhcm1lIGNvbnRpZ28sICAgICAKZGVz
+cGVydGFyIGEgdHUgbGFkbywgeSB2aXZvIHBvciBzZWd1aXIgaGFjaWVuZG8gdG9kYXMgZXN0YXMg
+Y29zYXMgeSBtdWNoYXMgbcOhcyBxdWUgYW5zw61vIHZpdmlyCmVuIHR1IGNvbXBhw7HDrWEuCgpM
+bGV2byB0YW4gcG9jbyB0aWVtcG8gY29udGlnby4uLiBwZXJvIHB1ZWRvIGRlY2lydGUgY29uIHNp
+bmNlcmlkYWQgcXVlIG5vIG1lIGhlIHNlbnRpZG8gdGFuIHF1ZXJpZGEuCk51bmNhIG1lIGhhbiBk
+ZW1vc3RyYWRvIHRhbnRvIGFtb3IgeSBjYXJpw7FvLCB0b2RvIHR1IGFwcmVjaW8geSB0dSBkZXZv
+Y2nDs24gcG9yIG3DrSBtZSBhYnJ1bWEsIHkgbWUgZW5jYW50YS4KQ8OzbW8gbWUgY3VpZGFzLCBj
+w7NtbyBtZSB0cmF0YXMsIGPDs21vIG1lIGhhYmxhcywgY8OzbW8gbWUgYmVzYXMsIGPDs21vIG1l
+IHF1aWVyZXMsIGPDs21vIG1lIG1pcmFzLi4uCm1lIGRlcnJpdGUgdHUgZm9ybWEgZGUgc2VyIHkg
+cG9kcsOtYSB0aXJhcm1lIG3DoXMgZGUgdW5hIHZpZGEgZGljaWVuZG8gdG9kbyBsbyBxdWUgbWUg
+Z3VzdGEgZGUgdGkuCgpEZXNkZSBlbCBmb25kbyBkZSBtaSBjb3JhesOzbiwgcXVpZXJvIHVuYSB2
+aWRhIGNvbnRpZ28sIGF2YW56YXIsIGNyZWNlciwgdml2aXIgIHkgbW9yaXIgY29udGlnby4gUXVp
+ZXJvIApsbG9yYXIgeSByZcOtciBhIHR1IGxhZG8sIHF1aWVybyBwYXNhciB0b2RhcyBsYXMgZXhw
+ZXJpZW5jaWFzIHkgZW1vY2lvbmVzIGEgdHUgbGFkbywgcXVlIG5vcyBheXVkZW1vcyAKeSBub3Mg
+YXBveWVtb3M7IHF1ZSBub3MgYW1lbW9zLiAgIAoKU2kgbG8gcXVlIHNpZW50byBwb3IgdGkgbm8g
+ZXMgYW1vci4uLiBwcmVmaWVybyBtb3JpciBhaG9yYSBwZW5zYW5kbyBxdWUgZXN0byBlcyBsbyBt
+w6FzIGJvbml0byBxdWUgCmxsZWdhcsOpIGEgc2VudGlyIGVuIG1pIHZpZGEgZW5
+clear
+base64 -d /home/2024.8/Escritorio/2 | less
+poweroff
+ls
+cd Escritorio/
+ls
+nano 'te quiero mucho'
+cd
+ls
+ls Escritorio/
+clear
+cd
+ls
+cd Escritorio/
+touch prueba
+ls
+mv prueba prueba.txt
+ls
+rm prueba.txt 
+touch prueba.txt
+rm prueba.txt 
+exit
+exit
+cd Escritorio/
+nano 'Te quiero :3'
+ls
+base64 'Te quiero :3'
+base64 'Te quiero :3' >> 'Te quiero :3'
+ls
+less 'Te quiero :3' 
+rm 'Te quiero :3' 
+nano '1'
+base64 1 > 1
+ls
+less 1
+rm 1
+nano 1
+less 1
+base64 1
+less 1
+cat 1
+base64 1 > 2
+ls
+less 2
+rm 1
+less 2
+base64 -d 2 | less
+clear
+exit
+cowsay vale
+clear
+ls
+cd Escritorio
+ls
+man cd
+man cp
+cp 2 1/
+cp 2 1
+ls
+less 1
+less 2
+rm 1
+less 2
+less2
+less 2
+man cp
+cp 2 /home/jffuentes/Escritorio/1
+ls
+clear
+tree /
+cd
+clear
+lscpu
+ls
+cd Escritorio
+ls
+base64 -d /home/2024.8/Escritorio/2 | less
+lsblk
+base64 -d /home/2024.8/Escritorio/2
+clear
+base64 -d /home/2024.8/Escritorio/2 | less
+less 2
+~
+cd
+poweroff
+cd /home/jffuentes
+ls
+cd Escritorio
+ls
+mkdir 1
+mkdir prueba
+su -
+exit
+clear
+tree /
+clear
+ls
+hjsgfshowefgfsfskwyfg
+clear
+ls
+ls -al
+kjkkfmsjhsiesfhusifshjajdnajhakwnfhuyf
+m v 
+jksfmozsasfdgiu  
+tree /
+clear
+tree /
+exit
+cd Escritorio
+base64 2 | less
+base6 -d 2 | less
+base64 -d 2 | less
+cd
+clear
+lsblk
+free
+lspci
+poweroff
+poweroff
+DF
+df
+lsblk
+df
+umount /media/2024.8/#254336
+df
+man dd
+gpt
+apt install gpt
+su -
+clear
+ssh 2024.8@192.168.50.90
+ssh 2024.8@192.168.50.90
+poweroff
+man stat
+clear
+info stat
+ssh 2024.8@192.168.50.90
+power off
+poweroff
+ssh 2024.8@192.168.50.90
+suspend
+ls
+cd .sesiones/
+cat 2* > mirar
+less mirar
+cd
+ls-a
+ls -a
+poweroff
+ls -al
+cd Mission\ Statements
+cd .sesiones
+ls
+cat 2* > mirar
+ls
+less mirar.sync
+less mirar
+rm -r mirar.sync
+ls
+cd ../..
+cd ..;cd ..
+cd
+cd ..;cd ..
+cd ..
+cd
+cd ..
+cd
+tree -L
+tree -L 1
+tree -L 2
+tree -L 3
+tree 
+ls
+tree /User
+tree User/
+less secret/msg
+ls
+cd descargas
+cd
+cd ./Descargas
+cd ../..
+ls
+cd jffuentes
+ls
+cd
+tree
+sudo tree
+mkdir "this a text"
+ls
+cd 'this a text'
+cd
+cd this\ a\ text
+rm -r 'this a text'
+dcd
+cd
+rm -r 'this a text'cdç
+rm -r 'this a text'
+ls
+mkdir this is a text
+cd this/ is/ a/ text/
+cd this/ is/ a/ text
+ls
+rm -r this is a text
+ls
+mkdir "this is a text"
+ls
+cd this\ is\ a\ text/
+cd
+cd this\ is\ a\ text/
+mkdir ho\la
+ls
+rm -r hola
+ls
+cd
+rm -r this\ is\ a\ text/
+cd../..
+cd ../..
+tree -L 1
+ls
+ls -r
+ls -d
+man ls
+ls -f
+ls -F
+ls -d
+ls -p
+man tree
+tree -LF 1
+less bin
+cd bin
+ls
+cd
+less ls
+find ls
+ls
+cd ../../bin
+ls
+ls -F
+less linux32
+less mmd
+tree -L 1 /home
+man useradd
+cd
+useradd prueba
+tree /home
+man su
+su -jffuentes
+su - jffuentes
+ls ~jffuentes
+ls /home/jffuentes
+cd../..
+cd ../..
+cd ~
+cd ../..
+ls ~
+ls ~/Escritorio
+cd
+tree /home
+less ~/apuntes/comandos
+less ~jffuentes/apuntes/comandos
+ls -d
+man ls
+ls
+ls -lh
+ls -lrt
+ls -S
+ls
+ls -R
+poweroff
+ls
+su
+su -/
+su -root
+clrar
+clear
+su -jffuentes
+su - jffuentes
+exit
+cd .sesiones/
+ls
+rm mirar.sync 
+cat 2* > mirar
+less mirar
+cd ..
+ls -a
+cd .sesiones/
+ls
+rm mirar
+cat * > mirar
+ls
+cat * > mirar | less
+ls
+rm mirar
+cat * | less
+ls
+cat * | less
+cowsay a
+cd..
+cd ..
+clear
+su - jffuentes
+tree
+rm Descargas/discord-0.0.75.deb
+_Práctica Nº 4.- Modelo E_R y relacional.pdf
+rm Descargas/_Práctica Nº 4.- Modelo E_R y relacional.pdf
+rm Descargas/'_Práctica Nº 4.- Modelo E_R y relacional.pdf'
+rm Descargas/'Práctica Nº 4.- Modelo ER y relacional.rtf'
+tree
+logout
+poweroff
+cd .sesiones/
+ls
+cat 2* | less
+cd
+ls -al
+ls -a
+ls -al
+ls -alF
+ls lh
+ls -lh
+ls -lha
+ls .sesiones/
+ls .sesiones/ | wc
+ls -lha .sesiones/
+ls -lh .sesiones/
+clea
+clear
+exir
+exit
+poweroff
+ls -l
+ls -lF
+ls -Flh
+mkdir .oculto
+ls
+ls -a
+rm -r .oculto
+cd .sesiones/
+ls
+cat 2* 
+cat 2* | less
+cat 2* > mirar
+ls
+rm mirar
+ls
+cd ..
+ls -a
+mkdir .secret
+cd secret
+cat > /home/2024.8/.secret/
+ls /home/2024.8/secret/
+cat > /home/2024.8/.secret/msg
+ls
+less msg
+ls /home/2024.8/.secret/
+less /home/2024.8/.secret/msg
+less msg
+cd ..
+cd .secret
+rm msg
+cd ..
+cd secret
+ls
+cat ssh* > $HOME/.secret/msg
+cat m* > $HOME/.secret/msg
+less ../.secret/msg
+cd ..
+rm -r secret
+tree
+cd ./Escritorio/Apuntes
+cat Bandit.odt
+cat comandos.txt
+cd
+clear
+man mv
+ls
+cd Escritorio
+ls
+mv -am 2
+ls
+less 2
+touch -am 2
+ls
+ls -l
+man touch
+man cp
+tree /
+tree
+cd ..
+tree
+ls
+tree /
+ls /
+cd /tmp
+ls
+less config-err-1HKVRc
+ls -al
+ls -alF
+ls
+cd systemd-private-bee62101e87942518ba3affdb0662a21-colord.service-n9Ik7f
+su -
+cd
+ls
+touch xxx
+rm -i xxx
+mkdir -p /pueba1/prueba2/
+ls
+mkdir prueba
+rm -r prueba
+mkdir -p ./prueba/prueba1/prueba2/
+tree
+rm -rf prueba
+ls
+mkdir -p ./prueba/prueba1/prueba2/prueba3
+tree
+rm -r prueba
+exit
+poweroff
+su -
+man su
+su -
+ls
+cd ./Escritorio/Apuntes
+ls
+nano comandos.txt
+ls
+less comandos.txt
+nano comandos.txt
+nano
+ls
+man mv
+rm comandos.txt
+mv comandos_new.txt comandos.txt
+ls
+rm Comandos.odt
+ls
+nano
+ls
+rm Bandit.odt
+ls
+less comandos.txt 
+ls
+mkdir prueba
+cd prueba/
+nano 1
+ls
+nano 2
+cd ..
+touch tar
+ls
+tar -cvf tar prueba
+ls
+less tar
+tar -xvf tar
+ls
+less tar
+cd ..
+ls
+cd Apuntes/
+ls
+tar -xvf tar
+ls
+mkdir prueba2
+tar -xvf tar -C ./prueba2/
+ls
+cd prueba2
+ls
+cd ..
+tree
+rm - r prueba
+ls
+rm -r prueba
+rm -r ./prueba/prueba2
+rm -r ./prueba2/prueba
+ls
+tree
+tar -xvf tar 
+tree
+tar -xvf tar -C prueba2
+tree
+rm -r prueba prueba2 tar
+ls
+cd
+mkdir estudio
+ls
+cd estudio
+man cp
+cp $HOME/Escritorio/Apuntes/comandos.txt ./comandos.old
+ls
+tree $HOME
+ls
+makdir prueba prueba2 prueba3 prueba4
+mkdir prueba prueba2 prueba3 prueba4
+touch tar1 tar2 tar3
+tree
+mkdir ./prueba/1/2/3/
+mkdir -p ./prueba/1/2/3/
+ls
+tree
+tar -cvf tar1 prueba
+tree
+less tar
+less tar1
+tar -czvf tar1.tar.gz prueba
+ls
+ls tar1.tar.gz
+less tar1.tar.gz
+tar -czvf tar1.gz prueba
+ls
+rm tar1.gz tar1.tar.gz
+ls
+nano ../Escritorio/Apuntes/comandos.txt
+tree ../
+ls
+touch ./prueba/1/si
+touch ./prueba/2/no
+touch ./prueba/1/2/no
+tree
+tar -czvf archive.tar prueba
+ls
+less archive.tar
+tar -cjvf archive2.tar prueba
+ls
+less archive2.tar
+rm -r prueba3 prueba4
+ls
+tar-xzvf archive.tar
+tar -xzvf archive.tar
+ls
+less archive.tar
+rm -r prueba
+ls
+tree
+tar -xzvf archive.tar
+l
+ls
+tree
+nano ../Escritorio/Apuntes/comandos.txt
+tree
+rm archive2.tar
+mv archive.tar archive.zip
+ls
+man cpio
+ls | cpio -o > archive.cpio
+ls
+less archive.cpio
+ls
+less archive.cpio
+nano ../Escritorio/Apuntes/comandos.txt
+ls
+cpio -id < archive.cpio
+ls
+rm -i *
+s
+ls
+rmdir *
+tree
+rm -r prueba
+ls
+cpio -id < archive.cpio
+ls
+tree
+rm -ir *
+nano ../Escritorio/Apuntes/comandos.txt
+cd ..
+cd .sesiones/
+ls
+less 2024-11-26_11-30.sys-2024-8.2024.8.sesion_log
+rm 2024-11-26_11-30.sys-2024-8.2024.8.sesion_log
+ls
+less 2024-11-25_22-10.sys-2024-8.2024.8.sesion_log.sync
+less 2024-11-24_17-03.sys-2024-8.2024.8.sesion_log.sync
+nano 2024-11-24_17-03.sys-2024-8.2024.8.sesion_log.sync
+less nano 2024-11-24_17-03.sys-2024-8.2024.8.sesion_log.sync
+cd
+clear
+cd estudio
+ls
+nano
+nano 2
+ls
+dd if=oldfile of=newfile
+dd if=1 of=2
+ls
+less 2
+nano ../Escritorio/Apuntes/comandos.txt
+rm 1 2
+ls
+nano ../Escritorio/Apuntes/comandos.txt
+less archive.cpio 
+cd ..
+tree
+clear
+exit
+tree
+exit
+cd .sesiones/
+ls
+cat 2024-11-26_11-34.sys-2024-8.2024.8.sesion_log > sesion1
+ls
+mv ./sesion1 ../estudio/
+cd ..
+tree
+cd .sesiones/
+ls
+cd ..
+clear
+less estudio/sesion1
+cd .sesi
+cd .sesiones/
+ls
+less 2024-11-26_11-34.sys-2024-8.2024.8.sesion_log
+less 2024-11-26_09-56.sys-2024-8.2024.8.sesion_log
+cat 2024-11-26_09-56.sys-2024-8.2024.8.sesion_log > sesion1
+rm ../estudio/sesion1
+mv sesion1 ../estudio/
+tree ../
+cd ../estudio
+less sesion1 
+ls |cpio -o > archive.cpio
+ls
+less archive.cpio 
+rm -sesion1
+rm sesion1
+cpio -id < archive.cpio
+ls
+cd ../Escritorio/Apuntes
+ls | cpio -o > apuntes.cpio
+ls
+mv apuntes.cpio ../../estudio
+cd ../../estudio
+ls
+cpio -id < apuntes.cpio
+ls
+rm -r apuntes.cpio archive.cpio 
+ls
+ls | cpio -o > estudio.cpio
+ls
+tree ../
+rm -i *
+ls
+less estudio.cpio 
+cpio -id < estudio.cpio
+ls
+less comandos.txt
+less bandit.txt 
+rm sesion1 comandos.txt bandit.txt
+ls
+cd ..
+tree .a
+tree -a
+ls -a
+tree -a /
+clear
+exit
+man fin
+man find
+ls
+cd estudio/
+ls
+mkdir -p prueba/si
+ls
+tar -cvf archive prueba
+ls
+rm -r prueba
+tar xvf archive
+ls
+tree
+rm -r prueba
+rm archive
+ls
+find . -type f -exec grep "lpi" '{}' \;
+ls
+find . -type f -exec grep "lpi" '{}' \; -print
+touch lpi
+find . -type f -exec grep "lpi" '{}' \; -print
+rm lpi
+sudo find / -name "*.conf" -mtime 7
+ls
+cpio -id < estudio.cpio
+ls
+rm estudio.cpio
+ls
+ls | cpio -o > estudio.cpio
+ls
+rm sesion1 comandos.txt bandit.txt
+ls
+cd
+clear
+exit
+mkdir examen
+ls
+cd examen
+clear
+man mvdir
+man mv
+man tail
+man cp
+man rmdir
+ls
+touch x
+ls
+rmdir x
+rm x
+nano aeg
+less +c aeg
+less +tema aeg
+less +v aeg
+less +10 aeg
+less +v aeg
+less +c aeg
+man mkdir
+cat
+type cat
+man cat
+mkdir prueba
+cd prueba/
+nano a
+cd ..
+cat -A prueba
+cat prueba
+man cap
+man cp
+mkdir 2
+cp prueba 2
+cp -r prueba 2
+ls
+tree
+clear
+cat $home
+ls
+touch .x
+ls
+cp * 2
+cp -r * 2
+tree
+tree -a
+ls -a
+ls /sbin
+ls /abin
+clear
+cat -A /etc/passwd
+cat -I /etc/passwd
+cat -l /etc/passwd
+cat -n /etc/passwd
+cat -T /etc/passwd
+man cp
+ls -l
+man ls
+pwd
+pwd prueba
+pwd Escritorio
+man mv
+cat aeg
+nano
+cat aeg r
+man mv
+mv prueba prueba 2
+mv prueba prueba2
+ls
+cd /etc /
+man mv
+more aeg?
+more aeg ?
+man less
+man head
+tail -r r
+ls
+rm -r 2 ?
+rm -r 2?
+rm -r prueba2 ?
+ls
+mkdir
+mkdir 2
+rm -r 2?
+ls
+man mkdir
+man rmdir
+man cp
+man touch
+pwd
+less /etc/passwd
+man cat
+touch a_a.txt
+l
+ls -m /dev
+man ls
+man rm
+man rmdir
+man touch
+more -n5 aeg
+man ls
+mkdir -m750 D1
+ls -l
+nano aeg
+less +10 aeg
+cat 2
+cat -n aeg
+tree
+touch ./D1/a
+tree
+rm -r D1/*
+ls
+tree
+touch -r1 a
+ls
+touch -A a
+touch - aeg
+touch -r1 aeg
+ls
+touch -c aeg
+touch -a aeg
+touch -A aeg
+man ls
+ls -R
+less +c aeg
+less +10 aeg
+less +c  aeg
+man cp
+man ls
+ls -m /dev
+ls /dev
+ls -l /dev
+ls -lF /dev
+poweroff
+cd Escritorio/Apuntes
+nano comandos.txt 
+cd /etc
+tree | find . *
+tree | find . * | wc
+tree
+tree | find . * | wc
+poweroff
+ls
+tree examen
+rm -r examen
+exit
+poweroff
+ls
+cd ..
+ls
+cd ..
+ñs
+ls
+dep
+dev
+apropos dev
+cd
+ls
+cd Imágenes
+ls
+mkdir us
+mv masterpiecewp.png us
+ls
+tree
+exit
+exit
+exit
+poweroff
+poweroff
+echo -------------------------- > server_users_report.txt; echo Usuarios totales >> server_users_report.txt; echo $(cat /etc/passwd | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo Usuarios con shell bash >> server_users_report.txt; echo $(cat /etc/passwd | grep bash | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo Usuarios con shell false >> server_users_report.txt; echo $(cat /etc/passwd | grep false | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo $(cat /etc/passwd | cut -f1,5 -d : | egrep [^:]$ | sort -t ':') >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo $( cat /etc/passwd | cut -f3 -d : | head -n 1) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo $(cat /etc/passwd | cut -f3 -d : | tail -n 1) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt
+ls
+rm server_users_report.txt 
+find /bin -name "*n"
+ls /bin
+find /bin -name "*n"
+exit
+poweroff
+poweroff
+tree
+cd Escritorio/Apuntes/
+less comandos.txt 
+man gzip
+less comandos.txt 
+tar -czvf name-of-archive.tar.gz stuf
+ls
+tar -xzvf name-of-archive.tar.gz stuf
+rm name-of-archive.tar.gz 
+mkdir a
+tar -czvf name-of-archive.tar.gz a
+ls
+tar -xzvf name-of-archive.tar.gz
+ls
+rm -r a
+tar -xzvf name-of-archive.tar.gz
+la
+ls
+rm -r a name-of-archive.tar.gz 
+ls
+less comandos.txt 
+exit
+tree
+cd estudio
+ls
+less ../Escritorio/Apuntes/comandos.txt 
+cpio -id < estudio.cpio 
+ls
+less bandit.txt 
+less sesion1 
+less ../Escritorio/Apuntes/comandos.txt 
+ls | cpio -o > estudio.cpio 
+ls
+rm bandit.txt comandos.txt sesion1 
+ls
+cpio -id < estudio.cpio 
+ls
+rm bandit.txt comandos.txt sesion1 
+ls
+cd ..
+ls
+poweroff
+cd Descargas/
+ls
+./discord-0.076.dec
+./discord-0.076.deb
+discord-0.076.deb
+cd
+cd Escritorio/Apuntes/
+less comandos.txt 
+cd ..
+cd Descargas/
+ls
+rm *
+ls
+cd 
+poweroff
+ssh -p 1876 2024.2@79.117.195.227
+ssh -p 1876 ccabello@79.117.195.227
+ssh -p 1876 79.117.195.227
+ssh -p gate@1876 79.117.195.227
+ssh -p 1876 gate@79.117.195.227
+cat this is a text
+cat
+echo
+ls
+cd estudio/
+ls
+cat > prueba
+cat prueba 
+nano ../Escritorio/Apuntes/comandos.txt 
+man grep
+cat ../Escritorio/Apuntes/comandos.txt | grep find
+nano ../Escritorio/Apuntes/comandos.txt 
+nano ../Escritorio/Apuntes/expresiones_regulares.txt
+ls ../Escritorio/Apuntes
+ls
+bzip prueba 
+ls
+man bzip
+bzip2 prueba 
+ls
+cat prueba.bz2 
+bzcat prueba.bz2 
+apropo cat
+apropos cat
+clear
+ls
+cpcat estudio.cpio 
+ccat estudio.cpio 
+chcat estudio.cpio 
+bzip2 estudio.cpio 
+ls
+bzcat estudio.cpio.bz2 
+gzip estudio.cpio.bz2 
+ls
+zcat estudio.cpio.bz2.gz 
+bzip2 estudio.cpio.bz2.gz 
+ls
+man bzip
+man bzip2
+bzip2 -d estudio.cpio.bz2.gz.bz2 
+ls
+gzip -d estudio.cpio.bz2.gz 
+ls
+bzcat estudio.cpio.bz2 
+ls
+bzip2 -d estudio.cpio.bz2 
+ls
+cat estudio.cpio 
+clear
+nano ../Escritorio/Apuntes/comandos.txt 
+ls
+cat estudio.cpio | nl
+less ../Escritorio/Apuntes/comandos.txt 
+nano ../Escritorio/Apuntes/comandos.txt 
+clear
+nano ../Escritorio/Apuntes/comandos.txt 
+man sed
+ls
+bzcat prueba.bz2 
+bzip2 -d prueba.bz2 
+ls
+cat > prueba 
+sed -n /cat/p < prueba 
+man sed
+sed -n /cat/ < prueba 
+sed /cat/p < prueba 
+cat prueba 
+cat > prueba 
+cat prueba 
+sed -n /cut/p < prueba 
+cat prueba 
+sed  /cut/p < prueba 
+cat >> prueba 
+cat prueba 
+sed -n /cat/p < prueba 
+sed /cat/p < prueba 
+sed /cat/d < prueba 
+nano ../Escritorio/Apuntes/comandos.txt 
+sed -n /cat/d < prueba 
+sed s/cat/dog < prueba 
+cat prueba 
+sed s/cat/dog/ < prueba 
+cat prueba 
+sed /dod/cat/s < prueba 
+sed /cat/dog/s < prueba 
+sed /dod/cat/s < prueba 
+sed /dog/cat/s < prueba 
+sed /cat/s/dog/ < prueba 
+sed s/cat/dog/ < prueba 
+sed s/cat/doge/ < prueba 
+nano ../Escritorio/Apuntes/comandos.txt 
+sed s/cat/doge/ < prueba 
+cat prueba 
+man sed
+nano ../Escritorio/Apuntes/comandos.txt 
+man sed
+sed -i.backup s/cat/dog/ prueba 
+ls
+cat prueba.backup 
+cat prueba
+mv prueba sed
+mv prueba.backup sed.backup
+ls
+man sha256sum
+sha256sum sed
+sha256sum sed > sha256.txt
+cat sha256.txt 
+sha256sum -c sha256.txt 
+nano ../Escritorio/Apuntes/comandos.txt 
+mv sed ftu.txt
+mv sed.backup ftu.txt.backup
+ls
+nano ../Escritorio/Apuntes/comandos.txt 
+sha256 ftu.txt.backup > copia
+sudo apt install hashalot
+su - jfuentes
+less /home/
+ls /home/
+su - jffuentes
+ls
+cat copia 
+less copia 
+nano copia 
+sha256 ftu.txt.backup > copia
+cat copia 
+cat ftu.txt.backup 
+sha256 copia
+cat copia 
+man sha566
+man sha556
+man sha256
+sha256
+od
+od ftu.txt
+od -X ftu.txt
+od -x ftu.txt
+ls
+cat estudio.cpio 
+gzip estudio.cpio 
+ls
+less estudio.cpio.gz 
+od -c estudio.cpio.gz 
+gzip -d estudio.cpio.gz 
+ls
+od -c ftu.txt
+od -An -c ftu.txt
+exit
+ls -a
+cd .sesiones/
+ls
+cat 2024-12-08_13-13.sys-2024-8.2024.8.sesion_log
+su - jffuentes
+poweroff
+cd Escritorio/Apuntes/
+less comandos.txt 
+nano comandos.txt 
+less comandos.txt 
+nano comandos.txt 
+poweroff
+ls
+su - jffuentes
+ls -a
+su -
+su - jffuentes
+poweroff
+exit
+cd Escritorio/Apuntes/
+ls
+less comandos.txt 
+nano comandos.txt 
+vi bandit.txt 
+cd Escritorio/Apuntes/
+nano comandos.txt 
+nano expresiones
+cd
+ls
+rm -r a
+mkdir a
+cd Escritorio/Apuntes/
+poweroff
+ls
+ls -a
+ls /home/jffuentes/
+ls -a /home/jffuentes/
+clear
+man regex
+ssh 2024.8@192.168.50.90
+man grep
+ls
+less Escritorio/Apuntes/comandos.txt 
+less Escritorio/Apuntes/expresiones 
+grep -v . Escritorio/Apuntes/expresiones 
+grep -v Escritorio/Apuntes/expresiones .
+grep -v expresiones Escritorio/Apuntes/expresiones
+grep -v un Escritorio/Apuntes/expresiones
+clear
+grep -v un Escritorio/Apuntes/expresiones
+cd Escritorio/Apuntes/
+nano comandos.txt 
+cd
+clear
+ls
+mkdir examen
+cd examen/
+ls
+ls --
+ls ..
+fgrep
+man fgrep
+fgrep -i "^c[ao]sa" /etc/passwd >texto.txt
+ls
+cat texto.txt 
+fgrep -v "^c[ao]sa" /etc/passwd >texto.txt
+cat texto.txt 
+clear
+man sed
+man split
+man grep
+man split
+man nl
+man grep
+man wc
+grep bash /etc/passwd | wc -l
+grep bash /etc/passwd | wc -L
+wc -L /etc/passwd |grep bash
+man uniq
+wc -l .*
+wc -l.*
+ls -ld
+cd ..
+wc -l.*
+wc -l .*
+ls -l .*
+ls -ld .*
+clear
+cd examen/
+man join
+man 5 passwd 
+man sort
+man 5 passwd 
+man paste
+wc
+man cat
+man grep
+cd ..
+ls
+touch a
+ls -alF
+ls -alF | grep "^d"
+ls -alF | egrep "^d"
+ls -alF | fgrep "^d"
+ls -alF | egrep "^d"
+ls -alF | grep "^d"
+ls -alF | egrep "^d"
+ls -al | egrep "^d"
+ls -al | fgrep "^d"
+ls -alF | egrep "^d"
+ls -al | egrep "^d"
+man tr
+nano a
+ls
+rm -r a
+nano a
+less a > b
+cat b
+less a > c
+cat c
+more a > d
+cat d
+cd a
+cd examen/
+nano a
+more a > d
+more a > ../d
+cat ../d
+less a > ../c
+cat ../c
+cur a > ../b
+cut a > ../b
+nano
+head a
+man grep
+cat $HOME
+echo > $HOME
+echo >$HOME
+echo <$HOME
+echo < $HOME
+sha1sum < $USER
+echo < $USER
+sha1sum < $USER
+sha1sum <$USER
+$USER > sha1sum
+man nl
+cat -b a 
+nl a
+man paste
+man cut
+man split
+man sort
+ls -1
+ls
+ls -L
+ls
+cat /etc/passwd
+man 5 passwd 
+ls | tac
+man wc
+man sort
+cat /etc/group
+sed s/-/./g < echo $TODAY
+echo $TODAY > sed s/-/./g
+ls
+echo $TODAY > $(sed s/-/./g)
+ls -1
+ls -1F
+ls -1Fa
+man ln
+man nl
+ls
+wc -c a
+wc -l a
+tail -2 a
+man sort
+fhm a
+fmt
+fmt a
+set +B
+set +A
+set +D
+set +C
+cat -E a
+head -t a
+head -v a
+head -h a
+head -f a
+wc -c a
+wc a -m
+wc a -c
+man sort
+poweroff
+ssh -p 2220 bandit1@bandit.labs.overthewire.org 
+ssh -p 2220 bandit8@bandit.labs.overthewire.org 
+exit
+cd Escritorio/Apuntes/
+less bandit.txt 
+less comandos.txt 
+ls
+cd
+ls
+rm a b c d
+ls
+cd Descargas/
+ls
+rm -r discord-0.0.77.deb 
+poweroff
+su - jffuentes
+exit
+poweroff
+exit
+ls
+tree snap
+cd estudio/
+ls
+cd ..
+ls
+cd imagenes
+cd Imagenes
+cd Imágenes
+ls
+cd us
+ls
+mv masterpiecewp.png /home/jffuentes/Imágenes/
+su -
+ls
+ssh gate@192.168.50.70
+tree /
+clear
+figlet a
+figlet 
+clear
+poweroff
+poweroff
+poweroff
+ls
+man tar
+su - jffuentes 
+exit
+poweroff
+exit
+cd .se
+cd .sesiones/
+ls
+exit
+POWEROFF
+poweroff
+ip link
+ip link show
+poweroff
+calculador
+calculadora
+calculator
+ip addr show
+su -
+ip a
+ip
+ip link
+ip link show
+nmcli device
+ls
+cat /etc/network/interfaces
+cd /etc/network/interfaces
+cd /etc/network
+ls
+tree
+cd if-down.d/
+ls
+less openvpn 
+less wpasupplicant 
+less openvpn 
+cd ..
+ls
+cd if-up.d/
+ls
+auto lo
+ip a
+ifup lo
+poweroff
+tree /
+clear
+lspci
+cd /etc/network
+ls
+cd ../hostname
+cd ..
+cd ls
+ls
+cat hostname 
+su -jffuentes
+su - jffuentes
+hostnamectl set-hostname sukoshi
+su -
+exit
+su -
+exit
+hostnamectl status
+cd Escritorio/Apuntes/
+ls
+nano comandos.txt 
+hostnamectt
+hostnamectl
+nano comandos.txt 
+cat /etc/nsswitch.conf
+cat /etc/host
+cat /etc/hosts
+cat /etc/resolv.conf
+poweroff
+ls
+tree
+cd Imágenes/Capturas\ de\ pantalla/
+ls
+rm -r *
+ls
+cd ../..
+ip a
+man pve
+man vboxmanage
+cd ..
+cd jffuentes/
+tree
+rm -r busqueda
+man tar
+tar -t busqueda.tal
+tar -tf busqueda
+tar -tf busqueda.tar
+rm -r busqueda
+ls
+tree
+rm -r busqueda
+su -jffuentes
+su - jffuentes
+poweroff
+nmcli
+man nmcli
+nmcli
+nmtui
+nmcli
+nmtuiq
+nmcli
+nmtui
+nmcli general
+nmcli monitor
+nmcli agent
+nmcli radio
+nmcli networking
+nmcli connection
+nmcli device
+nmcli device wifi list
+poweroff
+cd Escritorio/Apuntes/
+nano redes.txt
+nano comandos.txt 
+nano redes.txt
+nmtui
+poweroff
+ifconf
+ifconfig
+ip a
+ip link
+ls
+tree User/
+mkdir iso
+mv Descargas/debian-12.9.0-amd64-netinst.iso iso
+tree
+lspci
+ip addr show
+ss
+nmcli device wifi list
+cd ..
+cd
+cd .sesiones/
+ls
+cat 2* > mirar
+less mirar 
+ls
+rm mirar 
+exit
+nmcli
+nmcli device 
+nmcli device wifi list
+nmcli general
+nmtui
+nano Escritorio/Apuntes/redes.txt 
+ls
+cd iso/
+ls
+ls 1
+ls -f
+ls -F
+ls -1
+ls -1al
+cd
+cd iso/
+less debian-12.9.0-amd64-netinst.iso 
+cat debian-12.9.0-amd64-netinst.iso 
+61;1;21;22c1;1;120;120;1;0x1;1;120;120;1;0x61;1;21;22c61;1;21;22c1;1;120;120;1;0x61;1;21;22c61;1;21;22c1;1;120;120;1;0x61;7600;1c61;1;21;22c1;1;120;120;1;0x61;1;21;22c1;1;120;120;1;0x61;1;21;22c61;1;21;22c1;1;120;120;1;0x1;1;120;120;1;0x61;1;21;22c1;1;120;120;1;0x61;1;21;22c1;1;120;120;1;0x1;1;120;120;1;0x61;1;21;22c61;1;21;22c1;1;120;120;1;0x61;1;21;22c61;1;21;22c1;1;120;120;1;0x1;1;120;120;1;0x61;1;21;22c1;1;120;120;1;0x61;1;21;22c
+clear
+exit
+exit
+cd /etc
+ls
+clear
+less host
+less hostname
+less resolv.conf 
+less nsswitch.conf 
+wpa
+wpa_passphrase
+man wpa_passphrase
+less resolv.conf 
+man ifup
+nmcli device
+nmcli networking
+nmcli monitor
+nmcli connection
+nmcli general
+less host
+less hosts
+ip link show
+less .network
+cd systemd/
+cd network/
+less .network
+ls
+ls -a
+man hostnamectl
+cd ../..
+cd hostname
+less hostname 
+cd systemd/
+ls
+man nmcli
+nmcli device add
+man nmcli device
+cd /
+cd run/
+ls
+cd ..
+hostnamectl
+hostnamectl status
+man hostnamectl
+less etc/hosts
+ip a
+cdetc
+cd etc
+less resolv.conf 
+less nsswitch.conf 
+ip link dev
+less dns.conf
+man nmcli
+vboxmanage
+poweroff
+su -
+passwd -a
+man passwd
+passwd a
+passwd 2024.8 a
+passwd 2024.8
+su -
+vboxmanage list
+su -
+vboxmanage list
+su -
+su -
+ls
+c
+cd
+ls
+ls -a 
+la -a -l
+la -a
+ls -a -l
+man ls
+poweroff
+exit
+man ls
+exit
+man cat
+man ls
+cowsay hola alejandro, que tal el dia
+exit
+eit
+exit
+clear
+nano
+man nano
+nao
+nano
+nano
+ls
+less f1
+su -
+su -
+rm f1
+ls
+mkdir f
+ls
+nano
+ls
+cp f1 f
+ls
+ls f
+rm f1
+ls
+ls f
+clear
+pwd
+cd f
+ls
+cp f1 /home/2024.8
+cd..
+ls
+cd ..
+ls
+history
+ls -a
+ls -l
+okokokokokokokokokokokokokokokokokokokokokokokokokokokoko
+man find
+man cp ls
+man cp ls
+man cp ls
+man cp ls
+exit
+man more
+man wc
+man ln
+man wc
+man cut
+man more
+man wc
+man stat
+man ln
+man more
+man cat
+man stat
+man wc
+man touch
+clear
+la
+ls
+ls
+exit
+ls
+ls
+clear
+ls
+cd ..
+ls
+cd /.service
+cd ..
+ls
+clear
+ls
+cd
+ls
+ls -la
+cd .sesiones
+ls
+less 2024-10-29_12-52.vms-k8s.2024.8.sesion_log.sync
+exit
+cd
+pwd
+echo $HOME
+man mkdir
+ls
+rm 'ls(1)'
+ls
+rm ''$'\033''OB'$'\033''OB'$'\033''OB'$'\033''OB'$'\033''OB'$'\033''OB'$'\033''OB'$'\033'
+ls
+clear
+ls
+mkdir temporal
+ls
+cd temporal
+mkdir /home/2024.8/prueba
+ls
+cd ..
+ls
+tree
+clear
+tree
+ls /
+ls -p /
+l
+ls
+cd ./prueba
+cd
+ls kill
+man kill
+exit
+ls
+tree
+apt install tree
+su -
+man find
+find
+find .
+find . -name
+find . -name ssh
+find . -name "ssh
+
+
+find . -name "ssh"
+ls
+find . -name f1
+exit
+exit
+echo $HOME
+echo $USER
+man mkdir
+ls
+mkdir bases2
+ls
+cd
+ls
+mkdir bases2/p13
+ls
+ls bases2
+cd /etc
+ls
+cd
+cd bases2/etc
+cd bases2/p13
+ls /etc
+ls /etc a*
+ls a* /etc 
+man ls
+ls -a*
+ls -a
+cd /etc
+ls -p
+ls -d
+ls -D
+ls -d a*
+ls -pd a*
+ls -p a*
+ls -pd a*
+ls -apd a*
+man wget
+mkdir /home/2024.8/bases2/p13/alternatives
+mkdir /home/2024.8/bases2/p13/apparmor
+mkdir /home/2024.8/bases2/p13/apparmor.d
+mkdir /home/2024.8/bases2/p13/apt
+ls -adp b*
+mkdir /home/2024.8/bases2/p13/bash_completion.d
+mkdir /home/2024.8/bases2/p13/binfmt.d
+ls -apd c*
+mkdir /home/2024.8/bases2/p13/{ca-certificates,console-setup,cron.daily,cron.monthly,cron.weekly,cron.d,cron.hourly}
+tree /home
+ls /home/2024.8
+ls /home/2024.8/bases2/p13
+rm -r /home/2024.8/bases2/p13/*
+ls /home/2024.8/bases2/p13
+ls /home/2024.8/bases2
+find . -name "[abc]*"
+find . -name "[abc]*" | wc
+find . -maxdep 1 -name "[abc]*"
+find . -maxdepth 1 -name "[abc]*"
+man wget
+find . -maxdepth 1 -type d -name "[abc]*"
+find . -maxdepth 1 -type d -name "[abc]*" -exec
+find . -maxdepth 1 -type d -name "[abc]*" -exec mkdir /home/2024.8/bases2/p13/{}\;
+find . -maxdepth 1 -type d -name "[abc]*" -exec mkdir /home/2024.8/bases2/p13/{} \;
+cd /home/2024.8/bases2/p13
+ls -l
+ls -la
+wc
+ls -la | wc
+ls | wc
+ls -la | wc
+ls | wc
+ls
+TREE
+tree
+tree64
+wget https://asir.sudo.es/software/linux/ejecutables/tree64
+tree
+tree64
+man file
+ls
+file tree64
+./tree64
+ls -l tree64
+chmod 755 tree64
+./tree64
+./tree64 /usr/local
+./tree64 /usr/local/game
+./tree64 /usr/local/games
+./tree64 /usr/local
+man alias
+alias 
+alias hola echo
+alias echo hola
+man alias
+alias "echo" "hola"
+alias tree='./tree64'
+tree
+man bash
+exit
+ls
+ls bases2/p13
+tree
+alias tree64=tree
+tree
+tree64
+man bash
+alias -p tree64=tree
+alias ./tree64=tree
+alias "./tree64"="tree"
+tree
+./tree64
+/home/2024.8/bases2/p13/tree64
+/home/2024.8/bases2/p13/tree64
+/home/2024.8/b
+clear
+
+cd /home/2024.8/bases2/p13
+./tree64 /usr/local/ > ./arbol
+ls
+less arbol
+man mkdir
+echo dire1 | xargs -I {} mkdir {}
+ls
+find -type d
+mkdir ampliar
+l
+ls
+find -type d | xargs -I {} mkdir ./ampliar/{}
+rm -r ampliar
+ls
+find -type d | xargs -I {} mkdir ./ampliar/{}
+mkdir ampliar
+find -type d | xargs -I {} mkdir ./ampliar/{}
+ld
+ls
+find -type d -name "b*" | xargs -I {} mkdir ./ampliar/{}
+rm -r ampliar
+find -type d -name "b*" | xargs -I {} mkdir ./ampliar/{}
+ls
+find -type d -name "b*" | xargs -I {} mkdir -p ./ampliar/{}
+ls
+ls ampliar
+rm -r ampliar
+mkdir ampliar
+find -type d -name "b*" | xargs -I {} mkdir ./ampliar/{}
+ls
+ls ampliar
+ls
+rm -r ampliar
+find -type d | xargs -I {} mkdir ./ampliar/{}
+mkdir ampliar
+find -type d | xargs -I {} mkdir ./ampliar/{}
+find -type d -name "b*" | xargs -I {} mkdir ./ampliar/{}
+ls
+ls ampliar
+rm -r ampliar
+ls
+mkdir ampliar
+find -type d | xargs -I {} mkdir ./ampliar/{}
+ls
+ls ampliar
+rm -r ampliar
+ls
+less arbol
+ls -a
+ls -al
+man rename
+ls
+scd
+cd
+mkdir temporal
+ls
+cd temporal
+ls
+touch A B C D E
+ls -la
+rm {A,B,C,D,E}
+l
+ls
+mkdir copiamueve
+cd copiamueve/
+touch A B C D E
+mkdir movimientos
+mv A movimientos/
+ls -l
+nano B
+ls -l
+cp B B_copia
+ls -l
+cp ? movimientos/
+mkdir completo
+cd
+mkdir ./bases2/p02
+ls
+cd /urs/share/
+cd /usr/share/
+pwd
+find -type f | grep {a,e.i.o.u}
+find -type f | grep {a,e,i,o,u}
+find -type f
+find -type f -name "{a,e,i,o,u}"
+find -type f -name "[aeiou]"
+find -type f -name "[aeiou]*."
+find -type f -name "[aeiou]*.
+
+
+
+
+find -type f -name "[aeiou]*.[01234]*"
+find -type f -name "[aeiou]*.[01234]*" | less
+find -type f -name "[aeiou]*.[01234]*" | xargs -I {} cp {} /home/bases2/p02
+find -type f -name "[aeiou]*.[01234]*" | xargs -I {} cp {} /home/bases2/p02/
+find -type f -name "[aeiou]*.[01234]*" | xargs -I {} cp {} /home/2024.8/bases2/p02/
+cd
+ls
+wc bases2
+cd bases2/p02
+wc
+ls
+exit
+clear
+less /etc/services
+pwd
+echo $HOME
+touch /home/bases2/p04/ayuda_paginacion.txt.
+man mkdir
+mkdir -p /home/bases2/p04/ayuda_paginacion.txt.
+mkdir -p /home/bases2/p04/ayuda_paginacion.txt
+less /home/bases2/p04/ayuda_paginacion.txt
+mkdir -p /home/bases2/p04
+mkdir ./bases2/p04
+ls
+cd bases2
+ls
+nano
+less
+ls
+rm ayuda_paginacion.txt.
+ls
+cd p04
+nano
+ls
+nano ayuda_paginacion.txt.
+ls
+rm ayuda_paginacion.txt.
+ls
+less ayuda_paginacion.txt
+nano ayuda_paginacion.txt
+poweroff
+exit
+clear
+more /etc/services
+less /etc/services
+clear
+more /etc/services
+less /etc/services
+cd
+ls
+less /etc/services
+more /etc/services
+clear
+more /etc/services
+les
+ls
+cd bases2
+ls
+cd p04
+ls
+lessayuda_paginacion.txt
+less ayuda_paginacion.txt
+nano ayuda_paginacion.txt
+cd ..
+ls
+mkdir p03
+ls
+cd ./p03/
+ls bases2
+cd ..
+ls
+cd p02
+ls
+cd ..
+ls
+cd p13
+ls
+cd ..
+cd p02
+cd ..
+cd p03
+ls
+pwd
+ls $HOME/bases2/p02 | sort
+man move
+man mv
+a64l.3.gz aa-enabled.1.gz aa-exec.1.gz abort.3.gz abs.3.gz
+suspend
+man mv
+ls $HOME/bases2/p02 | sort
+man find
+man mv
+mv $(ls $HOME/bases2/p02 | find a* | head -n 5) .
+mv $(ls $HOME/bases2/p02 | find -name a* | head -n 5) .
+mv $(ls $HOME/bases2/p02 | find -name "a*" | head -n 5) .
+mv $(ls $HOME/bases2/p02 | find -name "a*" | head -n 5) bases2/p03/
+mv $(ls $HOME/bases2/p02 | grep -i "a*" | head -n 5) bases2/p03/
+mv $(ls $HOME/bases2/p02 | grep -i "a*" | head -n 5) /bases2/p03/
+mv $(ls $HOME/bases2/p02 | grep -i "a*" | head -n 5) /bases2/p03
+mv $(ls $HOME/bases2/p02 | grep -i "a*" | head -n 5) ./bases2/p03
+mv $(ls $HOME/bases2/p02 | grep -i "a*" | head -n 5) ~/bases2/p03
+mv $(ls $HOME/bases2/p02 | find -name "a*" | head -n 5) ~/bases2/p03
+mv $(ls ~/bases2/p02 | find -name "a*" | head -n 5) ~/bases2/p03
+mv $(ls ~/bases2/p02 | find -name "a*" | head -n 5) xargs -l {} {} ~/bases2/p03
+mv $(ls ~/bases2/p02 | find -name "a*" | head -n 5) xargs -I {} {} ~/bases2/p03
+mv $(ls ~/bases2/p02 | find -name "a*" | head -n 5) xargs -I {} ~/bases2/p03
+xargs -I {} mv $(ls ~/bases2/p02 | find -name "a*" | head -n 5) {} ~/bases2/p03
+xargs -I {} | mv $(ls ~/bases2/p02 | find -name "a*" | head -n 5) {} ~/bases2/p03
+ls
+xargs -I {} mv $(ls ~/bases2/p02 | find -name "a*" | head -n 5) {} ~/bases2/p03
+cd ..
+ls
+cd p04
+ls
+cd ..
+cd p03
+mv $(ls $HOME/bases2/p02 | grep -i 'a*' | head -n5) $home/bases2/p03/
+mv $(ls $HOME/bases2/p02 | grep -i 'a*' | head -n5) $HOME/bases2/p03/
+echo $HOME
+ls $HOME/bases2/p03
+ls $HOME/bases2
+mv $(ls $HOME/bases2/p02 | grep -i 'a*' | head -n5) $HOME/bases2/p03/
+man mv
+cd ..
+rm -r p03
+ls
+mkdir p03
+ls
+cd p03
+mv $(ls $HOME/bases2/p02 | grep -i 'a*' | head -n5) $HOME/bases2/p03/
+mv $(ls $HOME/bases2/p02/ | grep -i 'a*' | head -n5) $HOME/bases2/p03/
+mv $(ls $HOME/bases2/p02 | grep -i '^a' | head -n 5) $HOME/bases2/p03/
+mv $(ls $HOME/bases2/p02 | grep -i 'a*' | head -n 5) $HOME/bases2/p03/
+ls $HOME/bases2/p02 | sort
+ls $HOME/bases2/p02 | wc
+mv $(ls $HOME/bases2/p02 | grep -i 'a*' | head -n 5) $HOME/bases2/p03/
+cd ..
+cd p02
+ls | wc
+cd ..
+cp -ra p02 p02.old
+ls
+man cp
+mv $(find $HOME/bases2/p02 | grep -i 'a*' | head -n 5) $HOME/bases2/p03/
+exit
+clear
+man greep
+man grep
+clear
+less /etc/services
+more /etc/services
+man grep
+more /etc/services
+man more
+more /etc/services
+man more
+more /etc/services
+cd bases2/p02
+cd .
+cd ..
+ls
+man cp
+exit
+ff
+tree /
+tree64
+clear
+exit
+clear
+ls
+cd bases2
+ls
+less p02.old
+cat p02.old
+ls p02.old
+ls p02.old | sort
+nano p02.old
+man mv
+mv p02.old p02
+ls
+cd p03
+ls
+ls p02 | sort
+ls
+rm -r p02
+ls
+cd ..
+ls
+man cp
+cp -ta  p02 p02.old
+cp -t -a  p02 p02.old
+cp -t p02 p02.old
+cp p02 p02.old
+man cp
+cp -r p02 p02.old
+ls
+ls p02 | sort
+ls p02.old | sort
+clear
+cd p03
+mv $(ls $HOME/bases2/p02 | grep -i 'a*' | head -n 5) $HOME/bases2/p03/
+mv $(ls $HOME/bases2/p02 | find -name 'a*' | head -n 5) $HOME/bases2/p03/
+man grep
+mv $(ls $HOME/bases2/p02 | grep 'a*' | head -n 5) $HOME/bases2/p03/
+mv $(ls $HOME/bases2/p02 | find -name 'a*' >  head -n 5) $HOME/bases2/p03/
+mv $(ls $HOME/bases2/p02 | find -name 'a*' | head -n 5) $HOME/bases2/p03/
+man find
+mv $(find -name 'a*' $HOME/bases2/p02 | head -n 5) $HOME/bases2/p03/
+mv $(find -name 'a*' $HOME/bases2/p02/ | head -n 5) $HOME/bases2/p03/
+mv $(find -name "a*" $HOME/bases2/p02/ | head -n 5) $HOME/bases2/p03/
+man find
+find -name "a*" $HOME/bases2/p02/
+mv $(find -name "a*" $HOME/bases2/p02/ | head -n 5) $HOME/bases2/p03/
+find $HOME/bases2/p02/ -name "a*"
+mv $(find $HOME/bases2/p02/ -name "a*" | head -n 5) $HOME/bases2/p03/
+ls
+mv $(find $HOME/bases2/p02/ -name "[aeiou]*" | head -n 5) $HOME/bases2/p03/
+ls
+mv $(find $HOME/bases2/p02/ -name "e*" | head -n 5) $HOME/bases2/p03/
+mv $(find $HOME/bases2/p02/ -name "i*" | head -n 5) $HOME/bases2/p03/
+mv $(find $HOME/bases2/p02/ -name "o*" | head -n 5) $HOME/bases2/p03/
+mv $(find $HOME/bases2/p02/ -name "u*" | head -n 5) $HOME/bases2/p03/
+ls
+ls | wp
+ls | wc
+exit
+cd bases2/p03/
+ls
+pwd
+ls -1 ../p02/
+ls -1 ../p02/ | less
+ls -1 ../p02/ | wc
+ls
+ls a*
+ls e*
+ls e* | wc
+rm *
+ls
+cd 
+cd .sesiones/
+ls
+cat 2024-11-21_13-35.vms-k8s.2024.8.sesion_log
+cat 2024-11-06_10-26.vms-k8s.2024.8.sesion_log.sync
+cat 2024-11-06_10-26.vms-k8s.2024.8.sesion_log.sync| less
+ls
+grep mv *
+a=$(find $HOME/bases2/p02/ -name "[aeiou]*" | head -n 5)
+echo $a
+find $HOME/bases2/p02/ -name "o*" | head -n 5
+find $HOME/bases2/p02/ -name "a*" | head -n 5
+find $HOME/bases2/p02/ -name "b*" | head -n 5
+find $HOME/bases2/p02/ -name "e*" | head -n 5
+find $HOME/bases2/p02/ -name "i*" | head -n 5
+find $HOME/bases2/p02/ -name "o*" | head -n 5
+find $HOME/bases2/p02/ -name "u*" | head -n 5
+mv $(find $HOME/bases2/p02/ -name "a*" | head -n 5) $HOME/bases2/p03/
+cd 
+cd bases2/p03
+ls 1
+ls 
+cd bases2/p03
+ls
+mv $(find $HOME/bases2/p02.old/ -name "e*" | head -n 5) $HOME/bases2/p03/
+ls
+mv $(find $HOME/bases2/p02.old/ -name "i*" | head -n 5) $HOME/bases2/p03/
+mv $(find $HOME/bases2/p02.old/ -name "o*" | head -n 5) $HOME/bases2/p03/
+mv $(find $HOME/bases2/p02.old/ -name "u*" | head -n 5) $HOME/bases2/p03/
+ls | wc
+cd /sesiones
+cd
+cd .sesiones/
+cat 2* > mirar
+less mirar
+cd ..
+ls
+ls -a
+cd .sesiones
+ls
+less 2024-10-23_12-31.vms-k8s.2024.8.sesion_log.sync
+cat 2* > mirar
+less mirar
+exit
+cd .sesiones/
+cat 2* > mirar
+less mirar
+exit
+cd .sesiones/
+grep p03 * | cut -f2 -d:
+man mv
+find $HOME/bases2/p02/ -name "u*" | head -n 5
+ls
+cd .sesiones/
+ls
+cat 2* | less
+exit
+ls
+cd .sesiones/
+ls
+rm mirar.sync
+ls
+cat 2* > mirar
+ls
+less mirar
+poweroff
+exit
+clear
+cd bases2
+ls
+cd p02
+ls
+cd ../p02.old
+ls
+cd ..
+ls
+rm -r p02.old
+ls
+cd
+cd .sesiones/
+ls
+less mirar.sync
+EXIT
+exir
+exit
+ls
+tree 
+mkdir p06
+ls
+rm -r p06
+cd bases2
+mkdir p06
+cd p06
+touch 12holt 12holtcascada.es 12holtcas.com 1holt aholt 3holtcascada.es A ab b docuA docualfa docuvbeta docuvGamma
+ls
+find . -type f -name "[^0-9]"
+find . -type f -name "[^0-9]*"
+find . -type f -name "[0-9]*"
+LS
+ls
+find . -type f -name "[!0-9]*"
+ls |wc
+find . -type f -name "[!0-9]*holt*"
+find . -type f -name "[0-9]*holt*"
+find . -type f -name "[!0-9]*holt*"
+mkdir punto2b
+mv ./aholt punto2b
+ls
+touch aholt
+rm -r punto2b
+ls
+find . -type f -name "[!0-9]*holt*"
+find . -type f -name "[!0-9]*holt*" > ./punto2a
+ls
+cat punto2a
+less aholt
+less punto2a
+echo find . -type f -name "[!0-9]*holt*" >> ./punto2a
+less punto2a 
+find . -type f -name "."
+ls
+find . -type f -name "*.*"
+find . -type f -name "*.*" > punto2b
+echo find . -type f -name "*.*" >> punto2b
+cat punto2b
+find . -type f -regex '.\{4\}[a-z].*'
+ls
+find . -type f -regex '.\{4\}[a-z].*'
+find . -type f -regex '{4\}[a-z].*'
+find . -type f -name '.\{4\}[a-z].*'
+find . -type f -name '{4\}[a-z].*'
+nano ~/Escritorio/Apuntes/comandos.txt
+find . -type f -name './{4/}[a-z].*'
+find . -type f -regex './{4/}[a-z].*'
+find . -type f -regex './{4\}[a-z].*'
+find . -type f -regex '.{4}[a-z].*'
+find . -type f -regex '.[a-z].*'
+find . -type f -name '.[a-z].*'
+find . -type f -regex ".\{4\}[a-z].*"
+ls
+cd /etc
+cd ~/bases2/p06
+clear
+find . -type f -regex ^.\{4\}[a-z].*
+find . -type f -regex ^./{4}[a-z].*
+find . -type f -regex ^.{4}[a-z].*
+find . -type f -regex ^.[a-z].*
+find . -type f -regex ^.4*
+ls
+find . -type f -regex ^.A*
+find . -type f -regex ^.A
+find . -type f -regex ^.*A
+find . -type f -regex ^.*
+find . -type f -regex ^.*4
+find . -type f -regex ^.*
+find . -type f -regex .\{4\}[a-z].*
+find . -type f -regex ./{4\}[a-z].*
+find . -type f -regex ^.*
+find . -type f -regex ^.*a
+find -type f -regex ^.*a
+find . -type f -regex ./
+find . -type f -regex ./*
+find . -type f -regex \./
+find . -type f -regex 
+find . -type f -regex ./*{4\}[a-z].*
+find . -type f -regex ^.*{6}
+find . -type f -regex ^.{6}*
+find . -type f -regex ^.{6}
+find . -type f -regex ^.*{6}*
+find . -type f -name ^.{6}*
+find . -type f -name *{6}*
+find . -type f -regex ^.*{6}
+find . -type f -regex ^.*
+find . -type f -regex a{2}
+find . -type f -name a{2}
+
+find . -type f -regex ^.
+2024.8@vms-k8s:~/bases2/p06$ find . -type f -name "
+
+
+find /ruta/de/busqueda -type f -regex '.\{4\}[a-z].*'
+find . -type f -regex '.\{4\}[a-z].*'
+find . -type f -regex '.\{4\}[a-z].*
+
+
+
+
+
+
+find . -type f -regex '.\{4\}[a-z].*
+find . -type f -regex '.\{4\}[a-z].*'
+find . -type f -regex ".\{4\}[a-z].*"
+find . -type f -regex ".\{4}[a-z].*"
+find . -type f -regex ".\{4\}[a-z].*"
+find . -type  -regex ".\{4\}[a-z].*"
+find . -type f -regex 
+find . -type  -regex .\{4\}[a-z].*
+find . -type f -regex .\{4\}[a-z].*
+find . -regextype -regex .\{4\}[a-z].*
+find . -regextype poxix-egrep -regex .\{4\}[a-z].*
+find . -regextype poxix-egrep -regex ./{6}[a-z].*
+find . -regextype poxix-egrep -regex "./{6}[a-z].*"
+find . -type f -regextype poxix-egrep -regex "./{6}[a-z].*"
+find . -type f -regextype poxix-egrep -regex ^./{6}[a-z].*
+clear
+find . -type f -regextype poxix-egrep -regex ^./{4}[a-z].*
+find . -type f -regextype poxix-egrep -regex "^./{4}[a-z].*"
+find . -type f -regextype posix-egrep -regex "^./{4}[a-z].*"
+find . -type f -regextype posix-egrep -regex "^./.{4}[a-z].*"
+find . -type f -regextype posix-egrep -regex "^./.{4}[a-z].*" > punto2c
+ls
+echo find . -type f -regextype posix-egrep -regex "^./.{4}[a-z].*" >> punto2c
+cat punto2c
+cd /etc
+man find
+find .
+find . | wc
+find . *
+find . * | wc
+ls -R |find . * | wc
+ls -R |find . * 2 > /dev/null | wc
+ls -R |find . * 2 > /dev/null 
+find . * 2 > /dev/null 
+find . * 2> /dev/null 
+find . * 2> /dev/null | wc
+find . * 2> /dev/null > /home/2024.8/bases2/p06/punto3a
+less /home/2024.8/bases2/p06/punto3a
+echo find . * 2> /dev/null > /home/2024.8/bases2/p06/punto3a >> punto3a
+less /home/2024.8/bases2/p06/punto3a
+find . * 2> /dev/null > /home/2024.8/bases2/p06/punto3a
+less /home/2024.8/bases2/p06/punto3a
+less /home/2024.8/bases2/p06/punto2a
+echo "find . *" >> punto3a
+echo "find . *" >> /home/2024.8/bases2/p06/punto3a
+less /home/2024.8/bases2/p06/punto3a
+find . * 2> /dev/null > /home/2024.8/bases2/p06/punto3a
+echo "find . * 2> /dev/null" >> /home/2024.8/bases2/p06/punto3a
+less /home/2024.8/bases2/p06/punto3a
+find . -regextype posix-egrep -regex .{4}
+find . -regextype posix-egrep -regex .{4} 2>/dev/null
+find . -maxdepth 1 -regextype posix-egrep -regex .{4} 2>/dev/null
+find . -maxdepth 1 -regextype posix-egrep -regex .{6} 2>/dev/null
+find . -regextype posix-egrep -regex .{6} 2>/dev/null
+find . -maxdepth 1 -regextype posix-egrep -regex .{6} 2>/dev/null > $HOME/bases2/p06/punto3b
+echo find . -regextype posix-egrep -regex .{6} 2>/dev/null >> $HOME/bases2/p06/punto3b
+cat $HOME/bases2/p06/punto3b
+find . -name "*.conf"
+find . -name "*.conf" 2> /dev/null
+find . -name "*.conf" 2> /dev/null | wc
+find . -regextype posix-egrep -regex $.conf 2> /dev/null | wc
+find . -regextype posix-egrep -regex $\.conf 2> /dev/null | wc
+find . -regextype posix-egrep -regex ".conf$" 2> /dev/null | wc
+find . -regextype posix-egrep -regex ^.*.conf 2> /dev/null | wc
+find . -regextype posix-egrep -regex "^.*.conf" 2> /dev/null | wc
+find . -regextype posix-egrep -regex "^.* .conf" 2> /dev/null | wc
+find . -regextype posix-egrep -regex ^.* .conf 2> /dev/null | wc
+find . -regextype posix-egrep -regex ^.*.conf 2> /dev/null | wc
+find . -name "*.conf" 2> /dev/null | less
+find . -regextype posix-egrep -regex ^.*.conf 2> /dev/null | less
+find . -regextype posix-egrep -regex ^.*.conf 2> /dev/null > $HOME/bases2/p06/configuracion.
+echo find . -regextype posix-egrep -regex ^.*.conf 2> /dev/null >> $HOME/bases2/p06/configuracion.
+less $HOME/bases2/p06/configuracion.
+find . -regextype posix-egrep -regex ^.*.conf 2> /dev/null > $HOME/bases2/p06/configuracion.
+echo find . -regextype posix-egrep -regex ^.*.conf 2>/dev/null >> $HOME/bases2/p06/configuracion.
+less $HOME/bases2/p06/configuracion.
+less $HOME/bases2/p06/punto3b
+less $HOME/bases2/p06/punto3a
+find . -regextype posix-egrep -regex ^.*.conf 2>/dev/null > $HOME/bases2/p06/configuracion.
+echo "find . -regextype posix-egrep -regex ^.*.conf 2>/dev/null" >> $HOME/bases2/p06/configuracion.
+less $HOME/bases2/p06/configuracion.
+less $HOME/bases2/p06/punto3b
+find . -regextype posix-egrep -regex .{6} 2>/dev/null >
+echo "find . -regextype posix-egrep -regex .{6} 2>/dev/null" >> $HOME/bases2/p06/punto3b
+less $HOME/bases2/p06/punto3b
+cd 
+cd bases2/p06
+ls
+mv configuracion. configuracion
+ls
+less configuracion 
+cd
+exit
+clear
+ls
+poweroff
+exit
+ls
+cd bases2
+ls
+cd p06
+ls
+less configuracion 
+cd ..
+head
+ls
+head p06/punto2b
+head -n 3 p06/punto2b
+less /etc/services
+exit
+less /etc/services
+exit
+cd .sesiones/
+ls
+rm 2024-12-02_13-14.vms-k8s.2024.8.sesion_log
+less 2024-12-02_13-10.vms-k8s.2024.8.sesion_log
+cd ../bases2
+ls
+cd ../.sesiones/
+ls
+less 2024-12-02_12-56.vms-k8s.2024.8.sesion_log
+cd ../bases2
+mkdir p07
+ls
+cd p07
+touch server_users_report.txt
+ls
+wc
+less /passwd
+less /etc/passwd
+less /etc/passwd 2a*
+less /etc/passwd "2a*"
+cat /etc/passwd 2a* > less
+cat /etc/passwd 2* > less 
+cat /etc/passwd 2* > mirar
+cd /etc/passwd
+cd /etc
+ls
+less passwd
+cd /bases2/p06
+cd $HOME/bases2/p06
+ls
+less punto3b
+less punto3c
+cd /etc
+cd 
+cd bases2/p07
+ls
+less mirar
+less less
+rm less
+rm mirar
+cat /etc/passwd
+cat /etc/passwd | find . 2*
+cat /etc/passwd | grep "2*"
+cat /etc/passwd | wc
+find /etc/passwd | w
+wc /etc/passwd
+man passwd
+man 5  passwd
+cat /et
+grep bash /etc/passwd
+man 5 passwd
+ls
+grep false. /etc/passwd
+grep false /etc/passwd
+nano server_users_report.txt
+echo --------------------------; echo jhjhj
+echo --------------------------; echo "wc /etc/passwd"
+echo --------------------------; echo $(wc /etc/passwd)
+echo -------------------------- > server_users_report.txt; echo $(wc -l /etc/passwd) > server_users_report.txt; echo $(grep bash /etc/passwd | wc -l) > server_users_report.txt; echo $(grep false /etc/passwd | wc -l) > server_users_report.txt
+less server_users_report.txt
+rm server_users_report.txt
+touch server_users_report.txt
+echo -------------------------- >> server_users_report.txt; echo $(wc -l /etc/passwd) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo $(grep bash /etc/passwd | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo $(grep false /etc/passwd | wc -l) >> server_users_report.txt
+less server_users_report.txt
+rm server_users_report.txt
+touch server_users_report.txt
+echo -------------------------- >> server_users_report.txt; echo Usuarios totales; echo $(wc -l /etc/passwd) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo Usuarios con shell bash; echo $(grep bash /etc/passwd | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo Usuarios con shell false; echo $(grep false /etc/passwd | wc -l) >> server_users_report.txt
+rm server_users_report.txt
+touch server_users_report.txt
+echo -------------------------- >> server_users_report.txt; echo Usuarios totales >> server_users_report.txt; echo $(wc -l /etc/passwd) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo Usuarios con shell bash >> server_users_report.txt; echo $(grep bash /etc/passwd | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo Usuarios con shell false >> server_users_report.txt; echo $(grep false /etc/passwd | wc -l) >> server_users_report.txt
+less server_users_report.txt
+echo -------------------------- >> server_users_report.txt
+echo -------------------------- >> server_users_report.txt; echo Usuarios totales >> server_users_report.txt; echo $(wc -l /etc/passwd) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo Usuarios con shell bash >> server_users_report.txt; echo $(grep bash /etc/passwd | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo Usuarios con shell false >> server_users_report.txt; echo $(grep false /etc/passwd | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt
+rm server_users_report.txt
+echo -------------------------- >> server_users_report.txt; echo Usuarios totales >> server_users_report.txt; echo $(wc -l /etc/passwd) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo Usuarios con shell bash >> server_users_report.txt; echo $(grep bash /etc/passwd | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo Usuarios con shell false >> server_users_report.txt; echo $(grep false /etc/passwd | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt
+less server_users_report.txt
+touch comando
+echo "echo -------------------------- >> server_users_report.txt; echo Usuarios totales >> server_users_report.txt; echo $(wc -l /etc/passwd) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo Usuarios con shell bash >> server_users_report.txt; echo $(grep bash /etc/passwd | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo Usuarios con shell false >> server_users_report.txt; echo $(grep false /etc/passwd | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt" > comando
+less comando 
+rm server_users_report.txt
+ls
+mkdir server_users_report.txt
+rm -r server_users_report.txt
+touch server_users_report.txt
+ls
+clear
+cat /etc/passwd
+ls
+less comando 
+echo -------------------------- >> server_users_report.txt; echo Usuarios totales >> server_users_report.txt; echo $(wc -l /etc/passwd) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo Usuarios con shell bash >> server_users_report.txt; echo $(grep bash /etc/passwd | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo Usuarios con shell false >> server_users_report.txt; echo $(grep false /etc/passwd | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt
+less server_users_report.txt
+nano comando 
+echo "echo -------------------------- >> server_users_report.txt; echo Usuarios totales >> server_users_report.txt; echo '$(wc -l /etc/passwd)' >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo Usuarios con shell bash >> server_users_report.txt; echo '$(grep bash /etc/passwd | wc -l)' >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo Usuarios con shell false >> server_users_report.txt; echo '$(grep false /etc/passwd | wc -l)' >> server_users_report.txt; echo -------------------------- >> server_users_report.txt" > pruebal
+less prueba
+less comando 
+nano comando
+rm comando
+nano
+echo -------------------------- >> server_users_report.txt; echo Usuarios totales >> server_users_report.txt; echo $(wc -l /etc/passwd) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo Usuarios con shell bash >> server_users_report.txt; echo $(grep bash /etc/passwd | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo Usuarios con shell false >> server_users_report.txt; echo $(grep false /etc/passwd | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt
+rm server_users_report.txt
+echo -------------------------- >> server_users_report.txt; echo Usuarios totales >> server_users_report.txt; echo $(wc -l /etc/passwd) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo Usuarios con shell bash >> server_users_report.txt; echo $(grep bash /etc/passwd | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo Usuarios con shell false >> server_users_report.txt; echo $(grep false /etc/passwd | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt
+less server_users_report.txt 
+nano
+cat comando
+exit
+ls
+tree
+cd .sesiones/
+ls
+rm -r mirar.sync
+cat 2* > mirar 
+less mirar
+exit
+ç
+cd bases2
+cd p07
+ls
+less prueba
+rm prueba
+cat comando
+echo -------------------------- >> server_users_report.txt; echo Usuarios totales >> server_users_report.txt; echo $(wc -l /etc/passwd) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo Usuarios con shell bash >> server_users_report.txt; echo $(grep bash /etc/passwd | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo Usuarios con shell false >> server_users_report.txt; echo $(grep false /etc/passwd | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt 
+less server_users_report.txt 
+rm server_users_report.txt 
+cat /etc/passwd
+man 5 passwd
+cat /etc/passwd 2*
+cat 2* /etc/passwd
+cat /etc/passwd | grep 2
+cat /etc/passwd | grep 2024
+man 5 passw
+man 5 passwd
+find /etc/passwd 2024
+find /etc/passwd 2024*
+find /etc/passwd -name "2024*"
+cat /etc/passwd | find -name "2024*"
+cat /etc/passwd | grep '2024'
+man 5 passwd
+man grep
+cd /etc
+cd ~/bases2/p07
+cat /etc/passwd | wc
+cat /etc/passwd | wc -l
+cat comando 
+echo -------------------------- >> server_users_report.txt; echo Usuarios totales >> server_users_report.txt; echo $(cat /etc/passwd | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo Usuarios con shell bash >> server_users_report.txt; echo $(cat /etc/passwd | grep bash | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo Usuarios con shell false >> server_users_report.txt; echo $(cat /etc/passwd | grep false | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt
+rm server_users_report.txt 
+echo -------------------------- >> server_users_report.txt; echo Usuarios totales >> server_users_report.txt; echo $(cat /etc/passwd | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo Usuarios con shell bash >> server_users_report.txt; echo $(cat /etc/passwd | grep bash | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo Usuarios con shell false >> server_users_report.txt; echo $(cat /etc/passwd | grep false | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt
+cat server_users_report.txt 
+nano comando 
+rm comando 
+nano comando
+cat comando 
+cat /etc/passwd | grep /bin/bash
+cat /etc/passwd | grep bash
+cat /etc/passwd 
+su - 2024.2
+man grepç
+man grep
+cat /etc/passwd | grep -E ":*:
+grep -E /etc/passwd -E ":*:"
+grep -E -E ":"
+grep /etc/passwd -E ":*:"
+grep -E /etc/passwd ":*:"
+grep -E /etc/passwd ":/bin/bash"
+egrep /etc/passwd ":/bin/bash"
+grep -E ":/bin/bash" /etc/passwd
+grep -E ":*:" /etc/passwd
+grep -E "^.*:$" /etc/passwd
+ls
+cat comando ç
+cat comando 
+echo -------------------------- >> server_users_report.txt; echo Usuarios totales >> server_users_report.txt; echo $(cat /etc/passwd | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo Usuarios con shell bash >> server_users_report.txt; echo $(cat /etc/passwd | grep bash | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo Usuarios con shell false >> server_users_report.txt; echo $(cat /etc/passwd | grep false | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt
+ls
+rm server_users_report.txt 
+ls
+echo -------------------------- >> server_users_report.txt; echo Usuarios totales >> server_users_report.txt; echo $(cat /etc/passwd | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo Usuarios con shell bash >> server_users_report.txt; echo $(cat /etc/passwd | grep bash | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo Usuarios con shell false >> server_users_report.txt; echo $(cat /etc/passwd | grep false | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt
+cat server_users_report.txt 
+echo -------------------------- >> server_users_report.txt; echo Usuarios totales >> server_users_report.txt; echo $(cat /etc/passwd | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo Usuarios con shell bash >> server_users_report.txt; echo $(cat /etc/passwd | grep bash | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo Usuarios con shell false >> server_users_report.txt; echo $(cat /etc/passwd | grep false | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt
+cat server_users_report.txt 
+echo -------------------------- > server_users_report.txt; echo Usuarios totales >> server_users_report.txt; echo $(cat /etc/passwd | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo Usuarios con shell bash >> server_users_report.txt; echo $(cat /etc/passwd | grep bash | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo Usuarios con shell false >> server_users_report.txt; echo $(cat /etc/passwd | grep false | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txtcat /etc/passwd | grep false | wc -l
+cat server_users_report.txt 
+echo $(cat /etc/passwd)
+cat /etc/passwd | grep false | wc -l
+echo 1
+echo $HOME
+echo $(cat /etc/passwd | grep false | wc -l)
+cat server_users_report.txt 
+echo -------------------------- > server_users_report.txt; echo Usuarios totales >> server_users_report.txt; echo $(cat /etc/passwd | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo Usuarios con shell bash >> server_users_report.txt; echo $(cat /etc/passwd | grep bash | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo Usuarios con shell false >> server_users_report.txt; echo $(cat /etc/passwd | grep false | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt
+rm comando 
+nano comando
+cat comando 
+cat /etc/passwd | cut -f1,5 -d :
+cat comando 
+cat /etc/passwd | cut -f1,5 -d : | sort
+cat /etc/passwd | cut -f5,1 -d : | sort
+cat /etc/passwd | cut -f5,1 -d :
+man sort
+cat /etc/passwd | cut -f5,1 -d : | sort -f1 -d :
+cat /etc/passwd | cut -f5,1 -d : | sort -f1,5 -d :
+cat /etc/passwd | cut -f5,1 -d : | sort -f 1 -d :
+cat /etc/passwd | cut -f5,1 -d : | sort -f -d :
+cat /etc/passwd | cut -f5,1 -d : | sort -f -d 
+cat /etc/passwd | cut -f5,1 -d :
+clear
+cat /etc/passwd | cut -f5,1 -d :
+cat /etc/passwd | cut -f5,1 -d : | grep -E ^.:.
+cat /etc/passwd | cut -f5,1 -d : | egrep ^.:.
+cat /etc/passwd | cut -f5,1 -d : | egrep ^.*:.*
+cat /etc/passwd | cut -f5,1 -d : | egrep /etc/passwd.*:$
+cat /etc/passwd | cut -f5,1 -d : | egrep :$
+cat /etc/passwd | cut -f5,1 -d : | egrep [^:]$
+cat /etc/passwd | cut -f1,5 -d : | egrep [^:]$
+nano 4
+cat comando > server_users_report.txt 
+cat server_users_report.txt 
+echo -------------------------- > server_users_report.txt; echo Usuarios totales >> server_users_report.txt; echo $(cat /etc/passwd | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo Usuarios con shell bash >> server_users_report.txt; echo $(cat /etc/passwd | grep bash | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo Usuarios con shell false >> server_users_report.txt; echo $(cat /etc/passwd | grep false | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt
+cat server_users_report.txt 
+poweroff
+exit
+cd bases2
+ls
+cd p07
+ls
+cat 4
+cat /etc/passwd | cut -f1,5 -d : | egrep [^:]$
+man sort
+cat /etc/passwd | cut -f1,5 -d : | egrep [^:]$ | sort -t ':'
+cat /etc/passwd | cut -f1,5 -d : | egrep [^:]$ | sort
+man sort
+cat /etc/passwd | cut -f1,5 -d : | egrep [^:]$ | sort -t ':'
+cat comando 
+echo -------------------------- > server_users_report.txt; echo Usuarios totales >> server_users_report.txt; echo $(cat /etc/passwd | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo Usuarios con shell bash >> server_users_report.txt; echo $(cat /etc/passwd | grep bash | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo Usuarios con shell false >> server_users_report.txt; echo $(cat /etc/passwd | grep false | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo $(cat /etc/passwd | cut -f1,5 -d : | egrep [^:]$ | sort -t ':') >> server_users_report.txt
+cat server_users_report.txt 
+echo -------------------------- > server_users_report.txt; echo Usuarios totales >> server_users_report.txt; echo $(cat /etc/passwd | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo Usuarios con shell bash >> server_users_report.txt; echo $(cat /etc/passwd | grep bash | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo Usuarios con shell false >> server_users_report.txt; echo $(cat /etc/passwd | grep false | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo $(cat /etc/passwd | cut -f1,5 -d : | egrep [^:]$ | sort -t ':') >> server_users_report.txt; echo -------------------------- >> server_users_report.txt 
+cat server_users_report.txt 
+rm comando 
+nano comando
+cat comando 
+man 5 passwd
+cat /etc/passwd | cut -f4 -d : | egrep [^:]$
+man 5 passwd
+cat /etc/passwd | cut -f3 -d : | egrep [^:]$
+cat /etc/passwd | cut -f3 -d : 
+cat /etc/passwd | cut -f3 -d : | head -n 1
+cat /etc/passwd | cut -f3 -d : | tail -n 1
+cat /etc/passwd
+cat /etc/passwd | cut -f3 -d : | tail -n 1
+cat /etc/passwd | cut -f3 -d : | head -n 1
+cat comando 
+echo -------------------------- > server_users_report.txt; echo Usuarios totales >> server_users_report.txt; echo $(cat /etc/passwd | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo Usuarios con shell bash >> server_users_report.txt; echo $(cat /etc/passwd | grep bash | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo Usuarios con shell false >> server_users_report.txt; echo $(cat /etc/passwd | grep false | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo $(cat /etc/passwd | cut -f1,5 -d : | egrep [^:]$ | sort -t ':') >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo $( cat /etc/passwd | cut -f3 -d : | head -n 1) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo $(cat /etc/passwd | cut -f3 -d : | tail -n 1) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt 
+cat server_users_report.txt 
+time echo -------------------------- > server_users_report.txt; echo Usuarios totales >> server_users_report.txt; echo $(cat /etc/passwd | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo Usuarios con shell bash >> server_users_report.txt; echo $(cat /etc/passwd | grep bash | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo Usuarios con shell false >> server_users_report.txt; echo $(cat /etc/passwd | grep false | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo $(cat /etc/passwd | cut -f1,5 -d : | egrep [^:]$ | sort -t ':') >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo $( cat /etc/passwd | cut -f3 -d : | head -n 1) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo $(cat /etc/passwd | cut -f3 -d : | tail -n 1) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt 
+echo -------------------------- > server_users_report.txt; echo Usuarios totales >> server_users_report.txt; echo $(cat /etc/passwd | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo Usuarios con shell bash >> server_users_report.txt; echo $(cat /etc/passwd | grep bash | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo Usuarios con shell false >> server_users_report.txt; echo $(cat /etc/passwd | grep false | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo $(cat /etc/passwd | cut -f1,5 -d : | egrep [^:]$ | sort -t ':') >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo $( cat /etc/passwd | cut -f3 -d : | head -n 1) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo $(cat /etc/passwd | cut -f3 -d : | tail -n 1) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt 
+rm comando 
+nano comando
+cat  comando
+cat  server_users_report.txt 
+ls
+rm 4
+ls -al /
+ls
+exit
+mkdir ~/bases2/p08
+tree
+cd bases2/p08
+touch respuestas.txt
+nano respuestas.txt 
+cd bases2/p08
+la
+ls
+cat respuestas.txt
+cat respuestas.txt.save
+cat respuestas.txt.save > respuestas.txt
+cat respuestas.txt
+rm respuestas.txt.save
+ls
+clear
+nano respuestas.txt 
+ls
+nano respuestas.txt 
+ls ..
+nano respuestas.txt 
+man cal
+call
+cal
+nano respuestas.txt 
+find /usr/bin -name "2*"
+find /usr/bin -name "j*"
+nano respuestas.txt 
+ls -alF $HOME
+nano respuestas.txt 
+ls -c ../..
+ls -p ../..
+ls -y ../..
+ls -d ../..
+ls -a ../..
+ls -m ../..
+ls -s ../..
+ls -R ../..
+ls -R ../.. | grep j
+ls -R /usr/bin | grep j
+ls /usr/bin | grep j
+ls /usr/bin
+ls -R /usr/bin
+ls /usr/bin | grep j
+nano respuestas.txt 
+ls /usr/bin | grep .
+ls /usr/bin | grep -
+nano respuestas.txt 
+exit
+ls
+cd bases2/p07/
+ls
+cat comando
+less comando
+exit
+cd bases2/p07
+ls
+cat comando 
+echo -------------------------- > server_users_report.txt; echo Usuarios totales >> server_users_report.txt; echo $(cat /etc/passwd | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo Usuarios con shell bash >> server_users_report.txt; echo $(cat /etc/passwd | grep bash | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo Usuarios con shell false >> server_users_report.txt; echo $(cat /etc/passwd | grep false | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo "descripcion de los usuarios comentados" > server_users_report.txt; echo --------------------------; echo $(cat /etc/passwd | cut -f1,5 -d : | egrep [^:]$ | sort -t ':') >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo "ID usuario mayor" >> server_users_report.txt; echo --------------------------; > server_users_report.txt; echo $( cat /etc/passwd | cut -f3 -d : | head -n 1) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo "ID usuario menor" > server_users_report.txt; echo -------------------------- > server_users_report.txt; echo $(cat /etc/passwd | cut -f3 -d : | tail -n 1) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt
+cat server_users_report.txt 
+echo -------------------------- > server_users_report.txt; echo Usuarios totales >> server_users_report.txt; echo $(cat /etc/passwd | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo Usuarios con shell bash >> server_users_report.txt; echo $(cat /etc/passwd | grep bash | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo Usuarios con shell false >> server_users_report.txt; echo $(cat /etc/passwd | grep false | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo "descripcion de los usuarios comentados" > server_users_report.txt; echo --------------------------; echo $(cat /etc/passwd | cut -f1,5 -d : | egrep [^:]$ | sort -t ':') >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo "ID usuario mayor" >> server_users_report.txt; echo --------------------------; >> server_users_report.txt; echo $( cat /etc/passwd | cut -f3 -d : | head -n 1) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo "ID usuario menor" >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo $(cat /etc/passwd | cut -f3 -d : | tail -n 1) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt
+cat server_users_report.txt 
+echo -------------------------- > server_users_report.txt; echo Usuarios totales >> server_users_report.txt; echo $(cat /etc/passwd | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo Usuarios con shell bash >> server_users_report.txt; echo $(cat /etc/passwd | grep bash | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo Usuarios con shell false >> server_users_report.txt; echo $(cat /etc/passwd | grep false | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo "descripcion de los usuarios comentados" >> server_users_report.txt; echo --------------------------; echo $(cat /etc/passwd | cut -f1,5 -d : | egrep [^:]$ | sort -t ':') >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo "ID usuario mayor" >> server_users_report.txt; echo --------------------------; >> server_users_report.txt; echo $( cat /etc/passwd | cut -f3 -d : | head -n 1) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo "ID usuario menor" >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo $(cat /etc/passwd | cut -f3 -d : | tail -n 1) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt
+cat server_users_report.txt 
+echo -------------------------- > server_users_report.txt; echo Usuarios totales >> server_users_report.txt; echo $(cat /etc/passwd | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo Usuarios con shell bash >> server_users_report.txt; echo $(cat /etc/passwd | grep bash | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo Usuarios con shell false >> server_users_report.txt; echo $(cat /etc/passwd | grep false | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo "descripcion de los usuarios comentados" >> server_users_report.txt; echo -------------------------- echo $(cat /etc/passwd | cut -f1,5 -d : | egrep [^:]$ | sort -t ':') >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo "ID usuario mayor" >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo $( cat /etc/passwd | cut -f3 -d : | head -n 1) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo "ID usuario menor" >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo $(cat /etc/passwd | cut -f3 -d : | tail -n 1) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt
+cat server_users_report.txt 
+nano comando 
+rm comando 
+nano comando
+chmod u+x comando 
+./comando 
+ls
+rm server_users_report.txt 
+./comando 
+cat server_users_report.txt 
+echo -------------------------- > server_users_report.txt; echo Usuarios totales >> server_users_report.txt; echo $(cat /etc/passwd | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo Usuarios con shell bash >> server_users_report.txt; echo $(cat /etc/passwd | grep bash | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo Usuarios con shell false >> server_users_report.txt; echo $(cat /etc/passwd | grep false | wc -l) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo "descripcion de los usuarios comentados" >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo $(cat /etc/passwd | cut -f1,5 -d : | egrep [^:]$ | sort -t ':') >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo "ID usuario mayor" >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo $( cat /etc/passwd | cut -f3 -d : | head -n 1) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo "ID usuario menor" >> server_users_report.txt; echo -------------------------- >> server_users_report.txt; echo $(cat /etc/passwd | cut -f3 -d : | tail -n 1) >> server_users_report.txt; echo -------------------------- >> server_users_report.txt
+cat comando 
+cat ser
+cat server_users_report.txt 
+rm comando 
+nano comando
+chmod u+x comando 
+ls
+rm server_users_report.txt 
+./comando 
+ls
+cat server_users_report.txt 
+echo $(cat /etc/passwd | cut -f1,5 -d : | egrep [^:]$ | sort -t ':') >> server_users_report.txt
+echo $(cat /etc/passwd | cut -f1,5 -d : | egrep [^:]$ | sort -t ':')
+./comando 
+cat comando 
+cat server_users_report.txt 
+exit
+cd bases2/p08
+nano respuestas.txt 
+ls -R /etc > etc_archs.txt
+ls
+cat etc_archs.txt 
+man sort
+ls -a /etc/init.d
+ls -a /etc/init.d | sort -h
+mansort
+man sort
+
+ls -ahl /etc/init.d
+man ls
+ls -aSl /etc/init.d
+ls -aShl /etc/init.d
+ls -aS /etc/init.d
+ls -aS /etc/init.d | cat
+ls -aSf5,9 /etc/init.d | cat
+ls -aS /etc/init.d | cat
+nano respuestas.txt 
+mkdir compresor
+man tar
+ls
+cd compresor/1
+cd compresor/
+tar -czvf gzip /bin
+ls
+tar -xzvf gzip
+ls
+less bin
+cd bin
+ls -al
+ls -alF
+tar -czvf gzip2 /bin
+ls
+rm -r bin
+ls
+ls -F
+ls -Fal
+cat gzip
+tar -xzvf gzip
+tar -xzvf gzip2
+ls
+ls -alF
+cd ..
+nano respuestas.txt 
+mv compresor compresor2
+ls
+man mv
+mkdir compresor3
+ls
+cd compresor2
+l
+ls
+mv bin gzip gzip2 ../compresor3
+cd ..
+tree
+ls
+cd 
+cd bases2/p08
+ls -R
+rm -r compresor2
+ls
+cd
+ln ./bases2/p08/ip /bin
+ls -R
+ln /bin ./bases2/p08/ip
+ln /sbin ./bases2/p08/ip
+cd bases2/p08
+nano respuestas.txt 
+cat /etc/fstab
+nano respuestas.txt 
+cat /etc/bash.bashrc
+cat /etc/bash.bashrc >> respuestas.txt 
+cat respuestas.txt 
+nano respuestas.txt 
+cat /etc/bash.bashrc | head -n 10  >> respuestas.txt 
+cat respuestas.txt 
+ls
+exit
+cd bases2/p07
+ls
+cat comando 
+man cut
+nano comando 
+rm server_users_report.txt 
+./comando 
+cat server_users_report.txt 
+nano comando 
+./comando 
+cat server_users_report.txt 
+ls
+cd ../../.sesiones/
+ls
+rm mirar.sync 
+cat 2* > mirar
+less mirar 
+cd
+ls
+cd prueba
+ls
+echo ls > comando
+cat comando 
+chmod x+u comando 
+ls
+chmod u+x comando 
+ls
+comando
+./comando 
+cat comando 
+man chmod
+nano comando 
+./comando 
+ls
+touch a
+mkdir 1
+./comando 
+ls
+cd ..
+ls
+rm -r prueba/
+ls
+ls -R
+clear
+exit
+cd bases2/p07
+ls
+cat server_users_report.txt 
+cat comando 
+ls
+exit
+egrep false$ /etc/passwd
+cd bases2/p07
+ls
+nano comando 
+./comando 
+grep false /etc/passwd
+cat server_users_report.txt 
+nano comando 
+./comando 
+exit
+clear
+cd bases2/p08
+ls
+cat etc_archs.txt 
+cat respuestas.txt 
+exit
+man ps
+ps
+cd bases2
+mkdir p09
+ps
+ps > $HOME/bases2/p09/ejercicio3
+who -A
+who -A 2> $HOME/bases2/p09/ejercicio4.1
+who -A 2> /dev/null 
+cd p09
+ls
+nano ejercicio4.2
+cat ejercicio4.1
+touch fic_existe
+chmod --verbose 600 fic_existe fic_noexiste
+chmod --verbose 600 fic_existe fic_noexiste 1
+chmod --verbose 600 fic_existe fic_noexiste 1>
+chmod --verbose 600 fic_existe fic_noexiste 2>
+chmod --verbose 600 fic_existe fic_noexiste 1> $HOME/bases2/p09/ejercicio5.fd1
+chmod --verbose 600 fic_existe fic_noexiste 2> $HOME/bases2/p09/ejercicio5.fd2
+chmod --verbose 600 fic_existe fic_noexiste > $HOME/bases2/p09/ejercicio5.fd1y2
+cat ejercicio5.fd1y2
+chmod --verbose 600 fic_existe fic_noexiste 2>> $HOME/bases2/p09/ejercicio5.fd1y2
+cat ejercicio5.fd1y2
+ls
+rm ejercicio5.fdy2
+rm ejercicio5.fd1y2
+chmod --verbose 600 fic_existe fic_noexiste 1,2>> $HOME/bases2/p09/ejercicio5.fd1y2
+chmod --verbose 600 fic_existe fic_noexiste 1> $HOME/bases2/p09/ejercicio5.fd1y2; chmod --verbose 600 fic_existe fic_noexiste 2>> $HOME/bases2/p09/ejercicio5.fd1y2
+cat ejercicio5.fd1y2
+chmod --verbose 600 fic_existe fic_noexiste 1,&> $HOME/bases2/p09/ejercicio5.fd1y2
+rm ejercicio5.fd1y2
+chmod --verbose 600 fic_existe fic_noexiste 1,&> $HOME/bases2/p09/ejercicio5.fd1y2
+cat ejercicio5.fd1y2
+ls
+date,who,ls
+date
+echo $(date; who; ls)
+echo $(date; who; ls) > $HOME/bases2/p09/ejercicio6
+cat ejercicio6
+echo $(date; who-A) &> ejercicio7
+ls
+echo $(date; who -A) &> ejercicio7
+echo $(date; who -A)
+ls ejercicio7
+cat ejercicio7
+echo $(date; who -A) &> ejercicio7
+echo $(date; who -A) 2> ejercicio7
+echo $(date; who -A) 
+who -A
+cat ejercicio7
+who -A 2> /dev/null 
+who -A &> /dev/null 
+echo $(who -A) &> /dev/null 
+date 
+echo $(date; who -A) > ejercicio7
+cat ejercicio7
+echo $(date; who -A 2> ejercicio7) > ejercicio7
+cat ejercicio7
+date > ejercicio7; who -A &> ejercicio7
+cat ejercicio7
+date > ejercicio7; who -A &>> ejercicio7
+cat ejercicio7
+cat ejercicio6
+date > ejercicio6; who >> ejercicio6; ls >>ejercicio6
+cat ejercicio6
+ps | less
+ps | grep
+ps
+manps
+man ps
+ps | grep kworker
+ps -e -o
+ps -e -o pid,comm
+ps -o pid,comm
+ps -e
+ps -e | grep kworker
+ps -e -o pid,comm | grep kworker
+ps -e -o pid,comm | grep kworker > ejercicio9
+man ps
+cat /etc/passwd
+cat /etc/passwd | wc
+cat /etc/passwd | tail -n 92
+cat /etc/passwd | tail -n 92 > /dev/null 
+cat /etc/passwd | echo $( tail -n 92 > /dev/null)
+cat /etc/passwd | tail -n 92 > /dev/null 
+head /etc/passwd
+head -n 6  /etc/passwd
+head -n 6 | tail -n 92
+head -n 6 /etc/passwd | tail -n 92
+tail -n 92 /etc/passwd 
+tail -n 92 /etc/passwd | head -n 1
+tail -n 92 /etc/passwd | head -n 1 > ejercicio10
+ls
+cat ejercicio10
+ls
+touch f2 f1 fic1.txt FIC.c Fic.doc fIc.PDF fic
+man grep
+ls | grep fic
+ls | grep -i fic
+ls | grep -i fic > ejercicio10
+man mkdir
+mkdir -p $HOME/bases2/bases_p09/ejercicio12/desempaquetado
+mkdir $HOME/bases2/bases_p09/ejercicio12/empaquetado
+mkdir $HOME/bases2/bases_p09/ejercicio12/comprimido
+ls
+cd ejercicio12
+ls
+cd ..
+ls
+rm -r bases_p09/
+cd p09
+mkdir $HOME/bases2/p09/ejercicio12/comprimido
+mkdir -p $HOME/bases2/p09/ejercicio12/comprimido
+mkdir -p $HOME/bases2/p09/ejercicio12/empaquetado
+mkdir -p $HOME/bases2/p09/ejercicio12/desempaquetado
+ls
+cd ejercicio12/
+ls
+find /usr/bin -name {a,bÇ}*
+find /usr/bin -name {a,b}*
+find /usr/bin -name "a,b*"
+find /usr/bin -name "a*"
+find /usr/bin -name "{a,b}*"
+find /usr/bin -name "{b}*"
+find /usr/bin -name "b*"
+find /usr/bin -name "a,b*"
+find /usr/bin -name "a*"
+find /usr/bin -name "a,b*"
+find /usr/bin -name "ab*"
+find /usr/bin -name "a*,b*"
+find /usr/bin -name "a*b*"
+find /usr/bin -name "a*"
+find /usr/bin -name "(a,b)*"
+find /usr/bin -name "[a,b]*"
+find /usr/bin -name "[a,b]*" | sort 
+find /usr/bin -name "[a,b]*" -exec cp desempaquetado/
+ls
+find /usr/bin -name "[a,b]*" -exec cp {} desempaquetado/
+less ~/.sesiones/mirar 
+find /usr/bin -name "[a,b]*" -xarg -I cp {} desempaquetado/
+less ~/.sesiones/mirar 
+find /usr/bin -name "[a,b]*" -xarsg -I cp {} desempaquetado/
+less ~/.sesiones/mirar 
+find /usr/bin -name "[a,b]*" -xargs -I {} cp {} desempaquetado/
+find /usr/bin -name "[a,b]*" | xargs -I {} cp {} desempaquetado/
+ls
+ls desempaquetado/
+cd desempaquetado/
+ls
+man tar
+ls | tar -cvf ../empaquetado/ejecutablesBIN.tar .
+ls ../empaquetado/
+tar -cvf ../empaquetado/ejecutablesBIN.tar .
+ls ../empaquetado/
+cd ../empaquetado/
+ls
+tar xvf ejecutablesBIN.tar 
+ls
+rm *
+ls
+cd ../desempaquetado/
+ls
+tar -cvf ../empaquetado/ejecutablesBIN.tar .
+ls ../empaquetado/
+cd ../empaquetado/
+tar -cvf ./lista-ejecutableBIN ejecutablesBIN.tar
+ls
+cat lista-ejecutableBIN 
+;75R
+ls
+mv lista-ejecutableBIN "./lista-ejecutablesBIN" 
+ls
+man gzip
+gzip ../comprimido/ejecutablesBIN.tar.gz
+ls ../comq
+ls ../comprimido/
+gzip ../comprimido/ejecutablesBIN.tar .
+man gzip
+gzip ../comprimido/ejecutablesBIN.tar
+ls
+gzip archive
+ls
+touch archive
+gzip archive
+ls
+rm archive.gz 
+touch ../comprimido/ejecutablesBIN.tar
+gzip ../comprimido/ejecutablesBIN.tar 
+touch ../comprimido/ejecutablesBIN.tar
+bzip2 ../comprimido/ejecutablesBIN.tar 
+touch ../comprimido/ejecutablesBIN.tar
+xz ../comprimido/ejecutablesBIN.tar
+ls ../comprimido/
+cd ../..
+ls
+ls -R
+cat * | less
+cat *
+clear
+ls
+cd ..
+ls
+exit
+ls
+cd bases2/p06
+ls
+cat punto3b
+cd ..
+cd p09
+ls
+cd ../../.sesiones/
+ls
+cat 2* > mirar.sync 
+less mir
+less mirar.sync 
+rm mirar.sync 
+ls
+cat 2* | less
+cd
+cd bases2/p09
+ls
+cd ejercicio12/
+ls
+cat desempaquetado/
+cd desempaquetado/
+ls
+ls | wc
+cat ~/.sesiones/ 2* | less
+cd ~/.sesiones/
+cat 2* > mirar
+ls
+less mirar 
+cd
+cd bases2/p09/ejercicio12/
+find /usr/bin -maxdepth 1 -type f -name "[ab]*" | wc
+find /usr/bin -maxdepth 1 -name "[ab]*" | wc
+find /usr/bin -type f -name "[ab]*" | wc
+ls
+rm -r desempaquetado/
+ls
+mkdir desempaquetado
+find /usr/bin -type f -name "[ab]*" -exec cp {} $HOME/bases2/bases_p09/ejercicio12/desempaquetado 
+find /usr/bin -maxdepth 1 -type f -name "[ab]*" -exec cp {} $HOME/bases2/bases_p09/ejercicio12/desempaquetado \;
+ls desempaquetado/
+find /usr/bin -maxdepth 1 -type f -name "[ab]*" -exec cp {} $HOME/bases2/p09/ejercicio12/desempaquetado \;
+find /usr/bin -maxdepth 1 -type f -name "[ab]*" -exec cp {} $HOME/bases2/p09/ejercicio12/desempaquetado \;
+ls desempaquetado | wc
+cd ..
+mv p09 bases_p09
+ls
+cd bases_p09/
+ls
+cd ejercicio12/
+ls
+ls comprimido/
+ls empaquetado/
+less empaquetado/lista-ejecutablesBIN 
+less ~/.sesiones/mirar 
+ls
+rm -r empaquetado/
+mkdir empaquetado
+cd desempaquetado/
+less ~/.sesiones/mirar 
+tar -cvf ../empaquetado/ejecutablesBIN.tar .
+less ~/.sesiones/mirar 
+cd ../empaquetado/
+ls
+tar -cvf ./lista-ejecutableBIN ejecutablesBIN.tar
+ls
+man tar
+less ejecutablesBIN.tar 
+cd ..
+ls
+cd desempaquetado/
+ls
+cd em
+cd ../empaquetado/
+less lista-ejecutableBIN 
+rem lista-ejecutableBIN 
+rm lista-ejecutableBIN 
+cat $(tar -xvf ejecutablesBIN.tar)
+ls
+tar -cvf ejecutables.tar .
+ls
+rm ejecutables.tar
+ls
+find . -name "[ab]*"
+find . -name "[ab]*" -exec rm {} \;
+
+tar -cvf ./lista-ejecutableBIN ejecutablesBIN.tar
+ls
+exit
+cd estudio/
+ls
+cat > prueba
+cat prueba 
+nano ../Escritorio/Apuntes/comandos.txt 
+man grep
+cat ../Escritorio/Apuntes/comandos.txt | grep find
+nano ../Escritorio/Apuntes/comandos.txt 
+nano ../Escritorio/Apuntes/expresiones_regulares.txt
+ls ../Escritorio/Apuntes
+ls
+bzip prueba 
+ls
+man bzip
+bzip2 prueba 
+ls
+cat prueba.bz2 
+bzcat prueba.bz2 
+apropo cat
+apropos cat
+clear
+ls
+cpcat estudio.cpio 
+ccat estudio.cpio 
+chcat estudio.cpio 
+bzip2 estudio.cpio 
+ls
+bzcat estudio.cpio.bz2 
+gzip estudio.cpio.bz2 
+ls
+zcat estudio.cpio.bz2.gz 
+bzip2 estudio.cpio.bz2.gz 
+ls
+man bzip
+man bzip2
+bzip2 -d estudio.cpio.bz2.gz.bz2 
+ls
+gzip -d estudio.cpio.bz2.gz 
+ls
+bzcat estudio.cpio.bz2 
+ls
+bzip2 -d estudio.cpio.bz2 
+ls
+cat estudio.cpio 
+clear
+nano ../Escritorio/Apuntes/comandos.txt 
+ls
+cat estudio.cpio | nl
+less ../Escritorio/Apuntes/comandos.txt 
+nano ../Escritorio/Apuntes/comandos.txt 
+clear
+nano ../Escritorio/Apuntes/comandos.txt 
+man sed
+ls
+bzcat prueba.bz2 
+bzip2 -d prueba.bz2 
+ls
+cat > prueba 
+sed -n /cat/p < prueba 
+man sed
+sed -n /cat/ < prueba 
+sed /cat/p < prueba 
+cat prueba 
+cat > prueba 
+cat prueba 
+sed -n /cut/p < prueba 
+cat prueba 
+sed  /cut/p < prueba 
+cat >> prueba 
+cat prueba 
+sed -n /cat/p < prueba 
+sed /cat/p < prueba 
+sed /cat/d < prueba 
+nano ../Escritorio/Apuntes/comandos.txt 
+sed -n /cat/d < prueba 
+sed s/cat/dog < prueba 
+cat prueba 
+sed s/cat/dog/ < prueba 
+cat prueba 
+sed /dod/cat/s < prueba 
+sed /cat/dog/s < prueba 
+sed /dod/cat/s < prueba 
+sed /dog/cat/s < prueba 
+sed /cat/s/dog/ < prueba 
+sed s/cat/dog/ < prueba 
+sed s/cat/doge/ < prueba 
+nano ../Escritorio/Apuntes/comandos.txt 
+sed s/cat/doge/ < prueba 
+cat prueba 
+man sed
+nano ../Escritorio/Apuntes/comandos.txt 
+man sed
+sed -i.backup s/cat/dog/ prueba 
+ls
+cat prueba.backup 
+cat prueba
+mv prueba sed
+mv prueba.backup sed.backup
+ls
+man sha256sum
+sha256sum sed
+sha256sum sed > sha256.txt
+cat sha256.txt 
+sha256sum -c sha256.txt 
+nano ../Escritorio/Apuntes/comandos.txt 
+mv sed ftu.txt
+mv sed.backup ftu.txt.backup
+ls
+nano ../Escritorio/Apuntes/comandos.txt 
+sha256 ftu.txt.backup > copia
+sudo apt install hashalot
+su - jfuentes
+less /home/
+ls /home/
+su - jffuentes
+ls
+cat copia 
+less copia 
+nano copia 
+sha256 ftu.txt.backup > copia
+cat copia 
+cat ftu.txt.backup 
+sha256 copia
+cat copia 
+man sha566
+man sha556
+man sha256
+sha256
+od
+od ftu.txt
+od -X ftu.txt
+od -x ftu.txt
+ls
+cat estudio.cpio 
+gzip estudio.cpio 
+ls
+less estudio.cpio.gz 
+od -c estudio.cpio.gz 
+gzip -d estudio.cpio.gz 
+ls
+od -c ftu.txt
+od -An -c ftu.txt
+exit
+cd .sesiones/
+l
+ls
+cat 2024-12-08_17-50.vms-k8s.2024.8.sesion_log
+nano 2024-12-08_17-50.vms-k8s.2024.8.sesion_log
+cat 2024-12-08_17-50.vms-k8s.2024.8.sesion_log
+nano 2024-12-08_17-50.vms-k8s.2024.8.sesion_log
+cat 2024-12-08_17-50.vms-k8s.2024.8.sesion_log
+cd ..
+ls
+cd bases2/
+ls
+cd ..
+ls
+mkdir estudio
+cd estudio/
+exit
+/proc/cpuinfo
+cd /proc/cpuinfo
+less /proc/cpuinfo
+grep /proc/cpuinfo processor
+grep processor /proc/cpuinfo
+grep processor /proc/cpuinfo | wc
+sed -n /processor/p < /proc/cpuinfo 
+sed //d < /proc/cpuinfo
+grep bash /etc/passwd
+sed -n /false/p < /etc/passwd
+sed -n /false/p < /etc/passwd | wc
+cat /etc/passwd | wc
+cat /etc/passwd
+grep bash /etc/passwd | cut -d: -f1
+sed /bin/bash/d < /etc/passwd | wc -l
+sed /"/bin/bash"/d < /etc/passwd | wc -l
+sed /bash/d < /etc/passwd | wc -l
+cut -d: -f3 /etc/passwd
+cut -d: -f3 /etc/passwd | sort -u
+man sort
+cut -d: -f3 /etc/passwd | sort -u | wc -l
+cut -d: -f4 /etc/passwd | sort -u | wc -l
+head /etc/passwd
+head -n 1 /etc/passwd
+tail -n 1 /etc/passwd
+head -n 10 /etc/passwd | tail -n 1
+ls
+cd temporal/
+nano mypasswd
+sed -n /1000/p < mypasswd | cut -d: -f4
+sed -n /1000/p < mypasswd | cut -d: -f1,4
+cut -d: -f1,4 | sed -n /1000/p
+cut -d: -f1,4 /etc/passwd | sed -n /1000/p
+cut -d: -f1,4 mypasswd | sed -n /1000/p
+cut  -d: -f1 mypasswd 
+cat mypasswd 
+cut  -d: -f5 mypasswd 
+cut -d: -f1,4 mypasswd | sed -n /1000/p
+cut -d: -f4 mypasswd | sed -n /1000/p
+cut -d: -f4,5 mypasswd | sed -n /1000/p
+cut -d: -f4,5 mypasswd | sed -n /1000/d 
+cut -d: -f4,5 mypasswd | sed  /1000/d 
+cut -d: -f4,5 mypasswd | sed -n /1000/p
+cut -d: -f4,5 mypasswd | sed -n /1000/p | cut -d: -f2
+cut -d: -f4,5 mypasswd | sed -n /1000/p | cut -d: -f2 | cut -d, -f1
+sed -n /:1000:[A-Z]/p mypasswd | cut -d: -f5 | cut -d, -f1
+cut -d: -f5 mypasswd 
+sed -n /Main\ Office/p < mypasswd 
+sed -n /Main\ Office/p < mypasswd | cut -d: -f5 | cut -d, -f1
+man sort
+sed -n /Main\ Office/p < mypasswd | cut -d: -f5 | cut -d, -f1 | sort -R
+sed -n /Main\ Office/p < mypasswd | cut -d: -f5 | cut -d, -f1 | sort -R | head -n 1
+$ sed -n /'Main Office'/p mypasswd | cut -d, -f2 | uniq -c
+$ sed -n /Main\ Office/p mypasswd | cut -d, -f2 | uniq -c
+sed -n /Main\ Office/p mypasswd | cut -d, -f2 
+sed -n /Main\ Office/p mypasswd | cut -d, -f2 | uniq -c
+sed -n /Main\ Office/p mypasswd | cut -d, -f5 
+sed -n /Main\ Office/p mypasswd | cut -d, -f5 | cut -d" " -f1
+sed -n /Main\ Office/p mypasswd | cut -d -f5 
+sed -n /Main\ Office/p mypasswd 
+sed -n /Main\ Office/p mypasswd | cut -d: -f5 | cut -d" " -f1
+sed -n /Main\ Office/p mypasswd | cut -d: -f5 | cut -d, -f1
+sed -n /Main\ Office/p mypasswd | cut -d: -f5 | cut -d" " -f1
+sed -n /Main\ Office/p mypasswd | cut -d: -f5 | cut -d" " -f1 > firstname
+sed -n /Main\ Office/p mypasswd | cut -d: -f5 | cut -d" " -f2 > lastname
+sed -n /Main\ Office/p mypasswd | cut -d: -f5 | cut -d, -f2 > department
+man paste
+paste firstname lastname department | tr '\t' ,
+paste firstname lastname department 
+paste firstname lastname department | tr '\t' ,
+paste firstname lastname department | tr '\t' , > names.csv
+ls
+cat names.csv 
+md2sum names.csv 
+md5sum names.csv 
+sed -i.backup s/James/Jones/ names.csv 
+md5sum names.csv 
+md5sum names.csv.backup 
+wget https://www.gutenberg.org/files/50461/50461-0.txt
+ls
+less 50461-0.txt 
+split -l 100 -d 50461-0.txt melville
+ls
+rm m*
+ls
+mkdir 50461-0.txt
+mkdir 50461-0
+ls
+mv 50461-0.txt 50461-0
+ls
+cd 50461-0/
+split -l 100 -d 50461-0.txt melville
+ls
+cd ..
+ls -l /etc
+ls -l /etc | cut -d" " -f9
+ls -l /etc | cut -d" " -f10
+ls -l /etc
+ls -l /etc | cut -d" " -f1
+ls -l /etc | cut -d" " -f2
+ls -l /etc | cut -d" " -f3
+ls -l /etc | cut -d" " -f6
+ls -l /etc | cut -d" " -f7
+ls -l /etc | cut -d" " -f8
+ls -l /etc | cut -d" " -f9
+ls -l /etc | cut -d" " -f11
+ls -l /etc | cut -d" " -f12
+ls -l /etc | cut -d" " -f15
+ls -l /etc | cut -d" " -f20
+ls -l /etc
+ls -l /etc | tr -s ' ' ,
+ls -l /etc | tr -s ' ' , | cut -d, -f9
+ls -l /etc | tr -s ' ' ,
+ls -l /etc | tr -s ' ' , | cut -d, -f9
+ls -l /etc | tr -s ' ' , | cut -d, -f9,3
+tail -f /var/log/syslog 
+tail -f /var/log/syslog  | grep -1
+tail -f /var/log/syslog  | grep -i
+exit
+ls
+cd temporal/
+ls
+echo ola 1>&2
+man tee
+exit
+ls
+echo no hay cobertura continuo mas tarde
+exit
+exit
+cd bases2/
+cd p09
+cd p9
+cd p8
+ls
+cd p07
+ls
+cat comando 
+rm server_users_report.txt 
+ls
+./comando 
+ls
+cat server_users_report.txt 
+man sort
+sort -t ":" -f2server_users_report.txt 
+sort -t ":" -f2 server_users_report.txt 
+sort -t ":" -f server_users_report.txt 
+sort -t ":" server_users_report.txt 
+sort -t ":" -k2 server_users_report.txt 
+ls
+cat comando 
+echo -------------------------- > server_users_report.txt;
+echo Usuarios totales >> server_users_report.txt;
+echo $(cat /etc/passwd | wc -l) >> server_users_report.txt;
+echo -------------------------- >> server_users_report.txt;
+echo Usuarios con shell bash >> server_users_report.txt; 
+echo $(cat /etc/passwd | grep bash | wc -l) >> server_users_report.txt; 
+echo -------------------------- >> server_users_report.txt; 
+echo Usuarios con shell false >> server_users_report.txt; 
+echo $(cat /etc/passwd | grep false | wc -l) >> server_users_report.txt; 
+echo -------------------------- >> server_users_report.txt;
+cat /etc/passwd | cut -f1,5 -d : | egrep [^:]$ | sort -t ':' >> server_users_report.txt; 
+echo -------------------------- >> server_users_report.txt; 
+echo "ID usuario mayor" >> server_users_report.txt;  
+echo $( cat /etc/passwd | cut -f3 -d : | head -n 1) >> server_users_report.txt; 
+echo -------------------------- >> server_users_report.txt; 
+echo "ID usuario menor" >> server_users_report.txt;  
+echo $(cat /etc/passwd | cut -f3 -d : | tail -n 1) >> server_users_report.txt; 
+echo -------------------------- >> server_users_report.txt
+./comando 
+nano comando 
+ls
+cat server_users_report.txt 
+./comando 
+cat server_users_report.txt 
+nano comando2
+chmod u+x comando2
+ls
+./comando2
+comando2
+ls
+rm comando2
+ls
+./comando 
+exit
+ping 192.168.50.70
+clear
+ls
+mkdir -p bases2/bases_p10/ejercicio1
+ls
+cd bases2/bases_p10/ejercicio1/
+ls
+figlet q
+touch bd.class.php
+header.inc.php
+install.txt
+readme.txt
+prueba
+index.php
+mail.class.php
+ls
+rm *
+touch bd.class.php header.inc.php install.txt readme.txt prueba index.php mail.class.php
+ls
+ls -1
+ls -1 | egrep .php$
+ls -1 | egrep .php$ > operacion_1_ls-grep
+ls
+ls -1 | egrep ^.e.* > operacion_2_ls-grep
+cat operacion_
+cat operacion_2_ls-grep 
+ls -1 | egrep ^[a-e]
+ls -1 | egrep ^[a-e] > operacion_3_ls-grep
+cat operacion_3_ls-grep 
+ls -1 | egrep ^[^aeiou]
+ls -1 | egrep ^[aeiou]
+ls -1 | egrep ^[^aeiou] > operacion_4_ls-grep
+ls -1 | egrep [^.php]$
+ls -1 | egrep [^.php]$ > operacion_5_ls-grep
+ls -1 | egrep [^.php,.txt]$
+ls -1 | egrep [^.php,.txt]$ > operacion_6_ls-grep
+ls
+ls -1
+ls -1 | egrep [^.php,.txt]$
+ls -1 | egrep ^[^.php,.txt]$
+ls -1 | egrep [^.php,.txt]$
+ls | egrep [^.php,.txt]$
+ls -1 | egrep [^.php]$
+ls | egrep [^.php,.txt]$
+ls | egrep p$
+man grep
+ls | egrep -v [.php,.txt]$
+ls | egrep -v [.php | .txt]$
+ls | egrep -v [.php |.txt]$
+ls | egrep -v [.php|.txt]$
+ls | egrep -v [.php| .txt]$
+ls | egrep -v [.php,.txt]$
+ls | egrep -v [.php]$
+ls
+ls | egrep -v [.php]$
+ls -la
+touch operacion_7_ls-grep
+ls | egrep -v [.php]$
+ls
+ls -1 | egrep -v [.php]$
+ls -1 | egrep -v .php$
+ls -1 | egrep -v .php|.txt$
+ls -1 | egrep -v (.php)$
+ls -1 | egrep -v .php$
+ls -1 | egrep -v .php,.txt$
+ls -1 | egrep -v .php$
+ls -1 | egrep -v .php$ | egrep -v .txt$
+ls -1 | egrep -v '(.php|.txt)'$
+rm operacion_7_ls-grep 
+ls -1 | egrep -v '(.php|.txt)'$ > operacion_6_ls-grep
+cat operacion_5_ls-grep 
+ls -1 | egrep -v .php$ > operacion_5_ls-grep
+cat operacion_5_ls-grep 
+nano operacion_5_ls-grep 
+ls
+find . -name *.php
+find . -name *(.php)
+find . -name *".php"
+find . -name "*.php"
+ls -1
+find . -name "*.php" | cut -d/ -f2
+find . -name "*.php" | cut -d/ -f2 > operacion_1_find
+find . -regextype posix-extended -regex ^.e.*
+find . -regextype posix-egrep -regex ^.e.*
+find . -regextype posix-egrep -regex "^.e.*"
+find . -regextype posix-egrep -regex ^.e.*
+find . -regextype posix-egrep -regex ^.{3}e.*
+find . -regextype posix-egrep -regex ^.{3}e.* | cut -d/ -f2
+find . -regextype posix-egrep -regex ^.{3}e.* | cut -d/ -f2 > operacion_2_find
+find . -regextype posix.egrep .php$ | cut -d/ -f2
+find . -regextype posix.egrep -regex .php$ | cut -d/ -f2
+find . -regextype posix-egrep -regex .php$ | cut -d/ -f2
+find . -regextype posix-egrep -regex .php$
+find . -regextype posix-egrep -regex *.php$
+ls
+find . -regextype posix-egrep -regex .php$
+find . -regextype posix-egrep -regex .*php$
+find . -regextype posix-egrep -regex .*php$ | cut -d/ -f2
+find . -regextype posix-egrep -regex .*php$ | cut -d/ -f2 > operacion_1_find 
+cat operacion_1_find 
+find . -regextype posix-egrep -regex ^[a-e]
+find . -regextype posix-egrep -regex ^[a-e].*
+nano operacion_1_ls-grep 
+nano operacion_2_ls-grep 
+nano operacion_3_ls-grep 
+nano operacion_2_ls-grep 
+nano operacion_3_ls-grep 
+nano operacion_4_ls-grep 
+ls -1 | egrep -v ^aeiou
+ls -1 | egrep -v ^aeiou.*
+ls -1 | egrep -v ^aeiou.* > operacion_4_ls-grep 
+nano operacion_4_ls-grep 
+nano operacion_5_ls-grep 
+nano operacion_4_ls-grep 
+nano operacion_6_ls-grep 
+nano operacion_1_find 
+find . -regextype posix-egrep -regex php$ | cut -d/ -f2
+find . -regextype posix-egrep -regex .*php$ | cut -d/ -f2
+nano operacion_1_find 
+ls
+find . -regextype posix-egrep -regex ^[a-e].*
+find . -regextype posix-egrep -regex ^a.*
+find . -regextype posix-egrep -regex ^a-e.*
+find . -regextype posix-egrep -regex ^.*
+find . -regextype posix-egrep -regex ^{3}[a-e].*
+find . -regextype posix-egrep -regex ^.{3}[a-e].*
+find . -regextype posix-egrep -regex ^.{2}[a-e].*
+find . -regextype posix-egrep -regex ^.{2}[a-e].* | cut -d/ -f2
+find . -regextype posix-egrep -regex ^.{2}[a-e].* | cut -d/ -f2 > operacion_3_find
+cat operacion_2_find 
+find . -regextype posix-egrep -regex ^.{3}e.* | cut -d/ -f2
+nano operacion_2_find 
+nano operacion_3_find 
+find . -regextype posix-egrep -regex ^.{2}[^aeiou] | cut -d/ -f2
+find . -regextype posix-egrep -regex ^.{2}[^aeiou].* | cut -d/ -f2
+find . -regextype posix-egrep -regex ^.{2}[^aeiou].* | cut -d/ -f2 > operacion_4_find
+nano operacion_4_find 
+find . -regextype posix-egrep -regex *.[^php] | cut -d/ -f2
+find . -regextype posix-egrep -regex *.[^php]$ | cut -d/ -f2
+find . -regextype posix-egrep -regex | cut -d/ -f2
+find . -regextype posix-egrep -regex ^.{2}[^aeiou].* | cut -d/ -f2
+find . -regextype posix-egrep -regex *.[^php]$ | cut -d/ -f2
+find . -regextype posix-egrep -regex php$ | cut -d/ -f2
+find . -regextype posix-egrep -regex php$
+find . -regextype posix-egrep -regex *.php$
+nano anotacion
+exit
+cd bases2/p10
+cd
+cd bases2/
+ls
+cd bases_p10
+ls
+cd ejercicio1/
+ls
+less anotacion 
+find . -regextype posix-egrep -regex *.php$
+find . -regextype posix-egrep -regex .*php$
+find . -regextype posix-egrep -regex [^.*php]$
+find . -regextype posix-egrep -regex [^.*php$]
+find . -regextype posix-egrep -regex .*[^php]$
+
+rm anotacion 
+find . -regextype posix-egrep -regex [^'(php|txt)']$
+find . -regextype posix-egrep -regex [^'(php|txt)']
+ls
+find . -regextype posix-egrep -regex '(php|txt)'
+find . -regextype posix-egrep -regex .*'(php|txt)'
+find . -regextype posix-egrep -regex '(php|txt)'
+find . -regextype posix-egrep -regex [^'(php|txt)']
+find . -regextype posix-egrep -regex .*[^'(php|txt)']$
+find . -regextype posix-egrep -regex .*[^'(php|txt)']$ > operacion_6_find
+ls
+ls -1
+wget asir.sudo.es/docnux/php.ini.txt
+ls
+cat php.ini.txt 
+nano operacion_6_find 
+nano operacion_5_find 
+egrep ^myql.*
+egrep ^myql.* php.ini.txt 
+cat php.ini.txt 
+egrep ^myql.* php.ini.txt 
+egrep ^mysql.* php.ini.txt 
+egrep ^mysql.* php.
+nano operacion_1_grep 
+egrep .*On$ php.ini.txt 
+egrep .*On$ php.ini.txt > operacion_2_grep
+nano operacion_2_grep
+egrep ^[^;].*On$ php.ini.txt 
+egrep ^[^\;].*On$ php.ini.txt 
+echo egrep ^[^\;].*On$ php.ini.txt 
+echo egrep ^[^\;].*On$ php.ini.txt > operacion_3_grep
+egrep ^[^\;].*On$ php.ini.txt >> operacion_3_grep
+cat operacion_3_grep 
+man grep
+egrep -i .*On$
+egrep -i .*On$ php.ini.txt 
+echo egrep -i .*On$ php.ini.txt > operacion_4_grep
+egrep -i .*On$ php.ini.txt >> operacion_4_grep
+cat /etc/profile
+cat /etc/profile > profile_copy
+cat profile_copy 
+nl profile_copy 
+nl profile_copy | sed s/ /""/
+nl profile_copy | sed s/" "/""/
+nl profile_copy | sed s/" "*/""/
+nl profile_copy | sed s/a/b/
+nl profile_copy | sed s/" "{2}/""/
+nl profile_copy | sed s/" "*/""/
+nl profile_copy | sed s/" ".*/""/
+nl profile_copy | sed s/" "*/""/
+nl profile_copy | sed s/" "/""/
+nl profile_copy | sed s/" "*/""/
+echo nl profile_copy | sed s/" "*/""/ > ejercicio_profile
+nl profile_copy | sed s/" "*/""/ >> ejercicio_profile
+nano fechas_curs.txt
+sed '/^[0-9]/s/\(.*\)/<date>\1<\/date>/' fechas_curs.txt
+cat fechas_curs.txt 
+echo sed '/^[0-9]/s/\(.*\)/<date>\1<\/date>/' fechas_curs.txt >> fechas_curs.txt 
+sed '/^[0-9]/s/\(.*\)/<date>\1<\/date>/' fechas_curs.txt >> fechas_curs.txt 
+cat fechas_curs.txt 
+ls -1
+cd 
+cd .sesiones/
+ls
+exit
+exit
+ls
+exit
+cd /etc/skel
+ls
+cd
+ls
+cd /etc/skel
+ls -al
+cat /etc/login.defs 
+exit
+ls
+exit

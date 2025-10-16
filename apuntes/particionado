@@ -1,0 +1,15 @@
+-parted comandazo
+-fdisk
+-cfdisk despues de crear la particion hay que darle a write
+-gdisk
+-mkfs.ext4 /dev/xvdb1 para crear un sistema de ficheros en una particion
+	para poder usar el sistema de ficheros hay que anclar el disco a un 
+	directorio del sistema principal
+-mount /dev/xvdb1 /export/
+	-umount /export/
+	-/etc/fstab buscar el id de la particion y pegarlo en la tercera linea,
+	 despues copiar los parametros de la primera linea cambiando el direccionamineto
+-df (ver los sistemas de ficheros y donde estan montados)
+
+-para anclar un sistema de fichero de forma automatica
+-blkid para saber la id de las particiones

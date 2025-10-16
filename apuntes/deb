@@ -1,0 +1,40 @@
+clear
+groupadd ardirec -p ardirec
+groupadd aradmin -p aradmin
+groupadd deperso -p deperso
+groupadd definan -p definan
+groupadd arcomer -p arcomer
+groupadd deaprov -p deaprov
+groupadd depedid -p depedid
+groupadd depostv -p depostv
+groupadd C-A-C -p C-A-C
+ureradd gerente -m -s /bin/bash -u 1002 -G ardirec,aradmin,deperso,definan,arcomer,deaprov,depedid,depostv,C-A-C -p gerente
+useradd gerente -m -s /bin/bash -u 1002 -G ardirec,aradmin,deperso,definan,arcomer,deaprov,depedid,depostv,C-A-C -p gerente
+useradd adjunto -m -s /bin/bash -u 1003 -G ardirec,aradmin,deperso,definan,arcomer,deaprov,depedid,depostv,C-A-C -p adjunto
+ls /home/
+useradd jefe-personal -m -s /usr/bin/nano -u 2001 -G aradmin,deperso -p jefe-personal
+useradd empleado1 -m -s /usr/bin/nologin -u 2002 -G deperso -p palabra
+ls /home/
+less /etc/passwd
+less /etc/passwd | grep emplead
+useradd empleado2 -m -u 2003 -G deperso -p palabra
+less /etc/passwd | grep emplead
+userdel empleado2
+less /etc/passwd | grep emplead
+useradd empleado2 -m -s nologin -u 2003 -G deperso -p palabra
+useradd empleado2 -m -s /usr/bin/nologin -u 2003 -G deperso -p palabra
+userdel -r empleado2
+less /etc/passwd | grep emplead
+useradd empleado2 -m -s /usr/bin/nologin -u 2003 -G deperso -p palabra
+less /etc/passwd | grep emplead
+useradd empleado3 -m -s /usr/bin/nologin -u 2004 -G deperso -p palabra
+less /etc/passwd | grep emplead
+man usermod
+usermod -l empleado-perso1 empleado1 -u 3001
+less /etc/passwd | grep emplead
+usermod -l empleado-perso2 empleado2 -u 3002 -g 3002
+usermod -l empleado-perso2 empleado2 -u 3002
+less /etc/passwd | grep emplead
+usermod -l empleado-perso3 empleado3 -u 3003
+ls
+exit
