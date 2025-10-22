@@ -1,0 +1,19 @@
+#!/bin/bash
+buscaf ()
+{
+while ! ( find "/tmp/2024.8.flag" 2>/dev/null ); do
+        sleep 2;
+        echo "no se encuentra el fichero"
+done;
+}
+
+
+while [ -z $CAPTURA ]; do
+	read -p "TECLEA ACCION (B->GO) ->" CAPTURA;
+done;
+
+[[ "$CAPTURA" != "B" ]] && exit;
+
+buscaf;
+
+exit;
