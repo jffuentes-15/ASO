@@ -1,0 +1,16 @@
+#!/bin/bash
+
+for i in $@; do
+
+	if [[ $i =~ ^/ ]]; then
+
+		if [[ -f $i && "ASCII text" == $(file -b $i) ]]; then
+			cat $i
+		else
+			echo "El fichero tiene que ser un archivo regular que solo contenga texto";
+		fi
+
+	else
+		echo "el valor tiene que ser una ruta absoluta"
+	fi
+done
