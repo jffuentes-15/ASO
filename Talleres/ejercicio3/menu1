@@ -1,0 +1,52 @@
+#!/bin/bash
+
+PS3="Elige un numero==>"
+opt1="Borra la pantalla";
+opt2="Lista el contenido del directorio actual";
+opt3="Identifica al usuario actual";
+opt4="Lista el contenido del directorio HOME del usuario actual";
+opt5="Salir"
+
+clear;
+
+select opt in "$opt1" "$opt2" "$opt3" "$opt4" "$opt5" ; do
+
+	if [[
+		"$opt" != "$opt1" &&
+		"$opt" != "$opt2" &&
+		"$opt" != "$opt3" &&
+		"$opt" != "$opt4" &&
+		"$opt" != "$opt5"
+
+	]]; then
+		echo "elige una opcion valida"
+	fi
+
+	case $opt in		# $REPLY hace que en vez de $opt y las dif opciones puedas poner directamente 1 2 3 4 en las opciones del case
+
+		$opt1)
+			clear;
+		;;
+
+		$opt2)
+                       ls -l .;
+                ;;
+
+		$opt3)
+                        echo "El usuario actual es $USER";
+                ;;
+
+		$opt4)
+                       echo "El HOME del usuario $USER es:"
+			ls -l /home/$USER;
+                ;;
+
+		$opt5)
+                        exit;
+                ;;
+
+
+	esac
+
+
+done
