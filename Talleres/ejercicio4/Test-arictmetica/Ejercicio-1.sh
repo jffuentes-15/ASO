@@ -14,5 +14,8 @@ echo "Verificando si /etc/hosts se puede acceder en modo lectura:" $?;
 [[ -x /etc/hosts ]];
 echo "Verificando si /etc/hosts se puede acceder en modo ejecucion:" $?;
 
-[[ -d /prueba && -r /prueba ]];
+[[ -d /usr && -x /usr ]];
 echo "Verificando si el archivo /usr es un directorio y si se puede atravesar:" $?;
+
+! [[ -f /dev/null && -d /dev/null ]];
+echo "Verificando si /dev/null es un archivo especial de dispositivo:" $?;
