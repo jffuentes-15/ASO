@@ -1,0 +1,9 @@
+jobs
+top
+
+fg traerte un proceso a primer plano
+
+Ctrl Z pausarlo
+Ctrl c detenerlo por completo
+
+bg mandarlo a background
