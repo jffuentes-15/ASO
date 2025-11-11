@@ -20,12 +20,12 @@ DESCRIPTION:
 
 ===================================================================================
 
-	palabra_reservada: 
+	palabra_reservada:
 	[case | do | done | elif | else | esac | fi | for | function | if | in | select | then | until | while | time]
 
 EXAMPLE:
-        $0 -verbose if
-	$0 do
+        $0 -verbose [palabra_reservada]
+	$0 [palabra_reservada]
 EOF
 exit;
 }
