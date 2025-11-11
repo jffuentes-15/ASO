@@ -64,7 +64,7 @@ FILES=( $(find $1 -type f -printf "%f\n" 2>/dev/null) );
 for FILE in "${FILES[@]}"; do
 	l1=${#FILE};
 	unset FILE_ESP;
-	for (( i=l2; i >=0; i-- )); do
+	for (( i=l1; i >=0; i-- )); do
 		FILE_ESP+="${FILE:$i:1}";
 	done;
 		echo "$FILE:$FILE_ESP" >> /var/tmp/$USER.mirror1;
