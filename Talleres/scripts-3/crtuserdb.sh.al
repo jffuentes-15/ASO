@@ -46,9 +46,9 @@ for u in $(cat $F_USUARIOS); do
 # campo4 ------------------------
 	group_check=$(grep -w ${u} $F_GRUPOS|cut -f2 -d":");
 	if [ "$(cut -f1 -d':' /etc/group | grep -w ${group_check})" ]; then
-		campo4=$(cut -d":" -f1 /etc/group | grep -w ${group_check} | cut -f2 -d ':');
+		campo4=$(cut -d":" -f1,3 /etc/group | grep -w ${group_check}|cut -f2 -d":");
 	else
-		campo4=$(cut -d":" -f1,3 /etc/group | grep -w staff | cut -f2 -d ':');
+		campo4=$(cut -f1,3 -d':' /etc/group | grep -w staff | cut -f2 -d ':');
 	fi;
 # campo6 ------------------------
 	campo6="/home/${u}";
