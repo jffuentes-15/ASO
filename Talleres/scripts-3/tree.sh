@@ -2,7 +2,10 @@
 
 function ERROR() {
 cat << EOF
-ESTA MALL
+ESTA MALL.
+¿en que?
+EN ALGOO
+ESTA MALLL
 EOF
 
 exit;
@@ -38,6 +41,12 @@ if [[ $1 != -f ]]; then
 		ERROR;
 	fi
 
+	if ! [[ -z $2 ]]; then
+                echo "introduce solo un parametro";
+                ERROR;
+        fi
+
+
 	if ! [[ $1 = /* && -d $1 ]]; then
 		echo "$1 no es un direccionamiento absoluto o no existe";
 		ERROR;
@@ -45,10 +54,6 @@ if [[ $1 != -f ]]; then
 		TREE $1;
 	fi
 
-	if ! [[ -z $2 ]]; then
-		echo "introduce solo un parametro";
-		ERROR;
-	fi
 else
 	if [[ -z $2 ]]; then
 		echo "Parametros insuficientes";
